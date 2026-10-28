@@ -51,6 +51,6 @@
   {"start": "2026-10-28T09:00:00-04:00", "end": "2026-10-28T09:50:00-04:00", "code": "TST 103", "title": "Test Reservation 3", "who": "Test Person"},
   {"start": "2026-10-28T10:00:00-04:00", "end": "2026-10-28T11:30:00-04:00", "code": "TST 104", "title": "Test Reservation 4", "who": "Test Person"},
   {"start": "2026-10-28T20:00:00-04:00", "end": "2026-10-28T20:50:00-04:00", "code": "", "title": "Test Reservation 5", "who": "Test Club"},
-  {"start": "2026-10-28T21:00:00-04:00", "end": "2026-10-28T21:50:00-04:00", "code": "", "title": "Test Reservation 1", "who": "testing user"},
+  {"start": "2026-10-28T21:00:00-04:00", "end": "2026-10-28T21:50:00-04:00", "code": "", "title": "Test Reservation 1", "who": "testing user"}
  ]
 }
