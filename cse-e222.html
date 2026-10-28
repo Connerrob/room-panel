@@ -9,6 +9,9 @@
       href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap"
     />
     <style>
+      [hidden] {
+        display: none !important;
+      }
       :root {
         --bg: #0f1418;
         --panel: #161d23;
@@ -24,7 +27,6 @@
         --body: "Barlow", "Helvetica Neue", Arial, sans-serif;
         color-scheme: dark;
       }
-
       * {
         box-sizing: border-box;
       }
@@ -43,14 +45,69 @@
         -webkit-user-select: none;
         user-select: none;
       }
-      .sign {
+      .stage {
         position: absolute;
         top: 0;
         left: 0;
         width: 1280px;
         height: 800px;
         transform-origin: 0 0;
-        padding: 24px;
+        padding: 18px 24px 24px;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+      }
+
+      /* Room tabs */
+      .tabs {
+        display: flex;
+        gap: 8px;
+        flex: none;
+      }
+      .tab {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        height: 52px;
+        border-radius: 6px;
+        border: 1px solid var(--line);
+        background: var(--panel);
+        color: var(--muted);
+        font-family: var(--display);
+        font-weight: 600;
+        font-size: 24px;
+        letter-spacing: 0.02em;
+        cursor: none;
+        padding: 0 12px;
+      }
+      .tab.on {
+        background: #22303a;
+        color: var(--fg);
+        border-color: #3a4a56;
+        box-shadow: inset 0 -3px 0 var(--uf);
+      }
+      .dot {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        background: var(--off);
+        flex: none;
+      }
+      .dot.free {
+        background: var(--free);
+      }
+      .dot.busy {
+        background: var(--busy);
+      }
+      .dot.soon {
+        background: var(--soon);
+      }
+
+      .sign {
+        flex: 1;
+        min-height: 0;
         display: grid;
         grid-template-columns: 1fr 1.25fr;
         gap: 24px;
@@ -94,16 +151,13 @@
         margin-top: 4px;
       }
       .state {
-        flex: none;
         border-radius: 6px;
         padding: 22px 28px;
         display: flex;
         flex-direction: column;
-        justify-content: center;
         gap: 8px;
         background: var(--free);
         color: #06140d;
-        min-height: 0;
         transition: background-color 0.6s;
       }
       .state.busy {
@@ -159,7 +213,9 @@
         color: var(--muted);
         font-size: 17px;
       }
+
       .schedule {
+        position: relative;
         background: var(--panel);
         border: 1px solid var(--line);
         border-radius: 6px;
@@ -197,7 +253,7 @@
         overscroll-behavior: contain;
         touch-action: pan-y;
         scrollbar-width: thin;
-        scrollbar-color: var(--line) transparent;
+        scrollbar-color: #3a4752 transparent;
       }
       ol::-webkit-scrollbar {
         width: 6px;
@@ -205,27 +261,6 @@
       ol::-webkit-scrollbar-thumb {
         background: #3a4752;
         border-radius: 3px;
-      }
-      .schedule {
-        position: relative;
-      }
-      .more {
-        position: absolute;
-        left: 1px;
-        right: 1px;
-        bottom: 30px;
-        height: 64px;
-        display: flex;
-        align-items: flex-end;
-        justify-content: center;
-        padding-bottom: 6px;
-        background: linear-gradient(rgba(22, 29, 35, 0), var(--panel) 80%);
-        color: var(--muted);
-        font-size: 14px;
-        font-weight: 600;
-        letter-spacing: 0.06em;
-        text-transform: uppercase;
-        pointer-events: none;
       }
       li {
         display: grid;
@@ -286,6 +321,24 @@
         color: var(--muted);
         font-size: 18px;
       }
+      .more {
+        position: absolute;
+        left: 1px;
+        right: 1px;
+        bottom: 30px;
+        height: 64px;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        padding-bottom: 6px;
+        background: linear-gradient(rgba(22, 29, 35, 0), var(--panel) 80%);
+        color: var(--muted);
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        pointer-events: none;
+      }
       .foot {
         padding: 10px 22px 4px;
         color: var(--muted);
@@ -294,80 +347,93 @@
     </style>
   </head>
   <body>
-    <main class="sign">
-      <section class="status">
-        <div class="room-head">
-          <div>
-            <div class="room-code" id="room">&nbsp;</div>
-            <div class="room-sub" id="sub"></div>
+    <div class="stage">
+      <nav class="tabs" id="tabs"></nav>
+      <main class="sign">
+        <section class="status">
+          <div class="room-head">
+            <div>
+              <div class="room-code" id="room">&nbsp;</div>
+              <div class="room-sub" id="sub"></div>
+            </div>
+            <div class="clock">
+              <div class="clock-time" id="clock-time"></div>
+              <div class="clock-date" id="clock-date"></div>
+            </div>
           </div>
-          <div class="clock">
-            <div class="clock-time" id="clock-time"></div>
-            <div class="clock-date" id="clock-date"></div>
+          <div class="state off" id="state">
+            <div class="state-label" id="state-label">Loading</div>
+            <div class="state-detail" id="state-detail"></div>
+            <div class="state-event" id="state-event"></div>
           </div>
-        </div>
-        <div class="state off" id="state">
-          <div class="state-label" id="state-label">Loading</div>
-          <div class="state-detail" id="state-detail"></div>
-          <div class="state-event" id="state-event"></div>
-        </div>
-        <div class="next" id="next" hidden>
-          <div class="eyebrow">Up next</div>
-          <div class="next-title" id="next-title"></div>
-          <div class="next-meta" id="next-meta"></div>
-        </div>
-      </section>
-      <section class="schedule">
-        <div class="schedule-head">
-          <h2>Today</h2>
-          <span class="count" id="count"></span>
-        </div>
-        <ol id="list"></ol>
-        <div class="more" id="more" hidden>Swipe for more ▾</div>
-        <div class="foot" id="foot"></div>
-      </section>
-    </main>
+          <div class="next" id="next" hidden>
+            <div class="eyebrow">Up next</div>
+            <div class="next-title" id="next-title"></div>
+            <div class="next-meta" id="next-meta"></div>
+          </div>
+        </section>
+        <section class="schedule">
+          <div class="schedule-head">
+            <h2>Today</h2>
+            <span class="count" id="count"></span>
+          </div>
+          <ol id="list"></ol>
+          <div class="more" id="more" hidden>Swipe for more ▾</div>
+          <div class="foot" id="foot"></div>
+        </section>
+      </main>
+    </div>
     <script>
       (function () {
-        var DATA_URL = "cse-e222.json";
+        var ROOMS = [
+          { file: "cse-a101.json", tab: "A101" },
+          { file: "cse-e121.json", tab: "E121" },
+          { file: "cse-e220.json", tab: "E220" },
+          { file: "cse-e221.json", tab: "E221" },
+          { file: "cse-e222.json", tab: "E222" },
+          { file: "cse-e231.json", tab: "E231" },
+        ];
+        var RELOAD_MIN = 10;
+        var DATA_SEC = 60; 
+        var SNAP_SEC = 30;
+        var SOON_MIN = 15,
+          STALE_MIN = 90;
+
+
+        var all = {},
+          cur,
+          lastTouch = 0;
+        function $(id) {
+          return document.getElementById(id);
+        }
+        function slug(r) {
+          return r.file.replace(/\.json$/, "");
+        }
+
+        var lock = (location.search.match(/[?&]room=([\w-]+)/) || [])[1];
+        if (lock) {
+          ROOMS = ROOMS.filter(function (r) {
+            return slug(r) === lock;
+          });
+          if (!ROOMS.length) ROOMS = [{ file: lock + ".json", tab: lock }];
+        }
+        cur = slug(ROOMS[0]);
+        var h = location.hash.slice(1);
+        ROOMS.forEach(function (r) {
+          if (slug(r) === h) cur = h;
+        });
+        $("tabs").hidden = ROOMS.length < 2;
 
         function fit() {
           var s = Math.min(window.innerWidth / 1280, window.innerHeight / 800),
-            el = document.querySelector(".sign");
+            el = document.querySelector(".stage");
           el.style.transform = "scale(" + s + ")";
           el.style.left = (window.innerWidth - 1280 * s) / 2 + "px";
           el.style.top = (window.innerHeight - 800 * s) / 2 + "px";
         }
         window.addEventListener("resize", fit);
         fit();
-        var SOON_MIN = 15,
-          STALE_MIN = 90;
-        var RELOAD_MIN = 2; 
-        var DEMO = /[?&]demo\b/.test(location.search);
 
-        function addDemo(d) {
-          var day = d.date || todayET(),
-            off = (d.generated || "").slice(19) || "-04:00";
-          for (var h = 7; h <= 21; h++) {
-            var hh = ("0" + h).slice(-2);
-            d.bookings.push({
-              start: day + "T" + hh + ":00:00" + off,
-              end: day + "T" + hh + ":40:00" + off,
-              code: "DEMO " + (100 + h),
-              title: "Scroll test event",
-              who: "Demo only",
-            });
-          }
-          d.bookings.sort(function (a, b) {
-            return a.start < b.start ? -1 : 1;
-          });
-        }
-        var data = null,
-          lastOk = 0;
-
-        function $(id) {
-          return document.getElementById(id);
-        }
         function esc(s) {
           return String(s || "").replace(/[&<>"]/g, function (c) {
             return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
@@ -411,75 +477,73 @@
           }
         }
 
-        function load() {
-          var x = new XMLHttpRequest();
-          x.open("GET", DATA_URL + "?_=" + Date.now());
-          x.onload = function () {
-            if (x.status !== 200) return;
+        function buildTabs() {
+          $("tabs").innerHTML = ROOMS.map(function (r) {
+            return (
+              '<button class="tab" data-slug="' +
+              slug(r) +
+              '"><span class="dot" id="dot-' +
+              slug(r) +
+              '"></span>' +
+              esc(r.tab) +
+              "</button>"
+            );
+          }).join("");
+          $("tabs").addEventListener("click", function (e) {
+            var b = e.target.closest ? e.target.closest(".tab") : null;
+            if (!b) return;
+            cur = b.getAttribute("data-slug");
             try {
-              data = JSON.parse(x.responseText);
-              if (DEMO) addDemo(data);
-              for (var i = 0; i < data.bookings.length; i++) {
-                var b = data.bookings[i];
+              history.replaceState(null, "", "#" + cur);
+            } catch (err) {
+              location.hash = cur;
+            }
+            lastTouch = 0;
+            render();
+          });
+        }
+        function loadOne(r) {
+          var x = new XMLHttpRequest();
+          x.open("GET", r.file + "?_=" + Date.now());
+          x.onload = function () {
+            if (x.status !== 200) {
+              all[slug(r)] = {
+                error: "Couldn't load " + r.file + " (HTTP " + x.status + ")",
+              };
+              render();
+              return;
+            }
+            try {
+              var d = JSON.parse(x.responseText);
+              d.bookings.sort(function (a, b) {
+                return a.start < b.start ? -1 : 1;
+              });
+              d.bookings.forEach(function (b) {
                 b.s = Date.parse(b.start);
                 b.e = Date.parse(b.end);
-              }
-              lastOk = Date.now();
-              render();
-            } catch (e) {}
+              });
+              all[slug(r)] = d;
+            } catch (e) {
+              all[slug(r)] = {
+                error: r.file + " has an error: " + (e.message || e),
+              };
+            }
+            render();
+          };
+          x.onerror = function () {
+            all[slug(r)] = { error: "Couldn't reach " + r.file };
+            render();
           };
           x.send();
         }
-
-        function setState(cls, l, d, e) {
-          $("state").className = "state " + cls;
-          $("state-label").textContent = l;
-          $("state-detail").textContent = d;
-          $("state-event").textContent = e;
+        function loadAll() {
+          ROOMS.forEach(loadOne);
         }
 
-        var lastTouch = 0;
-        ["touchstart", "pointerdown", "wheel"].forEach(function (ev) {
-          document.addEventListener(
-            ev,
-            function () {
-              lastTouch = Date.now();
-            },
-            { passive: true },
-          );
-        });
-
-        function render() {
-          var t = Date.now(),
-            d = new Date();
-          try {
-            $("clock-time").textContent = d.toLocaleTimeString("en-US", {
-              hour: "numeric",
-              minute: "2-digit",
-              timeZone: "America/New_York",
-            });
-            $("clock-date").textContent = d.toLocaleDateString("en-US", {
-              weekday: "long",
-              month: "short",
-              day: "numeric",
-              timeZone: "America/New_York",
-            });
-          } catch (e) {
-            $("clock-time").textContent = d.toLocaleTimeString();
-            $("clock-date").textContent = d.toDateString();
-          }
-          if (!data) return;
-
-          $("room").textContent = data.room;
-          $("sub").textContent = data.subtitle;
-          var gen = Date.parse(data.generated);
-          var stale = data.date !== todayET() || t - gen > STALE_MIN * 60000;
-          $("foot").textContent =
-            "Updated " +
-            fmt(data.generated) +
-            (stale ? " · schedule may be out of date" : "");
-
-          var B = data.bookings,
+        function stateOf(d, t) {
+          if (!d || d.error) return { cls: "off" };
+          if (d.date !== todayET()) return { cls: "off", stale: true };
+          var B = d.bookings,
             cur = null,
             nxt = null,
             ni = -1;
@@ -490,41 +554,112 @@
               ni = i;
             }
           }
+          var cls = cur
+            ? "busy"
+            : nxt && nxt.s - t <= SOON_MIN * 60000
+              ? "soon"
+              : "free";
+          return { cls: cls, cur: cur, nxt: nxt, ni: ni };
+        }
 
-          if (data.date !== todayET())
+        function setState(cls, l, d, e) {
+          $("state").className = "state " + cls;
+          $("state-label").textContent = l;
+          $("state-detail").textContent = d;
+          $("state-event").textContent = e;
+        }
+
+        // ---- Draw ----
+        function render() {
+          var t = Date.now(),
+            now = new Date();
+          try {
+            $("clock-time").textContent = now.toLocaleTimeString("en-US", {
+              hour: "numeric",
+              minute: "2-digit",
+              timeZone: "America/New_York",
+            });
+            $("clock-date").textContent = now.toLocaleDateString("en-US", {
+              weekday: "long",
+              month: "short",
+              day: "numeric",
+              timeZone: "America/New_York",
+            });
+          } catch (e) {
+            $("clock-time").textContent = now.toLocaleTimeString();
+            $("clock-date").textContent = now.toDateString();
+          }
+
+          ROOMS.forEach(function (r) {
+            var s = slug(r),
+              dot = $("dot-" + s),
+              tab = dot && dot.parentNode;
+            if (dot) dot.className = "dot " + stateOf(all[s], t).cls;
+            if (tab) tab.className = "tab" + (s === cur ? " on" : "");
+          });
+
+          var d = all[cur];
+          if (!d) {
+            setState("off", "Loading", "", "");
+            return;
+          }
+          if (d.error) {
+            setState("off", "No data", d.error, "");
+            $("room").textContent = cur.toUpperCase().replace("-", " ");
+            $("sub").textContent = "";
+            $("list").innerHTML = "";
+            $("count").textContent = "";
+            $("next").hidden = true;
+            $("foot").textContent = "";
+            updateMore();
+            return;
+          }
+
+          $("room").textContent = d.room;
+          $("sub").textContent = d.subtitle;
+          var stale =
+            d.date !== todayET() ||
+            t - Date.parse(d.generated) > STALE_MIN * 60000;
+          $("foot").textContent =
+            "Updated " +
+            fmt(d.generated) +
+            (stale ? " · schedule may be out of date" : "");
+
+          var st = stateOf(d, t),
+            B = d.bookings,
+            c = st.cur,
+            n = st.nxt;
+          if (st.stale)
             setState(
               "off",
               "Unavailable",
               "Today's schedule hasn't loaded yet",
               "",
             );
-          else if (cur)
+          else if (c)
             setState(
               "busy",
               "In use",
-              "Until " + fmt(cur.end) + " · " + mins(cur.e - t) + " left",
-              label(cur) + (cur.who ? " · " + cur.who : ""),
+              "Until " + fmt(c.end) + " · " + mins(c.e - t) + " left",
+              label(c) + (c.who ? " · " + c.who : ""),
             );
-          else if (nxt && nxt.s - t <= SOON_MIN * 60000)
+          else if (st.cls === "soon")
             setState(
               "soon",
               "Starting soon",
-              "Booked at " + fmt(nxt.start) + " · in " + mins(nxt.s - t),
-              label(nxt),
+              "Booked at " + fmt(n.start) + " · in " + mins(n.s - t),
+              label(n),
             );
           else
             setState(
               "",
               "Available",
-              nxt
-                ? "Free until " + fmt(nxt.start)
-                : "Free for the rest of the day",
+              n ? "Free until " + fmt(n.start) : "Free for the rest of the day",
               "",
             );
 
-          var up =
-            cur || !nxt || nxt.s - t > SOON_MIN * 60000 ? nxt : B[ni + 1];
-          $("next").hidden = !up;
+          var up = c || !n || st.cls !== "soon" ? n : B[st.ni + 1];
+          $("next").hidden = !up || st.stale;
           if (up) {
             $("next-title").textContent = label(up);
             $("next-meta").textContent =
@@ -555,10 +690,8 @@
             keep = ol.scrollTop;
           ol.innerHTML =
             html || '<li class="empty">No events scheduled today</li>';
-
-          if (Date.now() - lastTouch < 30000) {
-            ol.scrollTop = keep;
-          } else {
+          if (Date.now() - lastTouch < SNAP_SEC * 1000) ol.scrollTop = keep;
+          else {
             var first = ol.querySelector("li:not(.past)");
             ol.scrollTop = first
               ? first.offsetTop - ol.offsetTop
@@ -575,17 +708,31 @@
             ol.scrollTop + ol.clientHeight >= ol.scrollHeight - 4;
         }
         $("list").addEventListener("scroll", updateMore, { passive: true });
+        ["touchstart", "pointerdown", "wheel"].forEach(function (ev) {
+          $("list").addEventListener(
+            ev,
+            function () {
+              lastTouch = Date.now();
+            },
+            { passive: true },
+          );
+        });
 
-        load();
+        buildTabs();
+        loadAll();
         render();
         setInterval(render, 5000);
-        setInterval(load, 60000);
-
+        setInterval(loadAll, DATA_SEC * 1000);
 
         setTimeout(function () {
           var q = location.search.replace(/[?&]v=\d+/, "").replace(/^&/, "?");
           location.replace(
-            location.pathname + (q ? q + "&" : "?") + "v=" + Date.now(),
+            location.pathname +
+              (q ? q + "&" : "?") +
+              "v=" +
+              Date.now() +
+              "#" +
+              cur,
           );
         }, RELOAD_MIN * 60000);
       })();
