@@ -1,0 +1,14 @@
+{
+ "room": "CSE E222",
+ "subtitle": "Computer Sciences Engineering Building · Second floor · Classroom · 80 seats",
+ "date": "2026-10-27",
+ "generated": "2026-10-27T13:49:16-04:00",
+ "bookings": [
+  {"start": "2026-10-27T08:30:00-04:00", "end": "2026-10-27T10:25:00-04:00", "code": "FYC 3001", "title": "Prncpls Fam/Yth/Commu", "who": "Kathleen Holly Fletcher"},
+  {"start": "2026-10-27T10:40:00-04:00", "end": "2026-10-27T11:30:00-04:00", "code": "AST 2034", "title": "Stars and Nuclear Arms Race", "who": "Michael Rutkowski"},
+  {"start": "2026-10-27T13:55:00-04:00", "end": "2026-10-27T14:45:00-04:00", "code": "CHM 2045", "title": "General Chemistry", "who": "Martina Sumner"},
+  {"start": "2026-10-27T15:00:00-04:00", "end": "2026-10-27T16:55:00-04:00", "code": "EEL 4744C", "title": "Microprocessor Applic", "who": "Eric M Schwartz"},
+  {"start": "2026-10-27T17:00:00-04:00", "end": "2026-10-27T18:45:00-04:00", "code": "", "title": "Japanese Club Halloween Social", "who": "Japanese Club"},
+  {"start": "2026-10-27T19:00:00-04:00", "end": "2026-10-27T22:00:00-04:00", "code": "", "title": "Gator Theme Park Engineering & Design: Haunted House Design Team", "who": "Gator Theme Park Engineering and Design Club"}
+ ]
+}
