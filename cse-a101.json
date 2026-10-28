@@ -1,0 +1,71 @@
+{
+ "room": "CSE A101",
+ "subtitle": "Computer Sciences Engineering Building · First floor · Classroom · 248 seats",
+ "date": "2026-10-28",
+ "generated": "2026-10-28T13:26:00-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-28T08:30:00-04:00",
+   "end": "2026-10-28T09:20:00-04:00",
+   "code": "STA 3032",
+   "title": "Engineer Statistics",
+   "who": "Shuaihang Zhou"
+  },
+  {
+   "start": "2026-10-28T09:35:00-04:00",
+   "end": "2026-10-28T10:25:00-04:00",
+   "code": "EEL 3701C",
+   "title": "Digit Logic/Compu Sys",
+   "who": "Eric M Schwartz"
+  },
+  {
+   "start": "2026-10-28T10:40:00-04:00",
+   "end": "2026-10-28T11:30:00-04:00",
+   "code": "STA 3024",
+   "title": "Intro to Statistics 2",
+   "who": "Phuong Anh Nguyen"
+  },
+  {
+   "start": "2026-10-28T11:45:00-04:00",
+   "end": "2026-10-28T12:35:00-04:00",
+   "code": "MUH 1007",
+   "title": "Music & Social with Environmnt",
+   "who": "Kendall Waters"
+  },
+  {
+   "start": "2026-10-28T12:50:00-04:00",
+   "end": "2026-10-28T13:40:00-04:00",
+   "code": "CPO 2001",
+   "title": "Comparative Politics",
+   "who": "Hugo Carlos Novales Contrer"
+  },
+  {
+   "start": "2026-10-28T13:55:00-04:00",
+   "end": "2026-10-28T14:45:00-04:00",
+   "code": "STA 3032",
+   "title": "Engineer Statistics",
+   "who": "Kary Ishwaran"
+  },
+  {
+   "start": "2026-10-28T15:00:00-04:00",
+   "end": "2026-10-28T15:50:00-04:00",
+   "code": "MAC 2312",
+   "title": "Analyt Geom and Calc 2",
+   "who": "Thai Hung Nguyen"
+  },
+  {
+   "start": "2026-10-28T18:30:00-04:00",
+   "end": "2026-10-28T19:30:00-04:00",
+   "code": "",
+   "title": "POLIS Exec Meeting",
+   "who": "Pi Lambda Sigma"
+  },
+  {
+   "start": "2026-10-28T20:20:00-04:00",
+   "end": "2026-10-28T22:10:00-04:00",
+   "code": "",
+   "title": "CHM2210 Exams -- DTE Assembly Exams",
+   "who": ""
+  }
+ ]
+}

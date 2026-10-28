@@ -1,0 +1,43 @@
+{
+ "room": "CSE E231",
+ "subtitle": "Computer Sciences Engineering Building · Computer Lab",
+ "date": "2026-10-28",
+ "generated": "2026-10-28T13:26:00-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-28T10:40:00-04:00",
+   "end": "2026-10-28T11:30:00-04:00",
+   "code": "STA 2023",
+   "title": "Intro to Statistics 1",
+   "who": "Karina M Gelis Cadena"
+  },
+  {
+   "start": "2026-10-28T11:45:00-04:00",
+   "end": "2026-10-28T12:35:00-04:00",
+   "code": "STA 2023",
+   "title": "Intro to Statistics 1",
+   "who": "Karina M Gelis Cadena"
+  },
+  {
+   "start": "2026-10-28T12:50:00-04:00",
+   "end": "2026-10-28T13:40:00-04:00",
+   "code": "STA 2023",
+   "title": "Intro to Statistics 1",
+   "who": "Karina M Gelis Cadena"
+  },
+  {
+   "start": "2026-10-28T13:55:00-04:00",
+   "end": "2026-10-28T15:50:00-04:00",
+   "code": "ISM 3013",
+   "title": "Intro to Info Systems",
+   "who": "Aditi Mukherjee"
+  },
+  {
+   "start": "2026-10-28T16:05:00-04:00",
+   "end": "2026-10-28T18:00:00-04:00",
+   "code": "ISM 3013",
+   "title": "Intro to Info Systems",
+   "who": "Aditi Mukherjee"
+  }
+ ]
+}

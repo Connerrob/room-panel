@@ -1,0 +1,71 @@
+{
+ "room": "CSE E220",
+ "subtitle": "Computer Sciences Engineering Building · Second floor · Classroom · 50 seats",
+ "date": "2026-10-28",
+ "generated": "2026-10-28T13:26:00-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-28T09:35:00-04:00",
+   "end": "2026-10-28T10:25:00-04:00",
+   "code": "EMA 6165",
+   "title": "Polymer Phys Science",
+   "who": "Angelika Elisabeth Neitzel"
+  },
+  {
+   "start": "2026-10-28T10:40:00-04:00",
+   "end": "2026-10-28T11:30:00-04:00",
+   "code": "EMA 6616",
+   "title": "Adv Electron Mtl Proc",
+   "who": "Jennifer K Hite"
+  },
+  {
+   "start": "2026-10-28T11:45:00-04:00",
+   "end": "2026-10-28T12:35:00-04:00",
+   "code": "EVS 1010",
+   "title": "First Year Environmental Sci",
+   "who": "Danny Coenen"
+  },
+  {
+   "start": "2026-10-28T12:50:00-04:00",
+   "end": "2026-10-28T13:40:00-04:00",
+   "code": "AEB 4334",
+   "title": "Agr Price Analysis",
+   "who": "Xumin Zhang"
+  },
+  {
+   "start": "2026-10-28T13:55:00-04:00",
+   "end": "2026-10-28T14:45:00-04:00",
+   "code": "COP 4600",
+   "title": "Operating Systems",
+   "who": "Alexandre Gomes de Siqueira"
+  },
+  {
+   "start": "2026-10-28T15:00:00-04:00",
+   "end": "2026-10-28T15:50:00-04:00",
+   "code": "CLA 3151",
+   "title": "Pompeii Archaeol Lab",
+   "who": "Matthew Callaway Harder"
+  },
+  {
+   "start": "2026-10-28T16:05:00-04:00",
+   "end": "2026-10-28T16:55:00-04:00",
+   "code": "COP 4600",
+   "title": "Operating Systems",
+   "who": "Alexandre Gomes de Siqueira"
+  },
+  {
+   "start": "2026-10-28T17:10:00-04:00",
+   "end": "2026-10-28T18:00:00-04:00",
+   "code": "COP 4600",
+   "title": "Operating Systems",
+   "who": "Alexandre Gomes de Siqueira"
+  },
+  {
+   "start": "2026-10-28T18:00:00-04:00",
+   "end": "2026-10-28T21:30:00-04:00",
+   "code": "",
+   "title": "Spooky Night",
+   "who": "Bangladeshi Student Association"
+  }
+ ]
+}
