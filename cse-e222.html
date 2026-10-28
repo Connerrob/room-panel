@@ -16,7 +16,6 @@
 * { box-sizing: border-box; }
 html, body { height: 100%; margin: 0; }
 body { background: var(--bg); color: var(--fg); font-family: var(--body); font-variant-numeric: tabular-nums; overflow: hidden; cursor: none; -webkit-user-select: none; user-select: none; }
-/* Laid out at 1280x800 (TSW-770/1070, TS-1070) and scaled to fit the screen. */
 .sign { position: absolute; top: 0; left: 0; width: 1280px; height: 800px; transform-origin: 0 0; padding: 24px; display: grid; grid-template-columns: 1fr 1.25fr; gap: 24px; }
 .status { display: flex; flex-direction: column; gap: 20px; min-width: 0; }
 .room-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
@@ -164,7 +163,7 @@ li.now::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; wi
     }
     var ol = $("list"), keep = ol.scrollTop;
     ol.innerHTML = html || '<li class="empty">No events scheduled today</li>';
-    // Keep the viewer's scroll position while they're using it; after 30 s idle, jump back to what's current.
+
     if (Date.now() - lastTouch < 30000) { ol.scrollTop = keep; }
     else {
       var first = ol.querySelector("li:not(.past)");
@@ -176,7 +175,7 @@ li.now::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; wi
   load(); render();
   setInterval(render, 5000);
   setInterval(load, 60000);
-  // Full reload every 6 hours picks up page changes and clears any browser drift.
+
   setTimeout(function () { location.reload(); }, 6 * 3600 * 1000);
 })();
 </script>
