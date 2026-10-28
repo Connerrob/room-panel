@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Room Schedule Test</title>
+<style>
+  body { margin: 0; padding: 24px; background: #111; color: #eee; font-family: Arial, sans-serif; }
+  h1 { margin: 0; font-size: 48px; }
+  .sub { color: #999; margin: 4px 0 20px; }
+  .status { padding: 20px; font-size: 36px; font-weight: bold; border-radius: 6px; margin-bottom: 20px; background: #2a7; }
+  .status.busy { background: #c44; }
+  table { width: 100%; border-collapse: collapse; font-size: 20px; }
+  td { padding: 10px 8px; border-bottom: 1px solid #333; vertical-align: top; }
+  td.time { white-space: nowrap; width: 200px; color: #ccc; }
+  .who { color: #999; font-size: 16px; }
+  .now { background: #331a1a; }
+  .past { opacity: .4; }
+  .err { color: #f88; }
+</style>
+</head>
+<body>
+  <h1 id="room">Loading…</h1>
+  <div class="sub" id="sub"></div>
+  <div class="status" id="status"></div>
+  <table id="list"></table>
+
+<script>
+// Change this to wherever the JSON is hosted.
+var DATA_URL = "cse-e222.json";
+
+function fmt(iso) {
+  var h = +iso.substr(11, 2), m = iso.substr(14, 2);
+  return (h % 12 || 12) + ":" + m + (h >= 12 ? " PM" : " AM");
+}
+
+function show(data) {
+  var now = Date.now(), current = null, rows = "";
+  document.getElementById("room").textContent = data.room;
+  document.getElementById("sub").textContent = data.subtitle;
+
+  data.bookings.forEach(function (b) {
+    var s = Date.parse(b.start), e = Date.parse(b.end);
+    var cls = now >= e ? "past" : (now >= s ? "now" : "");
+    if (cls === "now") current = b;
+    rows += '<tr class="' + cls + '"><td class="time">' + fmt(b.start) + " – " + fmt(b.end) + "</td><td>" +
+      (b.code ? "<b>" + b.code + "</b> " : "") + b.title + '<div class="who">' + b.who + "</div></td></tr>";
+  });
+
+  document.getElementById("list").innerHTML = rows || "<tr><td>No events today</td></tr>";
+  var st = document.getElementById("status");
+  st.className = "status" + (current ? " busy" : "");
+  st.textContent = current ? "In use until " + fmt(current.end) : "Available";
+}
+
+function load() {
+  var x = new XMLHttpRequest();
+  x.open("GET", DATA_URL + (DATA_URL.indexOf("?") < 0 ? "?" : "&") + "_=" + Date.now());
+  x.onload = function () {
+    try { show(JSON.parse(x.responseText)); }
+    catch (e) { document.getElementById("room").innerHTML = '<span class="err">Got a response but it is not JSON (login page?)</span>'; }
+  };
+  x.onerror = function () {
+    document.getElementById("room").innerHTML = '<span class="err">Could not load the JSON (blocked by browser or not reachable)</span>';
+  };
+  x.send();
+}
+
+load();
+setInterval(load, 60000);
+</script>
+</body>
+</html>
