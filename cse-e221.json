@@ -1,57 +1,43 @@
 {
  "room": "CSE E221",
  "subtitle": "Computer Sciences Engineering Building · Second floor · Classroom · 50 seats",
- "date": "2026-10-28",
- "generated": "2026-10-28T13:26:00-04:00",
+ "date": "2026-10-29",
+ "generated": "2026-10-29T07:05:00-04:00",
  "bookings": [
   {
-   "start": "2026-10-28T09:35:00-04:00",
-   "end": "2026-10-28T10:25:00-04:00",
-   "code": "CES 4605",
-   "title": "Analysis/Design Steel",
-   "who": "Brian M Phillips"
+   "start": "2026-10-29T09:35:00-04:00",
+   "end": "2026-10-29T10:25:00-04:00",
+   "code": "PSY 2012",
+   "title": "General Psychology",
+   "who": "Kyleigh Lorraine Montague"
   },
   {
-   "start": "2026-10-28T10:40:00-04:00",
-   "end": "2026-10-28T11:30:00-04:00",
-   "code": "COP 4600",
-   "title": "Operating Systems",
-   "who": "Alexandre Gomes de Siqueira"
+   "start": "2026-10-29T10:40:00-04:00",
+   "end": "2026-10-29T12:35:00-04:00",
+   "code": "EMA 4061",
+   "title": "Biomat: Struc and Props",
+   "who": "Prajakatta Balkrishna Mulay"
   },
   {
-   "start": "2026-10-28T11:45:00-04:00",
-   "end": "2026-10-28T12:35:00-04:00",
-   "code": "SLS 1102",
-   "title": "Enhanc Freshman Exper",
-   "who": "Simonne Yet Kwong Horman"
+   "start": "2026-10-29T12:50:00-04:00",
+   "end": "2026-10-29T13:40:00-04:00",
+   "code": "CPO 4731",
+   "title": "Democrat Global Persp",
+   "who": "Hongil Eom"
   },
   {
-   "start": "2026-10-28T12:50:00-04:00",
-   "end": "2026-10-28T13:40:00-04:00",
-   "code": "AEB 3550",
-   "title": "Agric Data Analysis",
-   "who": "Misti Sharp"
+   "start": "2026-10-29T15:00:00-04:00",
+   "end": "2026-10-29T18:00:00-04:00",
+   "code": "EGS 1006",
+   "title": "Intro to Engineering",
+   "who": "Joel L Parker"
   },
   {
-   "start": "2026-10-28T13:55:00-04:00",
-   "end": "2026-10-28T14:45:00-04:00",
-   "code": "CAP 3032",
-   "title": "Interact Mod/Animat 1",
-   "who": "Rong Zhang"
-  },
-  {
-   "start": "2026-10-28T16:05:00-04:00",
-   "end": "2026-10-28T16:55:00-04:00",
-   "code": "COP 4600",
-   "title": "Operating Systems",
-   "who": "Alexandre Gomes de Siqueira"
-  },
-  {
-   "start": "2026-10-28T17:00:00-04:00",
-   "end": "2026-10-28T22:00:00-04:00",
+   "start": "2026-10-29T18:30:00-04:00",
+   "end": "2026-10-29T19:30:00-04:00",
    "code": "",
-   "title": "Circle K International GBM #9",
-   "who": ""
+   "title": "POLIS New Member Ed Meetings",
+   "who": "Pi Lambda Sigma"
   }
  ]
 }
