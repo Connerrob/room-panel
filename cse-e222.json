@@ -1,49 +1,42 @@
 {
  "room": "CSE E222",
  "subtitle": "Computer Sciences Engineering Building · Second floor · Classroom · 80 seats",
- "date": "2026-10-28",
- "generated": "2026-10-28T13:26:00-04:00",
+ "date": "2026-10-29",
+ "generated": "2026-10-29T07:05:00-04:00",
  "bookings": [
   {
-   "start": "2026-10-28T11:45:00-04:00",
-   "end": "2026-10-28T12:35:00-04:00",
-   "code": "CHM 3120L",
-   "title": "Analytical Chem Lab",
-   "who": "Alexander Jacobs"
+   "start": "2026-10-29T09:35:00-04:00",
+   "end": "2026-10-29T10:25:00-04:00",
+   "code": "FYC 3001",
+   "title": "Prncpls Fam/Yth/Commu",
+   "who": "Kathleen Holly Fletcher"
   },
   {
-   "start": "2026-10-28T12:50:00-04:00",
-   "end": "2026-10-28T13:40:00-04:00",
-   "code": "ENY 1001",
-   "title": "Bugs and People",
-   "who": "Jason L Williams"
+   "start": "2026-10-29T10:40:00-04:00",
+   "end": "2026-10-29T12:35:00-04:00",
+   "code": "AST 2034",
+   "title": "Stars and Nuclear Arms Race",
+   "who": "Michael Rutkowski"
   },
   {
-   "start": "2026-10-28T13:55:00-04:00",
-   "end": "2026-10-28T14:45:00-04:00",
-   "code": "REL 1411",
-   "title": "Why is Evil in the World?",
-   "who": "Muktar Omokayode Sanni"
+   "start": "2026-10-29T15:00:00-04:00",
+   "end": "2026-10-29T15:50:00-04:00",
+   "code": "IHS 1100",
+   "title": "Intro Pre-Health Proc",
+   "who": "Roberta A Knickerbocker"
   },
   {
-   "start": "2026-10-28T15:00:00-04:00",
-   "end": "2026-10-28T15:50:00-04:00",
-   "code": "REL 1631",
-   "title": "Post-Holocaust American Jews",
-   "who": "Rachel Gordan"
+   "start": "2026-10-29T16:05:00-04:00",
+   "end": "2026-10-29T16:55:00-04:00",
+   "code": "EEL 4744C",
+   "title": "Microprocessor Applic",
+   "who": "Eric M Schwartz"
   },
   {
-   "start": "2026-10-28T16:05:00-04:00",
-   "end": "2026-10-28T18:00:00-04:00",
-   "code": "EML 4501",
-   "title": "ME Design 2",
-   "who": "Umesh Dharamdeo Persad"
-  },
-  {
-   "start": "2026-10-28T18:15:00-04:00",
-   "end": "2026-10-28T22:00:00-04:00",
+   "start": "2026-10-29T18:00:00-04:00",
+   "end": "2026-10-29T22:00:00-04:00",
    "code": "",
-   "title": "General Body Meeting- Global Medical Missions Alliance",
+   "title": "The Gator Giving Initiative",
    "who": ""
   }
  ]
