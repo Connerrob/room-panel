@@ -516,10 +516,7 @@
           var stale =
             d.date !== todayET() ||
             t - Date.parse(d.generated) > STALE_MIN * 60000;
-          $("foot").textContent =
-            "Updated " +
-            fmt(d.generated) +
-            (stale ? "");
+          $("foot").textContent = "Updated " + fmt(d.generated);
 
           var st = stateOf(d, t),
             B = d.bookings,
