@@ -59,51 +59,6 @@
         gap: 16px;
       }
 
-      .tabs {
-        display: flex;
-        gap: 8px;
-        flex: none;
-      }
-      .tab {
-        flex: 1;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 10px;
-        height: 52px;
-        border-radius: 6px;
-        border: 1px solid var(--line);
-        background: var(--panel);
-        color: var(--muted);
-        font-family: var(--display);
-        font-weight: 600;
-        font-size: 24px;
-        letter-spacing: 0.02em;
-        cursor: none;
-        padding: 0 12px;
-      }
-      .tab.on {
-        background: #22303a;
-        color: var(--fg);
-        border-color: #3a4a56;
-        box-shadow: inset 0 -3px 0 var(--uf);
-      }
-      .dot {
-        width: 12px;
-        height: 12px;
-        border-radius: 50%;
-        background: var(--off);
-        flex: none;
-      }
-      .dot.free {
-        background: var(--free);
-      }
-      .dot.busy {
-        background: var(--busy);
-      }
-      .dot.soon {
-        background: var(--soon);
-      }
 
       .sign {
         flex: 1;
@@ -349,7 +304,6 @@
   </head>
   <body>
     <div class="stage">
-      <nav class="tabs" id="tabs"></nav>
       <main class="sign">
         <section class="status">
           <div class="room-head">
@@ -387,47 +341,20 @@
     <script>
       (function () {
 
-        var ROOMS = [
-          { file: "cse-a101.json", tab: "A101" },
-          { file: "cse-e121.json", tab: "E121" },
-          { file: "cse-e220.json", tab: "E220" },
-          { file: "cse-e221.json", tab: "E221" },
-          { file: "cse-e222.json", tab: "E222" },
-          { file: "cse-e231.json", tab: "E231" },
-        ];
-        var DEFAULT_ROOM = "cse-e222";
-        var RELOAD_MIN = 2; 
-        var DATA_SEC = 60;
-        var SNAP_SEC = 30; 
+        // Which room to show comes from the URL: room.html?room=cse-e222 loads cse-e222.json
+        var ROOM = (location.search.match(/[?&]room=([\w-]+)/) || [])[1] || "";
+        var FILE = ROOM + ".json";
+        var RELOAD_MIN = 2; // full page reload 
+        var DATA_SEC = 60; // reload schedule data
+        var SNAP_SEC = 60; // after scrolling, jump back to "now"
         var SOON_MIN = 15,
           STALE_MIN = 90;
 
-        var all = {},
-          cur,
+        var data = null,
           lastTouch = 0;
         function $(id) {
           return document.getElementById(id);
         }
-        function slug(r) {
-          return r.file.replace(/\.json$/, "");
-        }
-
-        var lock = (location.search.match(/[?&]room=([\w-]+)/) || [])[1];
-        if (lock) {
-          ROOMS = ROOMS.filter(function (r) {
-            return slug(r) === lock;
-          });
-          if (!ROOMS.length) ROOMS = [{ file: lock + ".json", tab: lock }];
-        }
-        cur = slug(ROOMS[0]);
-        ROOMS.forEach(function (r) {
-          if (slug(r) === DEFAULT_ROOM) cur = DEFAULT_ROOM;
-        });
-        var h = location.hash.slice(1);
-        ROOMS.forEach(function (r) {
-          if (slug(r) === h) cur = h;
-        });
-        $("tabs").hidden = ROOMS.length < 2;
 
         function fit() {
           var s = Math.min(window.innerWidth / 1280, window.innerHeight / 800),
@@ -482,39 +409,17 @@
           }
         }
 
-        function buildTabs() {
-          $("tabs").innerHTML = ROOMS.map(function (r) {
-            return (
-              '<button class="tab" data-slug="' +
-              slug(r) +
-              '"><span class="dot" id="dot-' +
-              slug(r) +
-              '"></span>' +
-              esc(r.tab) +
-              "</button>"
-            );
-          }).join("");
-          $("tabs").addEventListener("click", function (e) {
-            var b = e.target.closest ? e.target.closest(".tab") : null;
-            if (!b) return;
-            cur = b.getAttribute("data-slug");
-            try {
-              history.replaceState(null, "", "#" + cur);
-            } catch (err) {
-              location.hash = cur;
-            }
-            lastTouch = 0;
+        function load() {
+          if (!ROOM) {
+            data = { error: "No room set. Add ?room=<room> to the URL, e.g. room.html?room=cse-e222" };
             render();
-          });
-        }
-        function loadOne(r) {
+            return;
+          }
           var x = new XMLHttpRequest();
-          x.open("GET", r.file + "?_=" + Date.now());
+          x.open("GET", FILE + "?_=" + Date.now());
           x.onload = function () {
             if (x.status !== 200) {
-              all[slug(r)] = {
-                error: "Couldn't load " + r.file + " (HTTP " + x.status + ")",
-              };
+              data = { error: "Couldn't load " + FILE + " (HTTP " + x.status + ")" };
               render();
               return;
             }
@@ -527,22 +432,17 @@
                 b.s = Date.parse(b.start);
                 b.e = Date.parse(b.end);
               });
-              all[slug(r)] = d;
+              data = d;
             } catch (e) {
-              all[slug(r)] = {
-                error: r.file + " has an error: " + (e.message || e),
-              };
+              data = { error: FILE + " has an error: " + (e.message || e) };
             }
             render();
           };
           x.onerror = function () {
-            all[slug(r)] = { error: "Couldn't reach " + r.file };
+            data = { error: "Couldn't reach " + FILE };
             render();
           };
           x.send();
-        }
-        function loadAll() {
-          ROOMS.forEach(loadOne);
         }
 
         function stateOf(d, t) {
@@ -594,22 +494,14 @@
             $("clock-date").textContent = now.toDateString();
           }
 
-          ROOMS.forEach(function (r) {
-            var s = slug(r),
-              dot = $("dot-" + s),
-              tab = dot && dot.parentNode;
-            if (dot) dot.className = "dot " + stateOf(all[s], t).cls;
-            if (tab) tab.className = "tab" + (s === cur ? " on" : "");
-          });
-
-          var d = all[cur];
+          var d = data;
           if (!d) {
             setState("off", "Loading", "", "");
             return;
           }
           if (d.error) {
             setState("off", "No data", d.error, "");
-            $("room").textContent = cur.toUpperCase().replace("-", " ");
+            $("room").textContent = ROOM ? ROOM.toUpperCase().replace("-", " ") : "No room";
             $("sub").textContent = "";
             $("list").innerHTML = "";
             $("count").textContent = "";
@@ -722,20 +614,17 @@
           );
         });
 
-        buildTabs();
-        loadAll();
+        load();
         render();
         setInterval(render, 5000);
-        setInterval(loadAll, DATA_SEC * 1000);
+        setInterval(load, DATA_SEC * 1000);
         setTimeout(function () {
           var q = location.search.replace(/[?&]v=\d+/, "").replace(/^&/, "?");
           location.replace(
             location.pathname +
               (q ? q + "&" : "?") +
               "v=" +
-              Date.now() +
-              "#" +
-              cur,
+              Date.now(),
           );
         }, RELOAD_MIN * 60000);
       })();
