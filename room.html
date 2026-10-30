@@ -344,7 +344,7 @@
         // Which room to show comes from the URL: room.html?room=cse-e222 loads cse-e222.json
         var ROOM = (location.search.match(/[?&]room=([\w-]+)/) || [])[1] || "";
         var FILE = "json/" + ROOM + ".json";
-        var RELOAD_MIN = 2; // full page reload 
+        var RELOAD_MIN = 120; // full page reload 
         var DATA_SEC = 60; // reload schedule data
         var SNAP_SEC = 60; // after scrolling, jump back to "now"
         var SOON_MIN = 15,
