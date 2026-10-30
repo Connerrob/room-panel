@@ -1,0 +1,64 @@
+{
+ "room": "TUR 2333",
+ "subtitle": "Turlington Hall · Second floor · Classroom · 42 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T07:25:00-04:00",
+   "end": "2026-10-30T08:15:00-04:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "ENC 3465",
+   "title": "Writing in the Law",
+   "who": "Nathan David Wood"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "INR 2001",
+   "title": "International Relatns",
+   "who": "Sunkyoo Kim"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "CLA 3500",
+   "title": "Ancient Sport",
+   "who": "Victoria Emma Pagan-Wolpert"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "AMH 2010",
+   "title": "United States to 1877",
+   "who": "Tyler Carawan Cline"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "ENC 7760",
+   "title": "Paper to Publication",
+   "who": "Susan Elizabeth Hegeman"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "AML 4311",
+   "title": "Maj Figures Lit/Cul",
+   "who": "Mark Allen Reid"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

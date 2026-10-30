@@ -1,0 +1,71 @@
+{
+ "room": "CSE E221",
+ "subtitle": "Computer Sciences Engineering Building · Second floor · Classroom · 50 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "CES 4605",
+   "title": "Analysis/Design Steel",
+   "who": "Brian M Phillips"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "PHI 3681",
+   "title": "Ethics, Data & Tech",
+   "who": "Panagiotis Saranteas"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "AST 2005",
+   "title": "Searching for ET Life",
+   "who": "Bernard Isaiah Dela Cruz Lo"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "AEB 3550",
+   "title": "Agric Data Analysis",
+   "who": "Misti Sharp"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "CAP 3032",
+   "title": "Interact Mod/Animat 1",
+   "who": "Rong Zhang"
+  },
+  {
+   "start": "2026-10-30T15:30:00-04:00",
+   "end": "2026-10-30T16:30:00-04:00",
+   "code": "",
+   "title": "Center for Engineering Human Performance & Wellness Seminar",
+   "who": "EG-BIOMEDICAL ENGINEERING"
+  },
+  {
+   "start": "2026-10-30T17:00:00-04:00",
+   "end": "2026-10-30T18:00:00-04:00",
+   "code": "",
+   "title": "American Society of Mechanical Engineers - Halloween Social",
+   "who": "American Society of Mechanical Engineers"
+  },
+  {
+   "start": "2026-10-30T18:30:00-04:00",
+   "end": "2026-10-30T20:00:00-04:00",
+   "code": "",
+   "title": "SASE Gator Rover Electrical Workshops",
+   "who": "Society of Asian Scientists & Engineers"
+  },
+  {
+   "start": "2026-10-30T20:20:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "EML6154 exam - DTE",
+   "who": ""
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "room": "WEIL 0234",
+ "subtitle": "Weil Hall · Second floor · Classroom · 40 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ENC 3601",
+   "title": "Professional Writing in AI",
+   "who": "Zea Edward Miller"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "EML 5104",
+   "title": "Classical/Stat Thermo",
+   "who": "Jing Pan"
+  },
+  {
+   "start": "2026-10-30T16:30:00-04:00",
+   "end": "2026-10-30T17:30:00-04:00",
+   "code": "",
+   "title": "ASCE 3D Printed Bridge Design Team",
+   "who": ""
+  },
+  {
+   "start": "2026-10-30T18:00:00-04:00",
+   "end": "2026-10-30T19:00:00-04:00",
+   "code": "",
+   "title": "Society of Software Developer Club Social",
+   "who": ""
+  },
+  {
+   "start": "2026-10-30T19:25:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

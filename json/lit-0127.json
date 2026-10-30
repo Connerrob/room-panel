@@ -1,0 +1,50 @@
+{
+ "room": "LIT 0127",
+ "subtitle": "Little Hall · G - Ground floor · Classroom · 35 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "AFA 3110",
+   "title": "Afr Am/Blk Atln Thght",
+   "who": "Robert Louis Stevenson Jr."
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "MAT 3503",
+   "title": "Functions and Modeling",
+   "who": "Konstantina Christodoulopoulou"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "AMH 4319",
+   "title": "Crime/Punish Am Hist",
+   "who": "Chris Lause"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "ENC 3246",
+   "title": "Prof Comm Engineers",
+   "who": "Zea Edward Miller"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "SYG 2000",
+   "title": "Intro to Sociology",
+   "who": "Kashmaya Andreas Rincon"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

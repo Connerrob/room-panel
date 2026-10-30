@@ -1,0 +1,78 @@
+{
+ "room": "NPB 1002",
+ "subtitle": "New Physics Building · First floor · Classroom · 102 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "PHY 3101",
+   "title": "Intro Modern Physics",
+   "who": "Mark W Meisel"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "PHY 4604",
+   "title": "Intro Quant Mech 1",
+   "who": "Rachel Houtz"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "PHY 3101",
+   "title": "Intro Modern Physics",
+   "who": "Mayra Betsabe Schrock"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "PHY 4324",
+   "title": "Electromagnetism 2",
+   "who": "Chunjing Jia"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "PHY 3221",
+   "title": "Mechanics 1",
+   "who": "Yasumasa Takano"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "PHY 3513",
+   "title": "Thermal Physics",
+   "who": "Neil S Sullivan"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "PHY 3323",
+   "title": "Electromagnetism 1",
+   "who": "Siyao Xu"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "PHY 4911",
+   "title": "UG Res Physics",
+   "who": "TBD"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T18:00:00-04:00",
+   "code": "EML 2023",
+   "title": "Compu Aided Graph/Des",
+   "who": "Lawrence L Howard"
+  },
+  {
+   "start": "2026-10-30T18:15:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

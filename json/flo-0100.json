@@ -1,0 +1,64 @@
+{
+ "room": "FLO 0100",
+ "subtitle": "Griffin-Floyd Hall · G - Ground floor · Classroom · 60 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "STA 3100",
+   "title": "Programming With Data",
+   "who": "Matias Shedden"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "STA 3100",
+   "title": "Programming With Data",
+   "who": "David S Lindberg III"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "STA 4322",
+   "title": "Intro Statistics Thry",
+   "who": "Yeison Quiceno Duran"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "STA 4241",
+   "title": "Statistical Learning",
+   "who": "Joseph L Antonelli"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "STA 4210",
+   "title": "Regression Analysis",
+   "who": "David S Lindberg III"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "STA 3100",
+   "title": "Programming With Data",
+   "who": "Yuhua Zhang"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "STA 4321",
+   "title": "Intro to Probability",
+   "who": "Changwoo Lee"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T18:00:00-04:00",
+   "code": "STA 6938",
+   "title": "Seminar",
+   "who": "TBD"
+  }
+ ]
+}

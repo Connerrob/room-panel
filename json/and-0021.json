@@ -1,0 +1,50 @@
+{
+ "room": "AND 0021",
+ "subtitle": "Anderson Hall · G - Ground floor · Classroom · 38 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "AMH 2010",
+   "title": "United States to 1877",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "SPN 3700",
+   "title": "Intro Hisp Linguistic",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "LAH 3931",
+   "title": "Special Topics",
+   "who": "Thais Rezende DA Silva DE Sant'Ana"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "PHI 1680",
+   "title": "AI, Philosophy & Society",
+   "who": "Izabella Marina Koontz"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "PHM 3202",
+   "title": "Political Philosophy",
+   "who": "Jonathan D Rick"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

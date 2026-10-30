@@ -1,0 +1,71 @@
+{
+ "room": "FLG 0270",
+ "subtitle": "Florida Gymnasium · Second floor · Classroom · 112 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "ANS 2002",
+   "title": "The Meat We Eat",
+   "who": "Kyle M Mendes"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "EGN 3353C",
+   "title": "Fluid Mechanics",
+   "who": "Cristian E Cardenas-Lailhacar"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "EGM 2511",
+   "title": "Engr Mech-Statics",
+   "who": "Amie N Baisley"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "SPM 4703",
+   "title": "Sport Marketing Analytics",
+   "who": "Gyujik Han"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "CEG 4011",
+   "title": "Soil Mechanics",
+   "who": "Ana Paula Mohseni V"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "ECH 4604",
+   "title": "Procss Eco and Optimiza",
+   "who": "Juan Manuel Restrepo Florez"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "ESI 3312",
+   "title": "Operations Research 1",
+   "who": "Fatemeh Nosrat"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T20:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  },
+  {
+   "start": "2026-10-30T20:20:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "EEL3111C DTE Exams",
+   "who": ""
+  }
+ ]
+}

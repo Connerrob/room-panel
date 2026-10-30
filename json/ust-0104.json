@@ -1,0 +1,29 @@
+{
+ "room": "UST 0104",
+ "subtitle": "Ustler Hall · First floor · Classroom · 10 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "IND 5633",
+   "title": "Readings Des Studies",
+   "who": "Erin K Cunningham"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "CZE 2200",
+   "title": "Intermediate Czech 1",
+   "who": "Holly Kay Raynard"
+  },
+  {
+   "start": "2026-10-30T14:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

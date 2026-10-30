@@ -1,0 +1,43 @@
+{
+ "room": "MAEA 0327",
+ "subtitle": "Mechanical & Aerospace Eng A · Third floor · Classroom · 32 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "ECH 4905",
+   "title": "Spec Prob in Chem Eng",
+   "who": "Travis J Anderson"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "YOR 1131",
+   "title": "Beginning Yoruba 2",
+   "who": "Kole Ade Odutola"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "CEG 4104",
+   "title": "Retain Wall Embank",
+   "who": "Candas Oner"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "ECH 4604",
+   "title": "Procss Eco and Optimiza",
+   "who": "Dylan G Turpeinen"
+  },
+  {
+   "start": "2026-10-30T14:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

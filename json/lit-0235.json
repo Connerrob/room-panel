@@ -1,0 +1,50 @@
+{
+ "room": "LIT 0235",
+ "subtitle": "Little Hall · Second floor · Classroom · 34 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "MAA 4211",
+   "title": "Real Analysis and Adv Calc 1",
+   "who": "Cheng Yu"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "AST 2005",
+   "title": "Searching for ET Life",
+   "who": "Bernard Isaiah Dela Cruz Lo"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ENC 2256",
+   "title": "Writing in the Disciplines",
+   "who": "Jennifer Lee Coenen"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "MAS 4301",
+   "title": "Abstract Algebra 1",
+   "who": "Alexander Berkovich"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "MHF 3202",
+   "title": "Reasoning and Proof in Math",
+   "who": "Alexander Berkovich"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

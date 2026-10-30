@@ -1,0 +1,57 @@
+{
+ "room": "LIT 0101",
+ "subtitle": "Little Hall · G - Ground floor · Classroom · 165 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Willard S Keeran"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "WOH 1432",
+   "title": "Pirates & Power",
+   "who": "Matthew Blake Strickland"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "SYG 2000",
+   "title": "Intro to Sociology",
+   "who": "Evan Wilson Lauteria"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "CLT 2374",
+   "title": "Classical Mythology",
+   "who": "Esteban Arango Casas"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "CHM 3120",
+   "title": "Intro Analytic Chem",
+   "who": "Boone Monroe Prentice"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T20:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  },
+  {
+   "start": "2026-10-30T20:20:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "BSC2011 Exams -- DTE ASSEMBLY EXAM",
+   "who": ""
+  }
+ ]
+}

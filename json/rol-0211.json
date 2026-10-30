@@ -1,0 +1,43 @@
+{
+ "room": "ROL 0211",
+ "subtitle": "Rolfs Hall · Second floor · Classroom · 40 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "COM 3120",
+   "title": "Organizational Comm",
+   "who": "Pasha Agoes"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "SPC 2608",
+   "title": "Intro Public Speaking",
+   "who": "Dennis Neal McCarty"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "COM 4930",
+   "title": "Special Topics",
+   "who": "Michael Jeffrey Harmon"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "SPC 2608",
+   "title": "Intro Public Speaking",
+   "who": "Dennis Neal McCarty"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "SPC 2608",
+   "title": "Intro Public Speaking",
+   "who": "Dennis Neal McCarty"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "room": "MAT 0113",
+ "subtitle": "Matherly Hall · First floor · Classroom · 35 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "AML 4242",
+   "title": "Studies 20th C Am Lit",
+   "who": "Thomas Conners"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "ENC 3254",
+   "title": "Professional & Public Writing",
+   "who": "Andrea G Caloiaro"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "PHI 2100",
+   "title": "Logic",
+   "who": "Rodrigo Borges"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "IDS 2935",
+   "title": "Special Topics",
+   "who": "Zea Edward Miller"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "PHI 4930",
+   "title": "Special Topics",
+   "who": "Jan Maximilian Robitzsch"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

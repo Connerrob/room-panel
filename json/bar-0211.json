@@ -1,0 +1,43 @@
+{
+ "room": "BAR 0211",
+ "subtitle": "Bartram Hall · Second floor · Classroom · 60 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "BSC 4452",
+   "title": "Comp Tools Rsrch Bio",
+   "who": "Matthew Aaron Gitzendanner"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ZOO 4403C",
+   "title": "Marine Biology",
+   "who": "Melissa Meadows"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "ZOO 6927",
+   "title": "Special Topics",
+   "who": "Hua Yan"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "BSC 2862",
+   "title": "Glob Chng Ecol and Sust",
+   "who": "Stephen Shawhan Mulkey"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "BSC 2520",
+   "title": "Our Oceans: Human Impacts",
+   "who": "Melissa Meadows"
+  }
+ ]
+}

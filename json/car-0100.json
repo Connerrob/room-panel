@@ -1,0 +1,78 @@
+{
+ "room": "CAR 0100",
+ "subtitle": "Carleton Auditorium · G - Ground floor · Classroom · 679 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "COP 3503C",
+   "title": "Prog Fundamentals 2",
+   "who": "Fatemeh Tavassoli"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "MAS 3114",
+   "title": "Computatnl Linear Alg",
+   "who": "Amit Mahesh Bhat"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Nour Al Deen Maher El Hatto"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "MAC 2312",
+   "title": "Analyt Geom and Calc 2",
+   "who": "Stephen M Adams"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "MAC 2313",
+   "title": "Analyt Geom and Calc 3",
+   "who": "Jiun Shing Cho"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "CEN 3031",
+   "title": "Intro Software Engr",
+   "who": "Neha Rani"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "MAC 2233",
+   "title": "Survey of Calculus 1",
+   "who": "Larissa Grigorievna Williamson"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "BSC 2011",
+   "title": "Integra Princ Biol 2",
+   "who": "Samantha Lauren Young Pryer"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T18:00:00-04:00",
+   "code": "COP 4020",
+   "title": "Program Lang Concepts",
+   "who": "William B Anderson"
+  },
+  {
+   "start": "2026-10-30T20:20:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "BSC2011 Exams -- DTE ASSEMBLY EXAM",
+   "who": ""
+  }
+ ]
+}

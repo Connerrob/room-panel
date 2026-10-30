@@ -1,0 +1,57 @@
+{
+ "room": "MAT 0002",
+ "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "MAS 4105",
+   "title": "Linear Algebra 1",
+   "who": "Libin Rong"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "IDS 4930",
+   "title": "Spec Top Interdis Stu",
+   "who": "Teresa Cornacchione"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "LIT 2000",
+   "title": "Intro to Literature",
+   "who": "Natalie Liptak"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "PHI 2010",
+   "title": "Intro to Philosophy",
+   "who": "James C Simpson"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "ENG 4015",
+   "title": "Psycholog Approaches",
+   "who": "Peter L Rudnytsky"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "ENL 4221",
+   "title": "Ren Lit 17th Cen",
+   "who": "Peter L Rudnytsky"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

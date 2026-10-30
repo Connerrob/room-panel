@@ -1,0 +1,64 @@
+{
+ "room": "WEIM 1064",
+ "subtitle": "Weimer Hall · First floor · Classroom · 255 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "APK 2100C",
+   "title": "Appl Human Anat W/Lab",
+   "who": "Joslyn Korrin Ahlgren"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "HUN 2201",
+   "title": "Fund Human Nutrition",
+   "who": "Stacey Lloyd Mobley"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "STA 3032",
+   "title": "Engineer Statistics",
+   "who": "Michael Wayne OConnor"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "COT 5405",
+   "title": "Analys of Algorithms",
+   "who": "Alin Viorel Dobra"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "SWS 3022",
+   "title": "Intr Soils in Environ",
+   "who": "James Lee Bonczek"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "EML 2023",
+   "title": "Compu Aided Graph/Des",
+   "who": "Ashok V Kumar"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T20:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  },
+  {
+   "start": "2026-10-30T20:20:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "BSC2010 Exams -- DTE ASSEMBLY EXAMS",
+   "who": ""
+  }
+ ]
+}

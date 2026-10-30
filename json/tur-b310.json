@@ -1,0 +1,57 @@
+{
+ "room": "TUR B310",
+ "subtitle": "Turlington Hall · B - Basement floor · Classroom · 25 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T07:25:00-04:00",
+   "end": "2026-10-30T09:10:00-04:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "SPN 1131",
+   "title": "Beginning Spanish 2",
+   "who": "Fernan Gomez-Monedero"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "SPN 3510",
+   "title": "Cult and Civ of Spain",
+   "who": "Joanne Britland"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "AML 2070",
+   "title": "Survey of Am Lit",
+   "who": "Abiola Funke Emmanuel"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "ENC 1136",
+   "title": "Multimodal Writing/DL",
+   "who": "Hilda Xezal Sheridan-Hewlett"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "ENL 2022",
+   "title": "Surv Eng Lit 1750-Pre",
+   "who": "Thomas Bryce De Groff"
+  },
+  {
+   "start": "2026-10-30T15:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

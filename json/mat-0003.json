@@ -1,0 +1,50 @@
+{
+ "room": "MAT 0003",
+ "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "CHI 1130",
+   "title": "Beginning Chinese 1",
+   "who": "Han Xu"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "EUS 3400",
+   "title": "Migration in Europe",
+   "who": "Esther F Romeyn"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "MAS 4105",
+   "title": "Linear Algebra 1",
+   "who": "David Joel Groisser"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "MAS 4105",
+   "title": "Linear Algebra 1",
+   "who": "Dana Bartosova"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "MAS 4105",
+   "title": "Linear Algebra 1",
+   "who": "Chunmei Wang"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

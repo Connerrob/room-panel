@@ -1,0 +1,50 @@
+{
+ "room": "LIT 0121",
+ "subtitle": "Little Hall · G - Ground floor · Classroom · 81 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "EML 5526",
+   "title": "Finite Elem Analysis",
+   "who": "Ashok V Kumar"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "AMH 2020",
+   "title": "US Since 1877",
+   "who": "Kai Blades"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "EEE 3396",
+   "title": "Solid State Electron",
+   "who": "Laura Kim"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "HUN 4446",
+   "title": "Nutrition and Disease 2",
+   "who": "Stacey Lloyd Mobley"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "AST 2031",
+   "title": "Knowledge and the Universe",
+   "who": "Michael Rutkowski"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

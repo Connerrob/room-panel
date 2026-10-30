@@ -1,0 +1,22 @@
+{
+ "room": "LAR 0239",
+ "subtitle": "Larsen Hall · Second floor · Classroom · 48 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "CGN 6905",
+   "title": "Special Problems",
+   "who": "Xiaoyu Song"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "ECH 4941C",
+   "title": "Lab Instruction/Management",
+   "who": "Lilu Funkenbusch"
+  }
+ ]
+}

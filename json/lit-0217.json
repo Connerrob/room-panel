@@ -1,0 +1,57 @@
+{
+ "room": "LIT 0217",
+ "subtitle": "Little Hall · Second floor · Classroom · 34 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "MHF 3202",
+   "title": "Reasoning and Proof in Math",
+   "who": "Alexandre Turull"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "MAS 6331",
+   "title": "Algebra 1",
+   "who": "Jeremy Booher"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "MAA 5228",
+   "title": "Modern Analysis 1",
+   "who": "Paul L Robinson"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "MAD 6406",
+   "title": "Numerical Linear Alg",
+   "who": "Sara N Pollock"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "MAT 4930",
+   "title": "Spec Topics in Math",
+   "who": "Eric M Evert"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "MAP 4484",
+   "title": "Modlg Mathematicl Bio",
+   "who": "Youngmin Park"
+  },
+  {
+   "start": "2026-10-30T15:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

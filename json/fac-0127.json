@@ -1,0 +1,36 @@
+{
+ "room": "FAC 0127",
+ "subtitle": "Fine Arts C · First floor · Classroom · 50 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "CCJ 7742",
+   "title": "Res Crim Law Justic 2",
+   "who": "WonTak Joo"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ENC 1101",
+   "title": "Expos and Argu Writing",
+   "who": "Scott Thompson"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "AEB 3510",
+   "title": "Quant Meth Food & Res",
+   "who": "Patrick S Ward"
+  },
+  {
+   "start": "2026-10-30T14:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

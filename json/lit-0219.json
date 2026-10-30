@@ -1,0 +1,57 @@
+{
+ "room": "LIT 0219",
+ "subtitle": "Little Hall · Second floor · Classroom · 34 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "MAA 5404",
+   "title": "Intro Complex Var",
+   "who": "Andrew J Vince"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "MHF 4102",
+   "title": "Elements Set Theory",
+   "who": "Jindrich Zapletal"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "MAA 5104",
+   "title": "Advanced Calculus 1",
+   "who": "Cheng Yu"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "MAT 4930",
+   "title": "Spec Topics in Math",
+   "who": "Alexander Nikolae Dranishnikov"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "MAA 5404",
+   "title": "Intro Complex Var",
+   "who": "Francis G Garvan"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "MHF 3202",
+   "title": "Reasoning and Proof in Math",
+   "who": "Ross Ptacek"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

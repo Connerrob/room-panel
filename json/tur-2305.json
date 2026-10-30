@@ -1,0 +1,71 @@
+{
+ "room": "TUR 2305",
+ "subtitle": "Turlington Hall · Second floor · Classroom · 48 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T07:25:00-04:00",
+   "end": "2026-10-30T09:15:00-04:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "WOH 1432",
+   "title": "Pirates & Power",
+   "who": "Matthew Blake Strickland"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "AMH 2020",
+   "title": "US Since 1877",
+   "who": "Steven G Noll"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "AFA 3930",
+   "title": "Special Topics",
+   "who": "Courtney Moore Taylor"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "CLA 3891",
+   "title": "Crime in Ancient Athens",
+   "who": "Andrew Oxman Wolpert"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "IDS 2935",
+   "title": "Special Topics",
+   "who": "Kole Ade Odutola"
+  },
+  {
+   "start": "2026-10-30T14:50:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "EEE 4375",
+   "title": "Introduction to RF Circuits",
+   "who": "Hanna Jang"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

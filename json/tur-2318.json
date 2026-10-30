@@ -1,0 +1,43 @@
+{
+ "room": "TUR 2318",
+ "subtitle": "Turlington Hall · Second floor · Classroom · 43 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T07:25:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "SPN 1130",
+   "title": "Beginning Spanish 1",
+   "who": "Victor M Jordan"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "IDS 2935",
+   "title": "Special Topics",
+   "who": "Benjamin Robert Gaddis"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "AMH 2020",
+   "title": "US Since 1877",
+   "who": "Sean P Adams"
+  },
+  {
+   "start": "2026-10-30T15:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

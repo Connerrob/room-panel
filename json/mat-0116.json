@@ -1,0 +1,57 @@
+{
+ "room": "MAT 0116",
+ "subtitle": "Matherly Hall · First floor · Classroom · 35 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "HIS 3942",
+   "title": "History Practicum",
+   "who": "Jamin Wells"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "PHH 3400",
+   "title": "Modern Philosophy",
+   "who": "Jonathan D Rick"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "PHI 3650",
+   "title": "Moral Philosophy",
+   "who": "Jan Maximilian Robitzsch"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "EUS 3130",
+   "title": "Other Europe & Eur ID",
+   "who": "Esther F Romeyn"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "SYG 2000",
+   "title": "Intro to Sociology",
+   "who": "Alvaro Bartolotti Tomas"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "REL 1631",
+   "title": "Post-Holocaust American Jews",
+   "who": "Rachel Gordan"
+  },
+  {
+   "start": "2026-10-30T16:20:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

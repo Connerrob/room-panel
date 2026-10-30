@@ -1,0 +1,15 @@
+{
+ "room": "WEIM 2050",
+ "subtitle": "Weimer Hall · Computer Lab · 20 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T07:25:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

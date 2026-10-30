@@ -1,0 +1,22 @@
+{
+ "room": "RNK 0230",
+ "subtitle": "Rinker Hall · Second floor · Classroom",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "DCP 6711C",
+   "title": "Built Heritage I",
+   "who": "Linda D Stevenson"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "AST 2005",
+   "title": "Searching for ET Life",
+   "who": "Bernard Isaiah Dela Cruz Lo"
+  }
+ ]
+}

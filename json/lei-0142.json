@@ -1,0 +1,36 @@
+{
+ "room": "LEI 0142",
+ "subtitle": "Leigh Hall · G - Ground floor · Classroom · 44 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "",
+   "title": "Teaching Center",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "",
+   "title": "Teaching Center- Fall 26",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T18:00:00-04:00",
+   "code": "",
+   "title": "CHM2211 SI Elena A (Chemistry)",
+   "who": ""
+  },
+  {
+   "start": "2026-10-30T18:25:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

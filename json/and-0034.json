@@ -1,0 +1,57 @@
+{
+ "room": "AND 0034",
+ "subtitle": "Anderson Hall · G - Ground floor · Classroom · 50 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "POT 4311",
+   "title": "Problems of Democracy",
+   "who": "Timothy Fitzgerald Stolz"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "INR 3102",
+   "title": "US and World Affairs",
+   "who": "Richard Anthony Nolan"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "CPO 4053",
+   "title": "Pol Under Authoritari",
+   "who": "Mai Frndjibachian"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "EUS 4210",
+   "title": "Pol/Inst Euro Union",
+   "who": "Amie D Kreppel"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "POT 4053",
+   "title": "Great Polit Thinkers",
+   "who": "Yuanxin Wang"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "POS 4931",
+   "title": "Special Topics in Poli Sci",
+   "who": "Anna Verma"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T22:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

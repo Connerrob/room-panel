@@ -1,0 +1,43 @@
+{
+ "room": "MAT 0006",
+ "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "MAP 4305",
+   "title": "Dif Equa Eg & Phy Sci",
+   "who": "Calistus Ngonghala"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "FRE 3502",
+   "title": "Francophone Cultures",
+   "who": "Alioune Badaradiam Sow"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "SPN 2340",
+   "title": "Intr Read/Write Hrtg",
+   "who": "Victor M Jordan"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "CPO 2001",
+   "title": "Comparative Politics",
+   "who": "Abel Csatho"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

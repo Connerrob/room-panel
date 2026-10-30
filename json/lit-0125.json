@@ -1,0 +1,36 @@
+{
+ "room": "LIT 0125",
+ "subtitle": "Little Hall · G - Ground floor · Classroom · 36 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "AMH 2020",
+   "title": "US Since 1877",
+   "who": "Steven G Noll"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "MHF 3202",
+   "title": "Reasoning and Proof in Math",
+   "who": "Vincent Vatter"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "CJL 2000",
+   "title": "Law and Legal Process",
+   "who": "Amanda Grace Henderson"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

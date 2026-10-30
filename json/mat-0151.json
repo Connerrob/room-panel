@@ -1,0 +1,36 @@
+{
+ "room": "MAT 0151",
+ "subtitle": "Matherly Hall · First floor · Classroom · 20 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "ENC 1102",
+   "title": "Argument and Persuasion",
+   "who": "Scott Thompson"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "ENC 3453",
+   "title": "Writing in Health",
+   "who": "Andrea G Caloiaro"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "ENC 1102",
+   "title": "Argument and Persuasion",
+   "who": "Scott Thompson"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

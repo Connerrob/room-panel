@@ -1,0 +1,29 @@
+{
+ "room": "WEIL 0273",
+ "subtitle": "Weil Hall · Second floor · Classroom · 33 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "ENC 2305",
+   "title": "Analytical Writing",
+   "who": "Melissa Lyn Mellon"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "THE 3231",
+   "title": "Afric/Amer Hist/Prac",
+   "who": "Ryan H Travis"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

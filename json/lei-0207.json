@@ -1,0 +1,64 @@
+{
+ "room": "LEI 0207",
+ "subtitle": "Leigh Hall · Classroom · 77 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T07:25:00-04:00",
+   "end": "2026-10-30T08:15:00-04:00",
+   "code": "POS 3603",
+   "title": "Am Constitutional Law",
+   "who": "Samuel P Stafford"
+  },
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "STA 4210",
+   "title": "Regression Analysis",
+   "who": "Phuong Anh Nguyen"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "CHM 3400",
+   "title": "Physical Chemistry",
+   "who": "Wei Wei"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "CHM 3610",
+   "title": "Inorganic Chemistry",
+   "who": "Adam S Veige"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "CHM 3610",
+   "title": "Inorganic Chemistry",
+   "who": "Adam S Veige"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "ENC 1102",
+   "title": "Argument and Persuasion",
+   "who": "Scott Thompson"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "CAP 5510",
+   "title": "Bioinformatics",
+   "who": "Christina A Boucher"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

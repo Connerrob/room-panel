@@ -1,0 +1,78 @@
+{
+ "room": "NPB 1216",
+ "subtitle": "New Physics Building · First floor · Classroom · 30 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "PHY 2053",
+   "title": "Physics 1",
+   "who": "Imre Bartos"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "PHY 2049",
+   "title": "Physics With Calc 2",
+   "who": "Matthew Alexander Reinhard"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "PHY 4424",
+   "title": "Optics 1",
+   "who": "Xiao-Xiao Zhang"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "PHZ 6607",
+   "title": "Spec and Gen Relativity",
+   "who": "Asaf Jeff Dror"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "PHY 2054",
+   "title": "Physics 2",
+   "who": "Sujata Krishna"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "PHY 2049",
+   "title": "Physics With Calc 2",
+   "who": "Selman Philip Hershfield"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "PHY 2053",
+   "title": "Physics 1",
+   "who": "Imre Bartos"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "PHY 2053",
+   "title": "Physics 1",
+   "who": "Imre Bartos"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T18:00:00-04:00",
+   "code": "PHY 2049",
+   "title": "Physics With Calc 2",
+   "who": "Selman Philip Hershfield"
+  },
+  {
+   "start": "2026-10-30T18:15:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

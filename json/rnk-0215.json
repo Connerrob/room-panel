@@ -1,0 +1,36 @@
+{
+ "room": "RNK 0215",
+ "subtitle": "Rinker Hall · Second floor · Classroom · 42 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "BCN 4423C",
+   "title": "Temporary Structures",
+   "who": "Muhammad Hasnain"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "BCN 4423C",
+   "title": "Temporary Structures",
+   "who": "Muhammad Hasnain"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "CAP 5108",
+   "title": "Research Mthd for Hcc",
+   "who": "Emmanuel Johnson Dorley"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "room": "AND 0134",
+ "subtitle": "Anderson Hall · First floor · Classroom · 61 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "STA 4211",
+   "title": "Design of Experiments",
+   "who": "Lawrence Herman Winner"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "STA 4210",
+   "title": "Regression Analysis",
+   "who": "Jacob Martin"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "STA 4504",
+   "title": "Categor Data Analysis",
+   "who": "Jacob Martin"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "STA 3100",
+   "title": "Programming With Data",
+   "who": "Andrew Michael Glover"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "STA 4321",
+   "title": "Intro to Probability",
+   "who": "Yuki Ohnishi"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "DEP 3053",
+   "title": "Development Psychol",
+   "who": "Alayna Esther Shoenfelt"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "STA 3100",
+   "title": "Programming With Data",
+   "who": "Patrick Mellady"
+  },
+  {
+   "start": "2026-10-30T15:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

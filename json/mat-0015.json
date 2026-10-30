@@ -1,0 +1,43 @@
+{
+ "room": "MAT 0015",
+ "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "POS 2041",
+   "title": "American Federal Govt",
+   "who": "Suzanne M Mcdonald"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "SPN 3301",
+   "title": "Grammar and Compos 2",
+   "who": "Andrea Villa Ruiz"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "PHI 3681",
+   "title": "Ethics, Data & Tech",
+   "who": "Steven Paul Clark"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "REL 1411",
+   "title": "Why is Evil in the World?",
+   "who": "Muktar Omokayode Sanni"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

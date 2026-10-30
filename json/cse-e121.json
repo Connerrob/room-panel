@@ -1,0 +1,50 @@
+{
+ "room": "CSE E121",
+ "subtitle": "Computer Sciences Engineering Building · First floor · Classroom · 102 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "ZOO 4232",
+   "title": "Human Parasitology",
+   "who": "Peter Epeh Kima"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "ANT 2301",
+   "title": "Human Sexuality and Cul",
+   "who": "Abigail Ryan"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "EGM 2511",
+   "title": "Engr Mech-Statics",
+   "who": "Curtis Taylor"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "EGM 2511",
+   "title": "Engr Mech-Statics",
+   "who": "Steven P Klepac"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "AEB 2451",
+   "title": "Econ of Resource Use",
+   "who": "Youngho Kim"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

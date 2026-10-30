@@ -1,0 +1,50 @@
+{
+ "room": "MAT 0010",
+ "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "FRE 2220",
+   "title": "Intermediate French 1",
+   "who": "Sylvie E Blum"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "CPO 2001",
+   "title": "Comparative Politics",
+   "who": "Amie D Kreppel"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "SPW 3101",
+   "title": "Intro Spanish Lit 2",
+   "who": "Joanne Britland"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "EUS 4214",
+   "title": "European Union in Crisis",
+   "who": "Asli Baysal"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "JPN 1130",
+   "title": "Beginning Japanese 1",
+   "who": "Keiji Iwamoto"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

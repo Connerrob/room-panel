@@ -1,0 +1,22 @@
+{
+ "room": "WEIM 2056",
+ "subtitle": "Weimer Hall · Computer Lab · 20 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ENC 3254",
+   "title": "Professional & Public Writing",
+   "who": "TBD"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

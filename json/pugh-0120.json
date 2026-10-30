@@ -1,0 +1,43 @@
+{
+ "room": "PUGH 0120",
+ "subtitle": "Pugh Hall · First floor · Classroom · 48 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "",
+   "title": "Teaching Center- Fall 26",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "CJL 3038",
+   "title": "Law and Society",
+   "who": "Jihyeong Lee"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "POR 3242",
+   "title": "Oral/Written Practice",
+   "who": "Mariana Oliveira"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "CEN 5728",
+   "title": "Ux Design",
+   "who": "Christina Gardner-McCune"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "SYA 4930",
+   "title": "Special Study",
+   "who": "Evan Wilson Lauteria"
+  }
+ ]
+}

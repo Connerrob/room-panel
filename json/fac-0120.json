@@ -1,0 +1,22 @@
+{
+ "room": "FAC 0120",
+ "subtitle": "Fine Arts C · First floor · Classroom · 55 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ECH 3023",
+   "title": "Material/Energy Balan",
+   "who": "Logan Douglas Morton"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

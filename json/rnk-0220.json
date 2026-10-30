@@ -1,0 +1,43 @@
+{
+ "room": "RNK 0220",
+ "subtitle": "Rinker Hall · Second floor · Classroom · 42 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "ARC 1101",
+   "title": "Places and Spaces",
+   "who": "John Marshall Maze"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "ARC 1101",
+   "title": "Places and Spaces",
+   "who": "John Marshall Maze"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "ARC 1101",
+   "title": "Places and Spaces",
+   "who": "John Marshall Maze"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "URP 6059",
+   "title": "Community Engagement",
+   "who": "Kathryn I Frank"
+  },
+  {
+   "start": "2026-10-30T14:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

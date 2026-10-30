@@ -1,0 +1,57 @@
+{
+ "room": "MAEB 0229",
+ "subtitle": "Mechanical & Aerospace Eng B · Third floor · Classroom · 36 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "EEL 5225",
+   "title": "Prin Microelec Mechan",
+   "who": "Tai-An Chen"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "SYG 2000",
+   "title": "Intro to Sociology",
+   "who": "Luciana Miguel Cavalcante Lima"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "CCJ 3024",
+   "title": "Adv Prin Crim Justice",
+   "who": "Sooyun Lee"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "SYA 4930",
+   "title": "Special Study",
+   "who": "Louise Antonette San Gabriel Villanueva"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "SPT 1320",
+   "title": "Comida y Conflicto",
+   "who": "Ariadna Nohemi Tenorio Lopez"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "AEB 4342",
+   "title": "Agribus/Food Market",
+   "who": "Lijun Chen"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

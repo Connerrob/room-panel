@@ -1,0 +1,71 @@
+{
+ "room": "FLG 0245",
+ "subtitle": "Florida Gymnasium · Second floor · Classroom · 60 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "SPM 3109",
+   "title": "Sport Event Management",
+   "who": "Elif Vozar"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "SPM 3204",
+   "title": "Ethcl Issues in Sport",
+   "who": "Emily Lauren Plunkett"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "SPM 4154",
+   "title": "Managing Sport Organizations",
+   "who": "Jasamine Hill"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "APK 4115",
+   "title": "Neuromuscular Aspects",
+   "who": "Evangelos A Christou"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "SPM 2000",
+   "title": "Intro Sport Mgmt",
+   "who": "David Lucier"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "APK 4115",
+   "title": "Neuromuscular Aspects",
+   "who": "Diego Luis Guarin Lopez"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "HFT 3253",
+   "title": "Lodging Oper and Mgmt",
+   "who": "Ahmad Mujafar Syah"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "ESI 4313",
+   "title": "Operations Research 2",
+   "who": "Murwan Siddig"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

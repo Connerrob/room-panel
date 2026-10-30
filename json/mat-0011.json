@@ -1,0 +1,57 @@
+{
+ "room": "MAT 0011",
+ "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "CHI 2230",
+   "title": "Intermed Chinese 1",
+   "who": "Eva Leslie Lam Casanas"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "JST 3930",
+   "title": "Special Topics Jewish Studies",
+   "who": "Arturor Honig"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "SPN 3036",
+   "title": "Spn Health Prof",
+   "who": "Maria Laura Mecias"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "SPN 1131",
+   "title": "Beginning Spanish 2",
+   "who": "Fernan Gomez-Monedero"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "PHI 2010",
+   "title": "Intro to Philosophy",
+   "who": "Kathryn Rhett Nichols"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "VTN 2220",
+   "title": "Intermed Vietnamese 1",
+   "who": "Andrea Hoa Pham"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

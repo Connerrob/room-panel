@@ -1,0 +1,57 @@
+{
+ "room": "TUR L005",
+ "subtitle": "Turlington Hall · G - Ground floor · Classroom · 145 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "STA 3024",
+   "title": "Intro to Statistics 2",
+   "who": "Stephanie Maria Stine"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "EIN 6918",
+   "title": "Graduate Seminar",
+   "who": "Aleksandr Kazachkov"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "CIS 4930",
+   "title": "Special Topics",
+   "who": "Jingwei Sun"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "EGN 3353C",
+   "title": "Fluid Mechanics",
+   "who": "Lawrence S Ukeiley"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "EML 4507",
+   "title": "Finite Elem Anlys/Des",
+   "who": "Nam Ho Kim"
+  },
+  {
+   "start": "2026-10-30T15:05:00-04:00",
+   "end": "2026-10-30T20:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  },
+  {
+   "start": "2026-10-30T20:20:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "BSC2010 Exams -- DTE ASSEMBLY EXAMS",
+   "who": ""
+  }
+ ]
+}

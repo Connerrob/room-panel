@@ -1,0 +1,50 @@
+{
+ "room": "WM 0100",
+ "subtitle": "Williamson Hall · First floor · Classroom · 120 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "COP 5536",
+   "title": "Adv Data Structures",
+   "who": "Sartaj Kumar Sahni"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "ESC 1000",
+   "title": "Introduction to Earth Sciences",
+   "who": "James J Vogl"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "OCE 1001",
+   "title": "Intro Oceanography",
+   "who": "Thilini Nishika Samarakoo Samarakoon Mudiyanselage"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "CAP 3220",
+   "title": "Intro Compu-Aid Model",
+   "who": "Rachel Louise West"
+  },
+  {
+   "start": "2026-10-30T15:05:00-04:00",
+   "end": "2026-10-30T20:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  },
+  {
+   "start": "2026-10-30T20:20:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "BSC2010 Exams -- DTE ASSEMBLY EXAMS",
+   "who": ""
+  }
+ ]
+}

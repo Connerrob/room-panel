@@ -1,0 +1,57 @@
+{
+ "room": "MAT 0115",
+ "subtitle": "Matherly Hall · First floor · Classroom · 35 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "CHI 1130",
+   "title": "Beginning Chinese 1",
+   "who": "Han Xu"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "PHH 4141",
+   "title": "Sem Ancient Philos",
+   "who": "John Anderson Palmer III"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "LIN 4803",
+   "title": "Intro to Semantics",
+   "who": "Julian Grove"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "REL 1411",
+   "title": "Why is Evil in the World?",
+   "who": "Muktar Omokayode Sanni"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "PHH 3100",
+   "title": "Ancient Greek Philos",
+   "who": "John Anderson Palmer III"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "SYO 4530",
+   "title": "Social Inequality",
+   "who": "Luis Enrique Rondan Vasquez"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

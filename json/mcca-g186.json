@@ -1,0 +1,36 @@
+{
+ "room": "MCCA G186",
+ "subtitle": "McCarty Hall A · Classroom · 156 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "SWS 2007",
+   "title": "World of Water",
+   "who": "James Lee Bonczek"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "CIS 4930",
+   "title": "Special Topics",
+   "who": "Mohammad Al-Saad"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "COP 5556",
+   "title": "Program Language Prin",
+   "who": "Dung Hoang Tran"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T22:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

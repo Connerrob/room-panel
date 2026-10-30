@@ -1,0 +1,57 @@
+{
+ "room": "TUR 2349",
+ "subtitle": "Turlington Hall · Second floor · Classroom · 43 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T07:25:00-04:00",
+   "end": "2026-10-30T08:15:00-04:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "ENC 3459",
+   "title": "Writing in Medicine",
+   "who": "TBD"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "CJL 4110",
+   "title": "Criminal Law",
+   "who": "Justin Burnworth"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "PHH 3100",
+   "title": "Ancient Greek Philos",
+   "who": "Nathan Rothschild"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "GRK 1130",
+   "title": "Begin Modern Greek 1",
+   "who": "Chrysostomos Kostopoulos"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "PHI 3681",
+   "title": "Ethics, Data & Tech",
+   "who": "Ashley K Gasdow"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

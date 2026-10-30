@@ -1,0 +1,64 @@
+{
+ "room": "FLG 0285",
+ "subtitle": "Florida Gymnasium · Second floor · Classroom · 50 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T07:25:00-04:00",
+   "end": "2026-10-30T08:15:00-04:00",
+   "code": "APK 4120",
+   "title": "Clinical Exer Physiol",
+   "who": "Anna Katlyn Gardner"
+  },
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "APK 4120",
+   "title": "Clinical Exer Physiol",
+   "who": "Anna Katlyn Gardner"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "HSC 2103",
+   "title": "Personal Family Hlth",
+   "who": "Erik Wade Black"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "APK 3113C",
+   "title": "Prin Stren Train Cond",
+   "who": "Benjamin T Gordon"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "ESI 6325",
+   "title": "Appl Probability Meth",
+   "who": "Tobias Lodemann"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "SPM 3306",
+   "title": "Sport Marketing",
+   "who": "Shu-Hao Chang"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "SPM 4725",
+   "title": "Advanced Legl Aspects",
+   "who": "Brian D Avery"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

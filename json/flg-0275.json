@@ -1,0 +1,22 @@
+{
+ "room": "FLG 0275",
+ "subtitle": "Florida Gymnasium · Second floor · Classroom · 20 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ANG 6394",
+   "title": "Hospital Ethnography",
+   "who": "Adrienne E Strong"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T22:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

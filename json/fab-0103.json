@@ -1,0 +1,64 @@
+{
+ "room": "FAB 0103",
+ "subtitle": "Fine Arts B · G - Ground floor · Classroom · 97 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "MUT 1111",
+   "title": "Music Theory 1",
+   "who": "Justin Weiss"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "AEC 3414",
+   "title": "Leadership Developmnt",
+   "who": "Matthew J Sowcik"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "JOU 4201",
+   "title": "News Center Practicum",
+   "who": "Arnold Feliciano"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ECH 3023",
+   "title": "Material/Energy Balan",
+   "who": "Vincent J Tocco"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "EML 4321",
+   "title": "Manufactur Engineer",
+   "who": "Jack E Famiglietti"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "EGM 3344",
+   "title": "Numerical Methods Engineering",
+   "who": "Jonathan T Brooks"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "BSC 3096",
+   "title": "Human Physiology",
+   "who": "Zepeng Yao"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:00:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

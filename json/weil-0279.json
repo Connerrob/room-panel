@@ -1,0 +1,71 @@
+{
+ "room": "WEIL 0279",
+ "subtitle": "Weil Hall · Second floor · Classroom · 30 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "SPM 3703",
+   "title": "Sport Performance Analytics",
+   "who": "Aoyang Shi"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "EIN 5249",
+   "title": "Human Factors",
+   "who": "Jad Atweh"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "ENC 3252",
+   "title": "Writing Strat Comm",
+   "who": "Nicholas John Orlando"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "EIN 6216",
+   "title": "Occupational Safety",
+   "who": "Boyi Hu"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "AFA 4135",
+   "title": "Black Am Theories",
+   "who": "Julia Margaret Mollenthiel"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "ENC 2305",
+   "title": "Analytical Writing",
+   "who": "TBD"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "ECH 6845",
+   "title": "Chemical Process Data Science",
+   "who": "Sumant Shreedhar Patankar"
+  },
+  {
+   "start": "2026-10-30T17:30:00-04:00",
+   "end": "2026-10-30T18:30:00-04:00",
+   "code": "",
+   "title": "Knots for a Cause",
+   "who": ""
+  },
+  {
+   "start": "2026-10-30T18:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

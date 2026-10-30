@@ -1,0 +1,50 @@
+{
+ "room": "MAT 0013",
+ "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "PHI 3681",
+   "title": "Ethics, Data & Tech",
+   "who": "Ashley K Gasdow"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "SPN 1601",
+   "title": "Spanish for Heritage Speakers",
+   "who": "Matthew James Skolar"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "SPN 2201",
+   "title": "Intermed Spanish 2",
+   "who": "Georgina Wilson"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "PHI 2010",
+   "title": "Intro to Philosophy",
+   "who": "James C Simpson"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "PHI 2010",
+   "title": "Intro to Philosophy",
+   "who": "Amber M Ross"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

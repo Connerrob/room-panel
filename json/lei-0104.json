@@ -1,0 +1,43 @@
+{
+ "room": "LEI 0104",
+ "subtitle": "Leigh Hall · G - Ground floor · Classroom · 35 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "FRE 2221",
+   "title": "Intermediate French 2",
+   "who": "Loane Jeanne Huber"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "EUS 3110",
+   "title": "Cult and Soc in Europe",
+   "who": "Asli Baysal"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "ENC 2256",
+   "title": "Writing in the Disciplines",
+   "who": "Leah Catherine Corpus"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "IDS 2935",
+   "title": "Special Topics",
+   "who": "David Carlton Brasfield III"
+  },
+  {
+   "start": "2026-10-30T15:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

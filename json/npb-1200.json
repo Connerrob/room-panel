@@ -1,0 +1,57 @@
+{
+ "room": "NPB 1200",
+ "subtitle": "New Physics Building · First floor · Classroom · 15 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "PHZ 4390",
+   "title": "Intr Elem Part Physic",
+   "who": "Serguei Grigorievich Klimenko"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "PHZ 6355",
+   "title": "Elem Particle Phys 1",
+   "who": "Yuta Takahashi"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "PHY 4905",
+   "title": "Individual Work",
+   "who": "TBD"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "PHY 4911",
+   "title": "UG Res Physics",
+   "who": "TBD"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "PHY 6648",
+   "title": "Quantum Field Theo 1",
+   "who": "Yohei Ema"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "PHY 4911",
+   "title": "UG Res Physics",
+   "who": "TBD"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "room": "TUR 2346",
+ "subtitle": "Turlington Hall · Second floor · Classroom · 42 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T07:25:00-04:00",
+   "end": "2026-10-30T08:15:00-04:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "ENC 2256",
+   "title": "Writing in the Disciplines",
+   "who": "Daniel Abitz"
+  },
+  {
+   "start": "2026-10-30T09:25:00-04:00",
+   "end": "2026-10-30T10:20:00-04:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "SYA 4930",
+   "title": "Special Study",
+   "who": "Yi Rong"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "IDS 1114",
+   "title": "ETHICS AND THE PUBLIC SPHERE",
+   "who": "Daniel Antonio Hernandez Castillo"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "CRW 1301",
+   "title": "Begin Poetry Writing",
+   "who": "Mykal Israel Mason"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

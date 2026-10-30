@@ -1,0 +1,50 @@
+{
+ "room": "LIT 0233",
+ "subtitle": "Little Hall · Second floor · Classroom · 34 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "MAA 4102",
+   "title": "Intro Real Analysis 1",
+   "who": "Chamila Malagoda Gamage"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "MHF 3202",
+   "title": "Reasoning and Proof in Math",
+   "who": "Jesse Kim"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "MAD 4203",
+   "title": "Intro Combinatorics 1",
+   "who": "Zachary Hamaker"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "MAP 6375",
+   "title": "Numeric Part Dif Equa",
+   "who": "Sara N Pollock"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "MAS 4115",
+   "title": "Lin Alg-Data Science",
+   "who": "Tristan Goodwill"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

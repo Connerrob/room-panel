@@ -1,0 +1,36 @@
+{
+ "room": "MAEB 0238",
+ "subtitle": "Mechanical & Aerospace Eng B · Second floor · Classroom · 32 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "AEB 6817",
+   "title": "Surv Resrch Meth Econ",
+   "who": "Bachir Kassas"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "EML 4842C",
+   "title": "Autonomous Vehicles",
+   "who": "Alexander J Benvenuti"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "ENU 6106",
+   "title": "Nuclear Reac Analys 1",
+   "who": "TBD"
+  },
+  {
+   "start": "2026-10-30T15:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

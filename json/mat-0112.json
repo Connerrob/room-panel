@@ -1,0 +1,29 @@
+{
+ "room": "MAT 0112",
+ "subtitle": "Matherly Hall · First floor · Classroom · 42 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "LIN 2141",
+   "title": "Linguistic Prejudice",
+   "who": "Alayo Tripp"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "PHI 2010",
+   "title": "Intro to Philosophy",
+   "who": "Kathryn Rhett Nichols"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

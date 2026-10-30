@@ -1,0 +1,36 @@
+{
+ "room": "MCCB G108",
+ "subtitle": "McCarty Hall B · First floor · Classroom · 42 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ENC 3252",
+   "title": "Writing Strat Comm",
+   "who": "Leah Catherine Corpus"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "THE 2000",
+   "title": "Theatre Apprec 1",
+   "who": "Ricardo Guevara"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "THE 2000",
+   "title": "Theatre Apprec 1",
+   "who": "Ricardo Guevara"
+  },
+  {
+   "start": "2026-10-30T14:50:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

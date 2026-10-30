@@ -1,0 +1,50 @@
+{
+ "room": "MAT 0251",
+ "subtitle": "Matherly Hall · Second floor · Classroom · 20 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "AEB 4931",
+   "title": "Special Topics in Fre",
+   "who": "Bixuan Yang"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ENC 2305",
+   "title": "Analytical Writing",
+   "who": "Rachel C Warner"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "LAS 3930",
+   "title": "Sp Top Lat Amer Stud",
+   "who": "Carlos De La Torre Espinosa"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "ENC 3453",
+   "title": "Writing in Health",
+   "who": "Andrea G Caloiaro"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "ENC 1101",
+   "title": "Expos and Argu Writing",
+   "who": "Scott Thompson"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

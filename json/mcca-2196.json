@@ -1,0 +1,43 @@
+{
+ "room": "MCCA 2196",
+ "subtitle": "McCarty Hall A · Second floor · Classroom · 47 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "TPP 3650",
+   "title": "Script Analysis",
+   "who": "Erin Lekovic"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "FYC 4503",
+   "title": "Meth Family Life Educ",
+   "who": "Victor Harris"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "APK 2322",
+   "title": "Exercise as Medicine",
+   "who": "Anna Katlyn Gardner"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "FYC 4660",
+   "title": "Family Policy",
+   "who": "Jenee Duncan"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

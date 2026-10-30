@@ -1,0 +1,50 @@
+{
+ "room": "BLK 0315",
+ "subtitle": "Black Hall · Third floor · Classroom · 30 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "ENU 4103",
+   "title": "Reactor Analysis and Comp 1",
+   "who": "TBD"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "BME 6522",
+   "title": "Multivari Signal Proc",
+   "who": "Mingzhou Ding"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "EEL 4930",
+   "title": "Spec Top Elect Eng",
+   "who": "Tuba Yavuz"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "BME 5401",
+   "title": "Biomed Engr and Phys 1",
+   "who": "Jamal Sana Lewis"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "BME 6938",
+   "title": "Special Topics",
+   "who": "Daniel Perry Ferris"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "BME 6938",
+   "title": "Special Topics",
+   "who": "Kuang Gong"
+  }
+ ]
+}

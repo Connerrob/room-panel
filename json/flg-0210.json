@@ -1,0 +1,71 @@
+{
+ "room": "FLG 0210",
+ "subtitle": "Florida Gymnasium · Second floor · Classroom · 105 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "ATR 2010C",
+   "title": "Prevent/Care Injuries",
+   "who": "Paul A Borsa"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "SPM 4510",
+   "title": "Revenue Generation in Sport",
+   "who": "Kelsey Morgan Garrison"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "HFT 2750",
+   "title": "Event Management",
+   "who": "Tobi Anne Marie King"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "SPM 4104",
+   "title": "Sprt Ops & Faclt Mgt",
+   "who": "David Lucier"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "SPM 4724",
+   "title": "Risk Mgt-Live Ent Spt",
+   "who": "Brian D Avery"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "HSC 4713",
+   "title": "Plan & Eval Hlth Edu",
+   "who": "Erik Wade Black"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "LEI 4540",
+   "title": "Mgmt & Supv of THEM Facilities",
+   "who": "Won Ji Chung"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "APK 4050",
+   "title": "Research Methods",
+   "who": "James H Cauraugh"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

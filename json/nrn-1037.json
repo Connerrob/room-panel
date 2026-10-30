@@ -1,0 +1,22 @@
+{
+ "room": "NRN 1037",
+ "subtitle": "Norman Hall · Classroom",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "FYC 2331",
+   "title": "An Ounce of Prevention",
+   "who": "Tennisha N Riley"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "REL 1163",
+   "title": "God, Humanity, and Evolution",
+   "who": "Prathik Murali"
+  }
+ ]
+}

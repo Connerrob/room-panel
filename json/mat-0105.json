@@ -1,0 +1,43 @@
+{
+ "room": "MAT 0105",
+ "subtitle": "Matherly Hall · First floor · Classroom · 42 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "KOR 1131",
+   "title": "Beginning Korean 2",
+   "who": "Semin Seo"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "LIN 2141",
+   "title": "Linguistic Prejudice",
+   "who": "Alayo Tripp"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "PHI 1001",
+   "title": "Conflict of Ideas",
+   "who": "Kiet Nguyen"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "ENC 2305",
+   "title": "Analytical Writing",
+   "who": "Felipe Gonzalez Silva"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

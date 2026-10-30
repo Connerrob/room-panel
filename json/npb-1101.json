@@ -1,0 +1,71 @@
+{
+ "room": "NPB 1101",
+ "subtitle": "New Physics Building · First floor · Classroom · 46 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "PHY 2049",
+   "title": "Physics With Calc 2",
+   "who": "Soumitra Ganguly"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "PHY 6246",
+   "title": "Classical Mechanics",
+   "who": "Jeffrey J Andrews"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "PHY 6645",
+   "title": "Quantum Mechanics 1",
+   "who": "Christopher Jay Stanton"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "PHY 2049",
+   "title": "Physics With Calc 2",
+   "who": "Joseph Hunter Fichera"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "PHY 2049",
+   "title": "Physics With Calc 2",
+   "who": "Joseph Hunter Fichera"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "PHY 4222",
+   "title": "Mechanics 2",
+   "who": "Dominique Laroche"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "PHY 6346",
+   "title": "Electromag Theory 1",
+   "who": "Wei Xue"
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "PHY 2049",
+   "title": "Physics With Calc 2",
+   "who": "Joseph D Jung"
+  },
+  {
+   "start": "2026-10-30T17:00:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

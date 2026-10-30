@@ -1,0 +1,50 @@
+{
+ "room": "WEIM 1076",
+ "subtitle": "Weimer Hall · First floor · Classroom · 35 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "FOS 4410C",
+   "title": "Intro Food Processing",
+   "who": "Andrew John Macintosh"
+  },
+  {
+   "start": "2026-10-30T09:35:00-04:00",
+   "end": "2026-10-30T10:25:00-04:00",
+   "code": "FOS 4321C",
+   "title": "Food Analysis",
+   "who": "Liwei Gu"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "CCJ 4934",
+   "title": "Contemp Iss Crim Jus",
+   "who": "Carla Elizabeth Tierney"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "IDS 1652",
+   "title": "Atlantic Creoles",
+   "who": "James Essegbey"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "SYG 2000",
+   "title": "Intro to Sociology",
+   "who": "Kaili Zhang"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "room": "ROL 0115",
+ "subtitle": "Rolfs Hall · Classroom · 40 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T08:30:00-04:00",
+   "end": "2026-10-30T09:20:00-04:00",
+   "code": "ENC 1102",
+   "title": "Argument and Persuasion",
+   "who": "Scott Thompson"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "ENC 2256",
+   "title": "Writing in the Disciplines",
+   "who": "Christie Brooke Debelius"
+  },
+  {
+   "start": "2026-10-30T11:45:00-04:00",
+   "end": "2026-10-30T12:35:00-04:00",
+   "code": "ENC 2256",
+   "title": "Writing in the Disciplines",
+   "who": "Christie Brooke Debelius"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "LIT 4483",
+   "title": "Iss/Meth Cultur Study",
+   "who": "Raul Sanchez Jr."
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T14:45:00-04:00",
+   "code": "SPN 2340",
+   "title": "Intr Read/Write Hrtg",
+   "who": "Maria G Dominguez"
+  },
+  {
+   "start": "2026-10-30T15:00:00-04:00",
+   "end": "2026-10-30T15:50:00-04:00",
+   "code": "ENG 3010",
+   "title": "Theo/Prac Mod Crit",
+   "who": "Raul Sanchez Jr."
+  },
+  {
+   "start": "2026-10-30T16:05:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "room": "TUR 2336",
+ "subtitle": "Turlington Hall · Second floor · Classroom · 42 seats",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T09:40:36-04:00",
+ "bookings": [
+  {
+   "start": "2026-10-30T07:25:00-04:00",
+   "end": "2026-10-30T10:15:00-04:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-10-30T10:40:00-04:00",
+   "end": "2026-10-30T11:30:00-04:00",
+   "code": "CLA 3433",
+   "title": "Athenian Democracy",
+   "who": "Ifigeneia Giannadaki"
+  },
+  {
+   "start": "2026-10-30T12:50:00-04:00",
+   "end": "2026-10-30T13:40:00-04:00",
+   "code": "CLA 1011",
+   "title": "Democracy in Theory and Action",
+   "who": "Ifigeneia Giannadaki"
+  },
+  {
+   "start": "2026-10-30T13:55:00-04:00",
+   "end": "2026-10-30T16:55:00-04:00",
+   "code": "ANT 4930",
+   "title": "Special Topics",
+   "who": "Richard B Kernaghan"
+  },
+  {
+   "start": "2026-10-30T17:10:00-04:00",
+   "end": "2026-10-30T22:10:00-04:00",
+   "code": "",
+   "title": "Florida Blue Key",
+   "who": ""
+  }
+ ]
+}
