@@ -1,43 +1,50 @@
 {
  "room": "CSE E222",
  "subtitle": "Computer Sciences Engineering Building · Second floor · Classroom · 80 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
-   "code": "IDS 2935",
-   "title": "Special Topics",
-   "who": "Brian Khumalo"
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
+   "code": "SLS 1102",
+   "title": "Enhanc Freshman Exper",
+   "who": "George A Johnson III"
   },
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
-   "code": "IDS 2935",
-   "title": "Special Topics",
-   "who": "Brian Khumalo"
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
+   "code": "JOU 3346L",
+   "title": "Multimedia Reporting",
+   "who": "Herbert Lowe"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
-   "code": "IDS 2935",
-   "title": "Special Topics",
-   "who": "Brian Khumalo"
-  },
-  {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "ENY 1001",
    "title": "Bugs and People",
    "who": "Jason L Williams"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
+   "code": "REL 1411",
+   "title": "Why is Evil in the World?",
+   "who": "Muktar Omokayode Sanni"
+  },
+  {
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T15:50:00-05:00",
+   "code": "REL 1631",
+   "title": "Post-Holocaust American Jews",
+   "who": "Rachel Gordan"
+  },
+  {
+   "start": "2026-11-02T19:00:00-05:00",
+   "end": "2026-11-02T21:00:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
-   "who": ""
+   "title": "Sigma Chi",
+   "who": "Interfraternity Council-IFC"
   }
  ]
 }

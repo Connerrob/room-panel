@@ -1,42 +1,42 @@
 {
  "room": "AND 0013",
  "subtitle": "Anderson Hall · G - Ground floor · Classroom · 40 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
-   "code": "PHI 2010",
-   "title": "Intro to Philosophy",
-   "who": "Amber M Ross"
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
+   "code": "GER 1130",
+   "title": "Beginning German 1",
+   "who": "Guelden Olgun"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "ENC 1102",
    "title": "Argument and Persuasion",
    "who": "Scott Thompson"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "LIN 6323",
    "title": "Phonology 1",
    "who": "Kevin Dean Hughes"
   },
   {
-   "start": "2026-10-30T16:05:00-04:00",
-   "end": "2026-10-30T16:55:00-04:00",
+   "start": "2026-11-02T16:05:00-05:00",
+   "end": "2026-11-02T16:55:00-05:00",
    "code": "CHT 3123",
    "title": "Pre-Mod Fiction Trans",
    "who": "Richard G Wang"
   },
   {
-   "start": "2026-10-30T17:10:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T18:30:00-05:00",
+   "end": "2026-11-02T20:30:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
+   "title": "YDSA GBM",
    "who": ""
   }
  ]

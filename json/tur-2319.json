@@ -1,36 +1,57 @@
 {
  "room": "TUR 2319",
  "subtitle": "Turlington Hall · Second floor · Classroom · 71 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T07:25:00-04:00",
-   "end": "2026-10-30T09:13:00-04:00",
+   "start": "2026-11-02T07:25:00-05:00",
+   "end": "2026-11-02T08:15:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
-   "code": "AMH 2020",
-   "title": "US Since 1877",
-   "who": "Beckett Paynter Price"
+   "start": "2026-11-02T08:30:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
+   "code": "EES 3206",
+   "title": "Env Chem",
+   "who": "Jean-Claude J Bonzongo"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
-   "code": "PHI 2010",
-   "title": "Intro to Philosophy",
-   "who": "James C Simpson"
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
+   "code": "RUS 2220",
+   "title": "Intermediate Russian",
+   "who": "James E Goodwin"
   },
   {
-   "start": "2026-10-30T12:40:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
+   "code": "LIN 2141",
+   "title": "Linguistic Prejudice",
+   "who": "Alayo Tripp"
+  },
+  {
+   "start": "2026-11-02T12:40:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
-   "who": ""
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T16:55:00-05:00",
+   "code": "EML 4501",
+   "title": "ME Design 2",
+   "who": "Umesh Dharamdeo Persad"
+  },
+  {
+   "start": "2026-11-02T17:00:00-05:00",
+   "end": "2026-11-02T22:00:00-05:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
   }
  ]
 }

@@ -1,22 +1,22 @@
 {
  "room": "PSY 0129",
  "subtitle": "Psychology Building · First floor · Classroom · 25 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
-   "code": "SOP 6929",
-   "title": "Colloq Res Soc-Pers",
-   "who": "Lindsey M Rodriguez"
+   "start": "2026-11-02T08:30:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
+   "code": "EAB 6937C",
+   "title": "Top Exper Analys Beh",
+   "who": "Jesse Dallery"
   },
   {
-   "start": "2026-10-30T12:55:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
-   "code": "",
-   "title": "Florida Blue Key",
-   "who": ""
+   "start": "2026-11-02T16:05:00-05:00",
+   "end": "2026-11-02T19:05:00-05:00",
+   "code": "EAB 6939",
+   "title": "Sem Spec Top Appl Beh",
+   "who": "Timothy Raymond Vollmer"
   }
  ]
 }

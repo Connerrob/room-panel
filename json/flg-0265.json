@@ -1,57 +1,57 @@
 {
  "room": "FLG 0265",
  "subtitle": "Florida Gymnasium · Second floor · Classroom · 50 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
    "code": "APK 3200",
    "title": "Motor Learning",
    "who": "Daphne Grace Schmid"
   },
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
    "code": "SPM 3012",
    "title": "Social Issues in Sport",
    "who": "Kelsey Morgan Garrison"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "APK 3200",
    "title": "Motor Learning",
    "who": "Daphne Grace Schmid"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "HSC 3201",
    "title": "Community/Envir Hlth",
    "who": "Erik Wade Black"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T14:45:00-04:00",
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
    "code": "EEL 4930",
    "title": "Spec Top Elect Eng",
    "who": "Xiaoyi Lu"
   },
   {
-   "start": "2026-10-30T15:00:00-04:00",
-   "end": "2026-10-30T15:50:00-04:00",
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T15:50:00-05:00",
    "code": "ISS 2100",
    "title": "What's Love Got To Do With It?",
    "who": "Jessica Jean Stonecipher"
   },
   {
-   "start": "2026-10-30T16:00:00-04:00",
-   "end": "2026-10-30T22:00:00-04:00",
-   "code": "",
-   "title": "Florida Blue Key",
-   "who": "EM-OFFICE OF REGISTRAR"
+   "start": "2026-11-02T16:05:00-05:00",
+   "end": "2026-11-02T19:05:00-05:00",
+   "code": "HSC 6603",
+   "title": "Theo Hlth Behav/Prac",
+   "who": "Suzanne M Murphy"
   }
  ]
 }

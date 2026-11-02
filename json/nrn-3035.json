@@ -1,15 +1,22 @@
 {
  "room": "NRN 3035",
  "subtitle": "Norman Hall · Classroom",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
-   "code": "REL 1163",
-   "title": "God, Humanity, and Evolution",
-   "who": "Prathik Murali"
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
+   "code": "ZOO 6927",
+   "title": "Special Topics",
+   "who": "Edward Leo Stanley"
+  },
+  {
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:55:00-05:00",
+   "code": "",
+   "title": "MAC 2312- office hours -Mathematics",
+   "who": "LS-MATHEMATICS"
   }
  ]
 }

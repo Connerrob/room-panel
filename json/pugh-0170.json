@@ -1,35 +1,63 @@
 {
  "room": "PUGH 0170",
  "subtitle": "Pugh Hall · First floor · Classroom · 229 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T08:30:00-04:00",
-   "end": "2026-10-30T09:20:00-04:00",
+   "start": "2026-11-02T08:30:00-05:00",
+   "end": "2026-11-02T09:20:00-05:00",
    "code": "APK 2105C",
    "title": "Appl Human Phys W/Lab",
    "who": "Kyoungrae Kim"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
+   "code": "POT 2002",
+   "title": "Intro Political Theor",
+   "who": "Daniel Oneill"
+  },
+  {
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "AST 1002",
    "title": "Discover the Universe",
    "who": "Charles Michael Telesco"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T14:45:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
+   "code": "AMH 2020",
+   "title": "US Since 1877",
+   "who": "Emma Charlotte Riquet"
+  },
+  {
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
    "code": "STA 3024",
    "title": "Intro to Statistics 2",
    "who": "Phuong Anh Nguyen"
   },
   {
-   "start": "2026-10-30T20:20:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T16:05:00-05:00",
+   "end": "2026-11-02T16:55:00-05:00",
+   "code": "RTV 3001",
+   "title": "Intro to Media Indust",
+   "who": "Roxane Coche"
+  },
+  {
+   "start": "2026-11-02T18:00:00-05:00",
+   "end": "2026-11-02T19:30:00-05:00",
    "code": "",
-   "title": "BSC2011 Exams -- DTE ASSEMBLY EXAM",
+   "title": "Review Session M 6-7:30pm",
+   "who": ""
+  },
+  {
+   "start": "2026-11-02T20:20:00-05:00",
+   "end": "2026-11-02T22:10:00-05:00",
+   "code": "",
+   "title": "ECO2013 Exams -- DTE ASSEMBLY EXAMS",
    "who": ""
   }
  ]

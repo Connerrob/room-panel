@@ -1,63 +1,63 @@
 {
  "room": "FLG 0280",
  "subtitle": "Florida Gymnasium · Second floor · Classroom · 105 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
+   "start": "2026-11-02T07:25:00-05:00",
+   "end": "2026-11-02T09:20:00-05:00",
+   "code": "PCB 3063",
+   "title": "Genetics",
+   "who": "Xiaofei Bai"
+  },
+  {
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
    "code": "EML 3100",
    "title": "Thermodynamics 1",
    "who": "Subrata Roy"
   },
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
    "code": "CGS 4144",
    "title": "Introduction to Bioinformatics",
    "who": "Kiley S Graim"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "EML 2023",
    "title": "Compu Aided Graph/Des",
    "who": "Carl D Crane III"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "EML 4220",
    "title": "Vibrations",
    "who": "John Kenneth Schueller"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T14:45:00-04:00",
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
    "code": "EGM 3401",
    "title": "Engineer Mech Dynamic",
    "who": "Christopher Daniel Petersen"
   },
   {
-   "start": "2026-10-30T15:00:00-04:00",
-   "end": "2026-10-30T15:50:00-04:00",
-   "code": "ESI 3327C",
-   "title": "Matrix/Numeric Method",
-   "who": "Jad Atweh"
-  },
-  {
-   "start": "2026-10-30T16:05:00-04:00",
-   "end": "2026-10-30T20:05:00-04:00",
+   "start": "2026-11-02T19:20:00-05:00",
+   "end": "2026-11-02T20:00:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
+   "title": "DTE Hold",
    "who": ""
   },
   {
-   "start": "2026-10-30T20:20:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T20:20:00-05:00",
+   "end": "2026-11-02T22:10:00-05:00",
    "code": "",
-   "title": "EEL3111C DTE Exams",
+   "title": "DTE BLOCKOUT",
    "who": ""
   }
  ]

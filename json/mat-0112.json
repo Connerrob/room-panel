@@ -1,29 +1,43 @@
 {
  "room": "MAT 0112",
  "subtitle": "Matherly Hall · First floor · Classroom · 42 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
-   "code": "LIN 2141",
-   "title": "Linguistic Prejudice",
-   "who": "Alayo Tripp"
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
+   "code": "ECP 3510",
+   "title": "Econ of Education",
+   "who": "Garrison Blake Pollard"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
-   "code": "PHI 2010",
-   "title": "Intro to Philosophy",
-   "who": "Kathryn Rhett Nichols"
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
+   "code": "ECP 3403",
+   "title": "Industrial Org",
+   "who": "Carlos German Bet"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T15:50:00-05:00",
+   "code": "ECO 3203",
+   "title": "Intermed Macroecon",
+   "who": "Attila Gyetvai"
+  },
+  {
+   "start": "2026-11-02T16:05:00-05:00",
+   "end": "2026-11-02T18:00:00-05:00",
+   "code": "ECO 4421",
+   "title": "Econometrics",
+   "who": "Anand Mathew"
+  },
+  {
+   "start": "2026-11-02T18:00:00-05:00",
+   "end": "2026-11-02T20:00:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
-   "who": ""
+   "title": "Alpha Phi Omega Chapter Meeting",
+   "who": "Alpha Phi Omega"
   }
  ]
 }

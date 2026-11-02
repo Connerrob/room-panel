@@ -1,42 +1,63 @@
 {
  "room": "TUR L011",
  "subtitle": "Turlington Hall · G - Ground floor · Classroom · 136 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
    "code": "IDS 2935",
    "title": "Special Topics",
    "who": "Jennifer Patricia Heilmann"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
+   "code": "EML 4507",
+   "title": "Finite Elem Anlys/Des",
+   "who": "Youping Chen"
+  },
+  {
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "CDA 4324C",
    "title": "Cyber-physical System Security",
    "who": "Sara Rampazzi"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "EAS 4510",
    "title": "Astrodynamics",
    "who": "Anil Rao"
   },
   {
-   "start": "2026-10-30T14:00:00-04:00",
-   "end": "2026-10-30T20:00:00-04:00",
-   "code": "",
-   "title": "Florida Blue Key",
-   "who": ""
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
+   "code": "APK 4125C",
+   "title": "Phys Fit Assessment",
+   "who": "Benjamin T Gordon"
   },
   {
-   "start": "2026-10-30T20:20:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T16:55:00-05:00",
+   "code": "EAB 4714C",
+   "title": "Lab Applied Beh Analy",
+   "who": "Ryan Earl Higginbotham"
+  },
+  {
+   "start": "2026-11-02T17:10:00-05:00",
+   "end": "2026-11-02T19:05:00-05:00",
+   "code": "ARC 2490C",
+   "title": "Integrated Bldg Tech 1",
+   "who": "Yexuan Gu"
+  },
+  {
+   "start": "2026-11-02T20:20:00-05:00",
+   "end": "2026-11-02T22:10:00-05:00",
    "code": "",
-   "title": "BSC2010 Exams -- DTE ASSEMBLY EXAMS",
+   "title": "DTE BLOCKOUT",
    "who": ""
   }
  ]

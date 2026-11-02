@@ -1,29 +1,43 @@
 {
  "room": "DAU 0342",
  "subtitle": "Dauer Hall · Third floor · Classroom · 20 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
-   "code": "",
-   "title": "Teaching Center ",
-   "who": "EM-OFFICE OF REGISTRAR"
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
+   "code": "RUS 2220",
+   "title": "Intermediate Russian",
+   "who": "Michael S Gorham"
   },
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
-   "code": "PHI 1001",
-   "title": "Conflict of Ideas",
-   "who": "Kiet Nguyen"
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
+   "code": "JPN 2230",
+   "title": "Intermed Japanese 1",
+   "who": "Kensaku Ogata"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "LAT 1104",
    "title": "Beginning Latin 3",
    "who": "Esteban Arango Casas"
+  },
+  {
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
+   "code": "JPN 2230",
+   "title": "Intermed Japanese 1",
+   "who": "Kensaku Ogata"
+  },
+  {
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T18:00:00-05:00",
+   "code": "CLA 4931",
+   "title": "Classics Capstone",
+   "who": "Andrew Oxman Wolpert"
   }
  ]
 }

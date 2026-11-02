@@ -1,35 +1,35 @@
 {
  "room": "MCCB G108",
  "subtitle": "McCarty Hall B · First floor · Classroom · 42 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "ENC 3252",
    "title": "Writing Strat Comm",
    "who": "Leah Catherine Corpus"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
-   "code": "THE 2000",
-   "title": "Theatre Apprec 1",
-   "who": "Ricardo Guevara"
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
+   "code": "AEC 4434",
+   "title": "Comm/Ldrshp Grp/Teams",
+   "who": "Laura Lee Greenhaw"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T14:45:00-04:00",
-   "code": "THE 2000",
-   "title": "Theatre Apprec 1",
-   "who": "Ricardo Guevara"
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T16:55:00-05:00",
+   "code": "PUR 3500",
+   "title": "Public Rela Research",
+   "who": "Shuo Yao"
   },
   {
-   "start": "2026-10-30T14:50:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T18:00:00-05:00",
+   "end": "2026-11-02T21:00:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
+   "title": "Sigma Lambda Beta Chapter Meetings",
    "who": ""
   }
  ]

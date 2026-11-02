@@ -1,43 +1,50 @@
 {
  "room": "LAR 0310",
  "subtitle": "Larsen Hall · Third floor · Classroom · 78 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
    "code": "BME 4409",
    "title": "Quant Physiology",
    "who": "Meghan C Ferrall-Fairbanks"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "BME 4311",
    "title": "Molecular Biomed Eng",
    "who": "Michael John Strinden"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "BME 3053C",
    "title": "Comp App Bme",
    "who": "Jessica Sena De Souza"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T14:45:00-04:00",
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
    "code": "BME 4621",
    "title": "Bio Thermo and Kinetics",
    "who": "Gregory Hudalla"
   },
   {
-   "start": "2026-10-30T15:00:00-04:00",
-   "end": "2026-10-30T15:50:00-04:00",
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T15:50:00-05:00",
    "code": "AEB 2452",
    "title": "Agritourism and Food Systems",
    "who": "Misti Sharp"
+  },
+  {
+   "start": "2026-11-02T20:20:00-05:00",
+   "end": "2026-11-02T22:10:00-05:00",
+   "code": "",
+   "title": "DTE BLOCKOUT",
+   "who": ""
   }
  ]
 }

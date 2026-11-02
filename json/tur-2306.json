@@ -1,43 +1,57 @@
 {
  "room": "TUR 2306",
  "subtitle": "Turlington Hall · Second floor · Classroom · 43 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T07:25:00-04:00",
-   "end": "2026-10-30T09:15:00-04:00",
+   "start": "2026-11-02T07:25:00-05:00",
+   "end": "2026-11-02T09:15:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
    "code": "ENC 1101",
    "title": "Expos and Argu Writing",
    "who": "Scott Thompson"
   },
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
    "code": "ENG 4953",
    "title": "Senior Sem for Majors",
    "who": "Malini Johar Schueller"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "SPN 1131",
    "title": "Beginning Spanish 2",
    "who": "Jennifer Asiedua Ansah"
   },
   {
-   "start": "2026-10-30T12:40:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
+   "code": "FOS 2040",
+   "title": "Intro Food Science",
+   "who": "Boce Zhang"
+  },
+  {
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T18:00:00-05:00",
+   "code": "HSC 5956",
+   "title": "Writ Profess Publica",
+   "who": "Liana Hone"
+  },
+  {
+   "start": "2026-11-02T18:05:00-05:00",
+   "end": "2026-11-02T22:00:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
-   "who": ""
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
   }
  ]
 }

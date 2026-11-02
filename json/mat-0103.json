@@ -1,42 +1,49 @@
 {
  "room": "MAT 0103",
  "subtitle": "Matherly Hall · First floor · Classroom · 46 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
-   "code": "PHI 3681",
-   "title": "Ethics, Data & Tech",
-   "who": "Cameron Joseph Buckner"
+   "start": "2026-11-02T07:25:00-05:00",
+   "end": "2026-11-02T09:20:00-05:00",
+   "code": "ECP 3703",
+   "title": "Managerial Economics",
+   "who": "Pedro Augusto de Sousa Almeida"
   },
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
-   "code": "PHI 3681",
-   "title": "Ethics, Data & Tech",
-   "who": "Jacob Coker Haun"
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
+   "code": "ECO 5464",
+   "title": "Game Theory and Io",
+   "who": "Carlos German Bet"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
-   "code": "INR 2001",
-   "title": "International Relatns",
-   "who": "Sunkyoo Kim"
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
+   "code": "RUS 1130",
+   "title": "Intro Rus Lang&Cul 1",
+   "who": "Dina Sandoval"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "JPN 3416",
    "title": "Japanese Pedagogy",
    "who": "Risa Wada"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T15:50:00-05:00",
+   "code": "ECP 3403",
+   "title": "Industrial Org",
+   "who": "Carlos German Bet"
+  },
+  {
+   "start": "2026-11-02T18:00:00-05:00",
+   "end": "2026-11-02T19:00:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
+   "title": "UF Pre-Dental ASDA",
    "who": ""
   }
  ]

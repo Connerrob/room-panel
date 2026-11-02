@@ -1,42 +1,56 @@
 {
  "room": "MAT 0004",
  "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
+   "code": "JPN 2230",
+   "title": "Intermed Japanese 1",
+   "who": "Kensaku Ogata"
+  },
+  {
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
    "code": "SYG 2000",
    "title": "Intro to Sociology",
    "who": "Tayana Malewschik"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "ENC 1145",
    "title": "Topcs for Composition",
    "who": "Shuya Su"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "JPN 1130",
    "title": "Beginning Japanese 1",
    "who": "Keiji Iwamoto"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T14:45:00-04:00",
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
    "code": "SPN 1131",
    "title": "Beginning Spanish 2",
    "who": "Fernan Gomez-Monedero"
   },
   {
-   "start": "2026-10-30T15:00:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T16:00:00-05:00",
+   "end": "2026-11-02T17:00:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
+   "title": "GRiP",
+   "who": ""
+  },
+  {
+   "start": "2026-11-02T18:00:00-05:00",
+   "end": "2026-11-02T19:00:00-05:00",
+   "code": "",
+   "title": "Business Research Group GBM",
    "who": ""
   }
  ]

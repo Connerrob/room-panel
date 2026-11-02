@@ -1,14 +1,28 @@
 {
  "room": "WEIM 2050",
  "subtitle": "Weimer Hall · Computer Lab · 20 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T07:25:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T08:30:00-05:00",
+   "end": "2026-11-02T09:20:00-05:00",
+   "code": "ENV 6932",
+   "title": "Spec Prob in Env Engr",
+   "who": "Andreia Fonseca de Faria"
+  },
+  {
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
+   "code": "PUR 4932",
+   "title": "Special Study",
+   "who": "Robert P Judin"
+  },
+  {
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
+   "title": "Teaching Center - Monday",
    "who": ""
   }
  ]

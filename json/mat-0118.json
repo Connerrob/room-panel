@@ -1,57 +1,57 @@
 {
  "room": "MAT 0118",
  "subtitle": "Matherly Hall · First floor · Classroom · 25 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
    "code": "AML 3605",
    "title": "African-Amer Lit 1",
    "who": "Catherine C Saunders"
   },
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
    "code": "MAT 6932",
    "title": "Spec Topics in Math",
    "who": "Michael Thomas Jury"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
-   "code": "AMH 2020",
-   "title": "US Since 1877",
-   "who": "Steven G Noll"
-  },
-  {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "AML 2410",
    "title": "Issues Am Lit and Cult",
    "who": "Jacob Domosh"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T14:45:00-04:00",
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
    "code": "AML 2070",
    "title": "Survey of Am Lit",
    "who": "Annesha Palit"
   },
   {
-   "start": "2026-10-30T15:00:00-04:00",
-   "end": "2026-10-30T15:50:00-04:00",
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T15:50:00-05:00",
    "code": "LIT 2000",
    "title": "Intro to Literature",
    "who": "Adaobi Ekene Ejechi"
   },
   {
-   "start": "2026-10-30T16:05:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
-   "code": "",
-   "title": "Florida Blue Key",
-   "who": ""
+   "start": "2026-11-02T16:05:00-05:00",
+   "end": "2026-11-02T18:00:00-05:00",
+   "code": "ECO 7415",
+   "title": "Statistical Methods",
+   "who": "Douglas C Turner"
+  },
+  {
+   "start": "2026-11-02T18:15:00-05:00",
+   "end": "2026-11-02T21:10:00-05:00",
+   "code": "POS 6274",
+   "title": "Political Campaigning",
+   "who": "Roger Q Austin III"
   }
  ]
 }

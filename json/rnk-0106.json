@@ -1,22 +1,50 @@
 {
  "room": "RNK 0106",
  "subtitle": "Rinker Hall · First floor · Classroom · 40 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
-   "code": "DCP 4000",
-   "title": "Overview Hist Pres",
-   "who": "Erica Marie Mollon"
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
+   "code": "DCP 4930",
+   "title": "Special Topics",
+   "who": "Patricia N Kio"
   },
   {
-   "start": "2026-10-30T14:00:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
+   "code": "DCP 3200",
+   "title": "Methods of Inquiry",
+   "who": "Patricia N Kio"
+  },
+  {
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
+   "code": "MMC 2604",
+   "title": "Media, Cultures, and Identity",
+   "who": "Lindita Camaj"
+  },
+  {
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
+   "code": "IND 2100",
+   "title": "Hist Interior Des 1",
+   "who": "Erin K Cunningham"
+  },
+  {
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T16:55:00-05:00",
+   "code": "DCP 3220",
+   "title": "Soc&Cltr Sust Blt Env",
+   "who": "Harold S Knowles III"
+  },
+  {
+   "start": "2026-11-02T19:30:00-05:00",
+   "end": "2026-11-02T22:00:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
-   "who": ""
+   "title": "DCR Overflow ",
+   "who": "Disability Resource Center"
   }
  ]
 }

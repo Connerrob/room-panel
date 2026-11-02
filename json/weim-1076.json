@@ -1,50 +1,71 @@
 {
  "room": "WEIM 1076",
  "subtitle": "Weimer Hall · First floor · Classroom · 35 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T08:30:00-04:00",
-   "end": "2026-10-30T09:20:00-04:00",
+   "start": "2026-11-02T08:30:00-05:00",
+   "end": "2026-11-02T09:20:00-05:00",
    "code": "FOS 4410C",
    "title": "Intro Food Processing",
    "who": "Andrew John Macintosh"
   },
   {
-   "start": "2026-10-30T09:35:00-04:00",
-   "end": "2026-10-30T10:25:00-04:00",
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
    "code": "FOS 4321C",
    "title": "Food Analysis",
    "who": "Liwei Gu"
   },
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
    "code": "CCJ 4934",
    "title": "Contemp Iss Crim Jus",
    "who": "Carla Elizabeth Tierney"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "IDS 1652",
    "title": "Atlantic Creoles",
    "who": "James Essegbey"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "SYG 2000",
    "title": "Intro to Sociology",
    "who": "Kaili Zhang"
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
    "code": "",
-   "title": "Florida Blue Key",
+   "title": "Teaching Center - Monday",
    "who": ""
+  },
+  {
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T15:50:00-05:00",
+   "code": "MMC 2604",
+   "title": "Media, Cultures, and Identity",
+   "who": "Antoine Haywood"
+  },
+  {
+   "start": "2026-11-02T17:00:00-05:00",
+   "end": "2026-11-02T18:00:00-05:00",
+   "code": "",
+   "title": "Students Eat Right ",
+   "who": ""
+  },
+  {
+   "start": "2026-11-02T20:15:00-05:00",
+   "end": "2026-11-02T22:00:00-05:00",
+   "code": "",
+   "title": "Florida Club Swim Team Eboard Meeting",
+   "who": "Florida Club Swim Team"
   }
  ]
 }

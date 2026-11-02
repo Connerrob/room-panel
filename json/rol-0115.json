@@ -1,57 +1,71 @@
 {
  "room": "ROL 0115",
  "subtitle": "Rolfs Hall · Classroom · 40 seats",
- "date": "2026-10-30",
- "generated": "2026-10-30T09:40:36-04:00",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T07:12:07-05:00",
  "bookings": [
   {
-   "start": "2026-10-30T08:30:00-04:00",
-   "end": "2026-10-30T09:20:00-04:00",
+   "start": "2026-11-02T08:30:00-05:00",
+   "end": "2026-11-02T09:20:00-05:00",
    "code": "ENC 1102",
    "title": "Argument and Persuasion",
    "who": "Scott Thompson"
   },
   {
-   "start": "2026-10-30T10:40:00-04:00",
-   "end": "2026-10-30T11:30:00-04:00",
+   "start": "2026-11-02T09:35:00-05:00",
+   "end": "2026-11-02T10:25:00-05:00",
+   "code": "RUS 1130",
+   "title": "Intro Rus Lang&Cul 1",
+   "who": "Natalia Sletova"
+  },
+  {
+   "start": "2026-11-02T10:40:00-05:00",
+   "end": "2026-11-02T11:30:00-05:00",
    "code": "ENC 2256",
    "title": "Writing in the Disciplines",
    "who": "Christie Brooke Debelius"
   },
   {
-   "start": "2026-10-30T11:45:00-04:00",
-   "end": "2026-10-30T12:35:00-04:00",
+   "start": "2026-11-02T11:45:00-05:00",
+   "end": "2026-11-02T12:35:00-05:00",
    "code": "ENC 2256",
    "title": "Writing in the Disciplines",
    "who": "Christie Brooke Debelius"
   },
   {
-   "start": "2026-10-30T12:50:00-04:00",
-   "end": "2026-10-30T13:40:00-04:00",
+   "start": "2026-11-02T12:50:00-05:00",
+   "end": "2026-11-02T13:40:00-05:00",
    "code": "LIT 4483",
    "title": "Iss/Meth Cultur Study",
    "who": "Raul Sanchez Jr."
   },
   {
-   "start": "2026-10-30T13:55:00-04:00",
-   "end": "2026-10-30T14:45:00-04:00",
+   "start": "2026-11-02T13:55:00-05:00",
+   "end": "2026-11-02T14:45:00-05:00",
    "code": "SPN 2340",
    "title": "Intr Read/Write Hrtg",
    "who": "Maria G Dominguez"
   },
   {
-   "start": "2026-10-30T15:00:00-04:00",
-   "end": "2026-10-30T15:50:00-04:00",
+   "start": "2026-11-02T15:00:00-05:00",
+   "end": "2026-11-02T15:50:00-05:00",
    "code": "ENG 3010",
    "title": "Theo/Prac Mod Crit",
    "who": "Raul Sanchez Jr."
   },
   {
-   "start": "2026-10-30T16:05:00-04:00",
-   "end": "2026-10-30T22:10:00-04:00",
-   "code": "",
-   "title": "Florida Blue Key",
-   "who": ""
+   "start": "2026-11-02T16:05:00-05:00",
+   "end": "2026-11-02T19:05:00-05:00",
+   "code": "ENG 6138",
+   "title": "Studies in the Movies",
+   "who": "Barbara Caroline Mennel"
+  },
+  {
+   "start": "2026-11-02T19:20:00-05:00",
+   "end": "2026-11-02T22:10:00-05:00",
+   "code": "ENG 3125",
+   "title": "History of Film 3",
+   "who": "Pietro Bianchi"
   }
  ]
 }
