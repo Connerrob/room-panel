@@ -1,22 +1,36 @@
 {
  "room": "FAC 0127",
  "subtitle": "Fine Arts C · First floor · Classroom · 50 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ENC 1101",
-   "title": "Expos and Argu Writing",
-   "who": "Scott Thompson"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "STA 3180",
+   "title": "Statistical Modelling",
+   "who": "David Holmes"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "AEB 3510",
-   "title": "Quant Meth Food & Res",
-   "who": "Patrick S Ward"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "IDS 4930",
+   "title": "Spec Top Interdis Stu",
+   "who": "Marianne T Vernetson"
+  },
+  {
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "HBT 3235",
+   "title": "Holocaust Novels",
+   "who": "Roy Holler"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "POS 4931",
+   "title": "Special Topics in Poli Sci",
+   "who": "Leslie Elin Anderson"
   }
  ]
 }

@@ -1,57 +1,57 @@
 {
  "room": "CSE E220",
  "subtitle": "Computer Sciences Engineering Building · Second floor · Classroom · 50 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "EMA 6165",
-   "title": "Polymer Phys Science",
-   "who": "Angelika Elisabeth Neitzel"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "CLT 3510",
+   "title": "Ancient World in Film",
+   "who": "Jennifer Ann Rea"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "EMA 6616",
-   "title": "Adv Electron Mtl Proc",
-   "who": "Jennifer K Hite"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "STA 4211",
+   "title": "Design of Experiments",
+   "who": "Elizabeth D Johnson"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "COT 3100",
-   "title": "Appli Discrete Struc",
-   "who": "Alireza Entezari"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "AST 3019",
+   "title": "Astron/Astrophys 2",
+   "who": "Sarah Ballard"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "AEB 4334",
-   "title": "Agr Price Analysis",
-   "who": "Xumin Zhang"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "CLA 3151",
-   "title": "Pompeii Archaeol Lab",
-   "who": "Matthew Callaway Harder"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "COT 3100",
-   "title": "Appli Discrete Struc",
-   "who": "Alireza Entezari"
-  },
-  {
-   "start": "2026-11-02T19:00:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
    "code": "",
-   "title": "Gator Theme Park Engineering & Design: Creative Design Team",
-   "who": "Gator Theme Park Engineering and Design Club"
+   "title": "Teaching Center- Fall 26",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-11-03T16:10:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "",
+   "title": "Teaching Center- Fall 26",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-11-03T17:30:00-05:00",
+   "end": "2026-11-03T18:30:00-05:00",
+   "code": "",
+   "title": "GRiP",
+   "who": ""
+  },
+  {
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T21:00:00-05:00",
+   "code": "",
+   "title": "Alpha Kappa Psi - Pledge Membership Meetings",
+   "who": "Alpha Kappa Psi"
   }
  ]
 }

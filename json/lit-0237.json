@@ -1,36 +1,57 @@
 {
  "room": "LIT 0237",
  "subtitle": "Little Hall · Second floor · Classroom · 76 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "EEL 3472",
-   "title": "Fund ElectroMAG FLDs",
-   "who": "Dennis Sungtae Kim"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "ENV 3000",
+   "title": "Core 2: Fund Env Eng",
+   "who": "Sungyoon Jung"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "IDS 1114",
-   "title": "ETHICS AND THE PUBLIC SPHERE",
-   "who": "Daniel Antonio Hernandez Castillo"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "INR 3603",
+   "title": "Theo Internatnl Rela",
+   "who": "Aida A Hozic"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "ARH 1030",
-   "title": "Art Crime",
-   "who": "Cassidy Francis Cannon"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ENC 2256",
+   "title": "Writing in the Disciplines",
+   "who": "Philip Austin Gilreath"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "BCH 3025",
-   "title": "Fundament of Biochem",
-   "who": "Diana H Taft"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "AEB 4242",
+   "title": "Internat Trade Policy",
+   "who": "Olesya M Savchenko"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "BME 4632",
+   "title": "Bme Transport",
+   "who": "Robert Chris Geiger"
+  },
+  {
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "AEB 2014",
+   "title": "Eco Issues Food and You",
+   "who": "Jennifer L Clark"
+  },
+  {
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T20:30:00-05:00",
+   "code": "",
+   "title": "Medi-Gators Leadership Team Meeting",
+   "who": ""
   }
  ]
 }

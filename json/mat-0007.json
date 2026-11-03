@@ -1,49 +1,49 @@
 {
  "room": "MAT 0007",
  "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "MAT 6932",
-   "title": "Spec Topics in Math",
-   "who": "Peter K Sin"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "CHI 1130",
+   "title": "Beginning Chinese 1",
+   "who": "Elinore L Fresh"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "POR 3010",
-   "title": "Intr Portugues/Brazil",
-   "who": "Mariana Oliveira"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "ANT 2301",
+   "title": "Human Sexuality and Cul",
+   "who": "Sophia Margaret Patterson"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "SPN 3350",
-   "title": "Spn gram/comp hrtg",
-   "who": "Victor M Jordan"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "SLS 1102",
+   "title": "Enhanc Freshman Exper",
+   "who": "Naomi Janet Harrell"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SPN 1131",
-   "title": "Beginning Spanish 2",
-   "who": "Fernan Gomez-Monedero"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "ITW 4581",
+   "title": "Plants in Italian Culture",
+   "who": "Deborah Amberson"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "CGN 4851C",
-   "title": "Concrete Mixture Design",
-   "who": "Kyle Austin Riding"
-  },
-  {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T19:00:00-05:00",
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
    "code": "",
-   "title": "Future Business Leaders of America GBM",
+   "title": "DSP Onboarding",
+   "who": "Delta Sigma Pi"
+  },
+  {
+   "start": "2026-11-03T18:30:00-05:00",
+   "end": "2026-11-03T19:30:00-05:00",
+   "code": "",
+   "title": "Empowered Business Consulting",
    "who": ""
   }
  ]

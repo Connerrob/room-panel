@@ -1,84 +1,49 @@
 {
  "room": "CLB C130",
  "subtitle": "Chemistry Laboratory Building · First floor · Classroom · 325 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T07:25:00-05:00",
-   "end": "2026-11-02T08:15:00-05:00",
-   "code": "CHM 2045",
-   "title": "General Chemistry",
-   "who": "Martina Sumner"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "CHM 2210",
+   "title": "Organic Chemistry",
+   "who": "Amal Narayanan"
   },
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "CHM 2095",
-   "title": "Chemistry 1",
-   "who": "Maria V Korolev"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "FYC 4212",
+   "title": "Contemp Youth Probs",
+   "who": "Michelle Abraczinskas"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "CHM 2045",
-   "title": "General Chemistry",
-   "who": "Martina Sumner"
-  },
-  {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "CHM 2046",
-   "title": "Gen Chem & Qual Analysis",
-   "who": "David E Richardson"
-  },
-  {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
    "code": "CHM 2046",
    "title": "Gen Chem & Qual Analysis",
    "who": "Ashlyn Rose Elsie Hale"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "CHM 2045",
-   "title": "General Chemistry",
-   "who": "Steven Harris"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "CHM 2046",
+   "title": "Gen Chem & Qual Analysis",
+   "who": "Ali Shafiee"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "CHM 2045",
-   "title": "General Chemistry",
-   "who": "Steven Harris"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "CHM 2045",
-   "title": "General Chemistry",
-   "who": "Stacey-Ann Y Benjamin-Messam"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "CHM 2045",
-   "title": "General Chemistry",
-   "who": "Martina Sumner"
-  },
-  {
-   "start": "2026-11-02T17:10:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "CHM 2210",
-   "title": "Organic Chemistry",
-   "who": "Simon Lopez D'Sola"
-  },
-  {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T18:15:00-05:00",
+   "end": "2026-11-03T19:15:00-05:00",
    "code": "",
-   "title": "ECO2013 Exams -- DTE ASSEMBLY EXAMS",
+   "title": "Study Review Sessions - CHM 2210 - Dr. Simon Lopez - Chemistry",
+   "who": "LS-CHEMISTRY-GENERAL"
+  },
+  {
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
+   "code": "",
+   "title": "PHY2053 Exams -- DTE ASSEMBLY EXAMS",
    "who": ""
   }
  ]

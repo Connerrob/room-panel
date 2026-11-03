@@ -1,54 +1,54 @@
 {
  "room": "TUR 2346",
  "subtitle": "Turlington Hall · Second floor · Classroom · 42 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T07:25:00-05:00",
-   "end": "2026-11-02T08:15:00-05:00",
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T08:15:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "ENC 2256",
-   "title": "Writing in the Disciplines",
-   "who": "Daniel Abitz"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "ENC 1102",
+   "title": "Argument and Persuasion",
+   "who": "Scott Thompson"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "",
-   "title": "Teaching Center- Fall 26",
-   "who": "EM-OFFICE OF REGISTRAR"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "GET 3580",
+   "title": "War in Lit & Vis Med",
+   "who": "Eric Matthew Kligerman"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SYA 4930",
-   "title": "Special Study",
-   "who": "Yi Rong"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "IDS 1054",
+   "title": "Intro to Research in LA&S",
+   "who": "Mark M Chatfield V"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "JOU 4201",
-   "title": "News Center Practicum",
-   "who": "Jeremiah St.Louis"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "SYP 3510",
+   "title": "Deviance",
+   "who": "Marian J Borg"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "HUN 6626",
-   "title": "Nutrition Education",
-   "who": "Jeanette Mary Andrade"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "ENC 1102",
+   "title": "Argument and Persuasion",
+   "who": "Scott Thompson"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T17:05:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"

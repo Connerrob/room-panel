@@ -1,42 +1,42 @@
 {
  "room": "WEIM 2056",
  "subtitle": "Weimer Hall · Computer Lab · 20 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "FOS 6455C",
-   "title": "Industrial Food Ferme",
-   "who": "Katherine Amy Thompson Witrick"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "RTV 4681",
+   "title": "Adv TV News Reporting",
+   "who": "Mark O Leeps"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ENC 3254",
-   "title": "Professional & Public Writing",
-   "who": "TBD"
-  },
-  {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "PUR 4204",
-   "title": "Corporate Communication",
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "PUR 4400C",
+   "title": "Crisis Communications",
    "who": "Patrick Ford"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "PUR 4611",
-   "title": "Corporate Reputation",
-   "who": "Patrick Ford"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "RTV 3440",
+   "title": "Understanding Auds",
+   "who": "Mengyu Li"
   },
   {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "MMC 6047",
+   "title": "Academic Writing for Mass Comm",
+   "who": "Antoine Haywood"
+  },
+  {
+   "start": "2026-11-03T18:30:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
    "code": "",
-   "title": "Gator Science Olympiad E-Board Meetings",
+   "title": "Embodied Intelligence Group",
    "who": ""
   }
  ]

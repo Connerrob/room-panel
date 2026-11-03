@@ -1,64 +1,71 @@
 {
  "room": "FLO 0100",
  "subtitle": "Griffin-Floyd Hall · G - Ground floor · Classroom · 60 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "STA 3100",
-   "title": "Programming With Data",
-   "who": "Matias Shedden"
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T08:15:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Martina Sumner"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "STA 3100",
-   "title": "Programming With Data",
-   "who": "David S Lindberg III"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "STA 6207",
+   "title": "Regression Analysis",
+   "who": "Lawrence Herman Winner"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "STA 4322",
-   "title": "Intro Statistics Thry",
-   "who": "Yeison Quiceno Duran"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "STA 4504",
+   "title": "Categor Data Analysis",
+   "who": "Demetris Athienitis"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "STA 4241",
-   "title": "Statistical Learning",
-   "who": "Joseph L Antonelli"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "STA 6166",
+   "title": "Stat Meth Research 1",
+   "who": "John Doss"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
    "code": "STA 4210",
    "title": "Regression Analysis",
-   "who": "David S Lindberg III"
+   "who": "Jacob Martin"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "STA 3100",
-   "title": "Programming With Data",
-   "who": "Yuhua Zhang"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Stacey-Ann Y Benjamin-Messam"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "STA 4321",
-   "title": "Intro to Probability",
-   "who": "Changwoo Lee"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
    "code": "STA 6938",
    "title": "Seminar",
    "who": "TBD"
+  },
+  {
+   "start": "2026-11-03T18:15:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Stacey-Ann Y Benjamin-Messam"
+  },
+  {
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
+   "code": "",
+   "title": "Doss Statistics Exam Review Session",
+   "who": ""
   }
  ]
 }

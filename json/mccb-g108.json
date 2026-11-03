@@ -1,36 +1,43 @@
 {
  "room": "MCCB G108",
  "subtitle": "McCarty Hall B · First floor · Classroom · 42 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ENC 3252",
-   "title": "Writing Strat Comm",
-   "who": "Leah Catherine Corpus"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "SWS 5424C",
+   "title": "Soil Chemical Analys",
+   "who": "Francisca Ordonez Hinz"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "AEC 4434",
-   "title": "Comm/Ldrshp Grp/Teams",
-   "who": "Laura Lee Greenhaw"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "AEC 3030C",
+   "title": "Effect Oral Communica",
+   "who": "Dorcas Sunday"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "PUR 3500",
-   "title": "Public Rela Research",
-   "who": "Shuo Yao"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "RTV 4930",
+   "title": "Special Study",
+   "who": "Eric C Esterline"
   },
   {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T21:00:00-05:00",
+   "start": "2026-11-03T16:00:00-05:00",
+   "end": "2026-11-03T17:30:00-05:00",
    "code": "",
-   "title": "Sigma Lambda Beta Chapter Meetings",
+   "title": "ASME Gator Robotic Arm Student Project",
    "who": ""
+  },
+  {
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "SHPE External Cabinet Meeting",
+   "who": "Society of Hispanic Professional Engrs - SHPE"
   }
  ]
 }

@@ -1,54 +1,61 @@
 {
  "room": "TUR 2319",
  "subtitle": "Turlington Hall · Second floor · Classroom · 71 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T07:25:00-05:00",
-   "end": "2026-11-02T08:15:00-05:00",
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T08:15:00-05:00",
+   "code": "POS 3606",
+   "title": "Amer Civil Liberties",
+   "who": "Samuel P Stafford"
+  },
+  {
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Martina Sumner"
+  },
+  {
+   "start": "2026-11-03T09:30:00-05:00",
+   "end": "2026-11-03T10:20:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "EES 3206",
-   "title": "Env Chem",
-   "who": "Jean-Claude J Bonzongo"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "CLA 2100",
+   "title": "Glory That Was Greece",
+   "who": "Eleni Bozia"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "RUS 2220",
-   "title": "Intermediate Russian",
-   "who": "James E Goodwin"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "PSY 3626",
+   "title": "Psy of Sustainability",
+   "who": "Ron L Chandler"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "LIN 2141",
-   "title": "Linguistic Prejudice",
-   "who": "Alayo Tripp"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Steven Harris"
   },
   {
-   "start": "2026-11-02T12:40:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "",
-   "title": "Building Closed",
-   "who": "EM-OFFICE OF REGISTRAR"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "IDS 2154",
+   "title": "Facets Sustainability",
+   "who": "Glen Billesbach"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "EML 4501",
-   "title": "ME Design 2",
-   "who": "Umesh Dharamdeo Persad"
-  },
-  {
-   "start": "2026-11-02T17:00:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"

@@ -1,77 +1,84 @@
 {
  "room": "LIT 0205",
  "subtitle": "Little Hall · Second floor · Classroom · 34 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "MAT 6932",
-   "title": "Spec Topics in Math",
-   "who": "TBD"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "MAC 2313",
+   "title": "Analyt Geom and Calc 3",
+   "who": "Alexander T York"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "MAT 4930",
-   "title": "Spec Topics in Math",
-   "who": "Alexandre Turull"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "MAC 2313",
+   "title": "Analyt Geom and Calc 3",
+   "who": "Cemil Teoman Yalcinkaya"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "MAT 6932",
-   "title": "Spec Topics in Math",
-   "who": "Luca Fabrizio Di Cerbo"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "LAS 2001",
+   "title": "Intro Latin America",
+   "who": "Luis Felipe Gomez Lomeli"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "MAT 6932",
-   "title": "Spec Topics in Math",
-   "who": "Alexander Nikolae Dranishnikov"
-  },
-  {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "MTG 7396",
-   "title": "Adv Topics Topology 1",
-   "who": "Peter Bubenik"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "MAT 6932",
-   "title": "Spec Topics in Math",
-   "who": "Krishnaswami Alladi"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "MAA 5104",
-   "title": "Advanced Calculus 1",
-   "who": "Sergei S Pilyugin"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "MAC 1140",
-   "title": "Precalculus Algebra",
-   "who": "Hamadi R Mcintosh"
-  },
-  {
-   "start": "2026-11-02T17:10:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "MAT 4930",
-   "title": "Spec Topics in Math",
-   "who": "Sergei Shabanov"
-  },
-  {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
    "code": "",
-   "title": "Gator Pokémon League",
+   "title": "Teaching Center",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "SLS 1102",
+   "title": "Enhanc Freshman Exper",
+   "who": "Erica L Mack"
+  },
+  {
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "MAC 2313",
+   "title": "Analyt Geom and Calc 3",
+   "who": "Luke Anthony Fontan"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "MAC 2313",
+   "title": "Analyt Geom and Calc 3",
+   "who": "Cemil Teoman Yalcinkaya"
+  },
+  {
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "MAC 2313",
+   "title": "Analyt Geom and Calc 3",
+   "who": "Brian Ransom"
+  },
+  {
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Alex Mustard"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
+   "code": "",
+   "title": "Alpha Zeta Pledge Meetings",
+   "who": ""
+  },
+  {
+   "start": "2026-11-03T20:00:00-05:00",
+   "end": "2026-11-03T21:00:00-05:00",
+   "code": "",
+   "title": "Gators for Refugee Medical Relief",
    "who": ""
   }
  ]

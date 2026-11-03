@@ -1,29 +1,64 @@
 {
  "room": "FAC 0120",
  "subtitle": "Fine Arts C · First floor · Classroom · 55 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "CIS 4930",
-   "title": "Special Topics",
-   "who": "Meera Sitharam"
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T08:15:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Martina Sumner"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ECH 3023",
-   "title": "Material/Energy Balan",
-   "who": "Logan Douglas Morton"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Martina Sumner"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "COT 3100",
-   "title": "Appli Discrete Struc",
-   "who": "Alireza Entezari"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Steven Harris"
+  },
+  {
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Stacey-Ann Y Benjamin-Messam"
+  },
+  {
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Stacey-Ann Y Benjamin-Messam"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Steven Harris"
+  },
+  {
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Stacey-Ann Y Benjamin-Messam"
+  },
+  {
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Stacey-Ann Y Benjamin-Messam"
   }
  ]
 }

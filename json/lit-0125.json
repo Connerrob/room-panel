@@ -1,43 +1,57 @@
 {
  "room": "LIT 0125",
  "subtitle": "Little Hall · G - Ground floor · Classroom · 36 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "MHF 3202",
-   "title": "Reasoning and Proof in Math",
-   "who": "Vincent Vatter"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Avi Nava Mukhopadhyay"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "CJL 2000",
-   "title": "Law and Legal Process",
-   "who": "Amanda Grace Henderson"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Cayley H Robinson"
   },
   {
-   "start": "2026-11-02T16:00:00-05:00",
-   "end": "2026-11-02T17:00:00-05:00",
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "IDS 2935",
+   "title": "Special Topics",
+   "who": "Liesel Hamilton"
+  },
+  {
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "MAC 1147",
+   "title": "Algebra and Trigonometry",
+   "who": "Patrick T Carmichael"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "ADV 3008",
+   "title": "Principle of Advertis",
+   "who": "Sarah Lisa Anna Karl"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
    "code": "",
-   "title": "Generational Relief in Prosthetics",
+   "title": "Student-Led Academic Peer Studies GBM 3",
    "who": ""
   },
   {
-   "start": "2026-11-02T17:15:00-05:00",
-   "end": "2026-11-02T19:15:00-05:00",
+   "start": "2026-11-03T19:30:00-05:00",
+   "end": "2026-11-03T21:30:00-05:00",
    "code": "",
-   "title": "The Neurodiversity Alliance at UF ND Show and Tell",
-   "who": "The Neurodiversity Alliance"
-  },
-  {
-   "start": "2026-11-02T20:00:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
-   "code": "",
-   "title": "Alpha Kappa Alpha Chapter Meeting",
-   "who": "Alpha Kappa Alpha"
+   "title": "YDSA Watch Party",
+   "who": ""
   }
  ]
 }

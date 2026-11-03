@@ -1,22 +1,36 @@
 {
  "room": "WEIM 1098",
  "subtitle": "Weimer Hall · First floor · Classroom · 16 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "TTE 6267",
-   "title": "Traffic Flow Theory",
-   "who": "Ageliki Elefteriadou"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "ADV 4101",
+   "title": "Copy and Visualization",
+   "who": "Jennifer Robyn Goodman"
   },
   {
-   "start": "2026-11-02T17:00:00-05:00",
-   "end": "2026-11-02T19:00:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "WST 6004",
+   "title": "Feminist Methods",
+   "who": "Madeleine Jane Coy"
+  },
+  {
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
    "code": "",
    "title": "Aerogator Project Meeting",
    "who": "AeroGator"
+  },
+  {
+   "start": "2026-11-03T19:30:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "Women's Health Advocacy Alliance GBM#2",
+   "who": ""
   }
  ]
 }

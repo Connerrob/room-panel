@@ -1,36 +1,43 @@
 {
  "room": "WEIM 1070",
  "subtitle": "Weimer Hall · First floor · Classroom · 45 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SPM 2182",
-   "title": "Athletic Career Management",
-   "who": "Jessica Anne Francis"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "ENU 4003",
+   "title": "Nuclear Engineering Analysis 2",
+   "who": "Christopher McDevitt"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "LAT 1120",
-   "title": "Beginning Latin 1",
-   "who": "John Wesley Holston IV"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "DIE 4125",
+   "title": "Food Systems Manage",
+   "who": "Beth Treat Gankofskie"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "DAN 2390",
-   "title": "Global Dance Perspectives",
-   "who": "Rachel Carrico"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "ENU 6941",
+   "title": "Prof Dev for Nuc Eng Sci",
+   "who": "Kevin S Jones"
   },
   {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T19:05:00-05:00",
-   "code": "RTV 4301",
-   "title": "TV News Reporting",
-   "who": "Harrison Chandler Hove"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "CEG 6206",
+   "title": "NDT and Geophysics",
+   "who": "Khiem T Tran"
+  },
+  {
+   "start": "2026-11-03T17:30:00-05:00",
+   "end": "2026-11-03T20:30:00-05:00",
+   "code": "",
+   "title": "Sigma Gamma Rho 22 Shades of Safety",
+   "who": "Sigma Gamma Rho"
   }
  ]
 }

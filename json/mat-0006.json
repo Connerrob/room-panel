@@ -1,43 +1,50 @@
 {
  "room": "MAT 0006",
  "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "MAP 4305",
-   "title": "Dif Equa Eg & Phy Sci",
-   "who": "Calistus Ngonghala"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "POS 4931",
+   "title": "Special Topics in Poli Sci",
+   "who": "Badredine Arfi"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "FRE 3502",
-   "title": "Francophone Cultures",
-   "who": "Alioune Badaradiam Sow"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "MAC 1147",
+   "title": "Algebra and Trigonometry",
+   "who": "Vincent Daniel Holmlund"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SPN 2340",
-   "title": "Intr Read/Write Hrtg",
-   "who": "Victor M Jordan"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "SLS 1102",
+   "title": "Enhanc Freshman Exper",
+   "who": "Jessica Jewell"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
    "code": "",
    "title": "ELI class",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T17:00:00-05:00",
-   "end": "2026-11-02T19:00:00-05:00",
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "EUH 3931",
+   "title": "Special Topics",
+   "who": "Anna Lankina"
+  },
+  {
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
-   "title": "NSBE Design Team",
-   "who": "National Society of Black Engrs - NSBE"
+   "title": "November Mini Week Events",
+   "who": ""
   }
  ]
 }

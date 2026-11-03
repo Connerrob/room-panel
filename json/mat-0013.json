@@ -1,43 +1,43 @@
 {
  "room": "MAT 0013",
  "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SPN 1601",
-   "title": "Spanish for Heritage Speakers",
-   "who": "Matthew James Skolar"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "CCJ 6920",
+   "title": "Sem Criminology Thry",
+   "who": "Abigail A Fagan"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "SPN 2201",
-   "title": "Intermed Spanish 2",
-   "who": "Georgina Wilson"
-  },
-  {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
    "code": "ITA 1130",
    "title": "Beginning Italian 1",
    "who": "Sherrie Ann Nunn"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "JOU 4313C",
-   "title": "Sports Reporting",
-   "who": "Ryan J Hunt"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "HUM 2420",
+   "title": "African Humanities",
+   "who": "Kole Ade Odutola"
   },
   {
-   "start": "2026-11-02T17:45:00-05:00",
-   "end": "2026-11-02T19:15:00-05:00",
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
    "code": "",
-   "title": "Psychology Club Fundraising #5",
-   "who": "Psychology Club"
+   "title": "International Fraternity of Delta Sigma Pi",
+   "who": "Delta Sigma Pi"
+  },
+  {
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
+   "code": "",
+   "title": "Dance Marathon - Miracle Bowl Backups",
+   "who": "Dance Marathon"
   }
  ]
 }

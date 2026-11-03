@@ -1,61 +1,47 @@
 {
  "room": "TUR 2305",
  "subtitle": "Turlington Hall · Second floor · Classroom · 48 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T07:25:00-05:00",
-   "end": "2026-11-02T09:15:00-05:00",
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T09:15:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "",
-   "title": "Teaching Center- Fall 26",
-   "who": "EM-OFFICE OF REGISTRAR"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "LAS 4935",
+   "title": "Latin American Area Seminar",
+   "who": "Rafael Solorzano"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "CHM 3120L",
-   "title": "Analytical Chem Lab",
-   "who": "Alexander Jacobs"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "CCJ 4934",
+   "title": "Contemp Iss Crim Jus",
+   "who": "Myunghee You"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "AFA 3930",
-   "title": "Special Topics",
-   "who": "Courtney Moore Taylor"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "IDS 4930",
+   "title": "Spec Top Interdis Stu",
+   "who": "Fatma Busra Gunay"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SLS 1102",
-   "title": "Enhanc Freshman Exper",
-   "who": "Rachel Gifford"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "HUN 4936",
+   "title": "Top Human Nutrition",
+   "who": "Diana H Taft"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "EOC 6934",
-   "title": "Adv Topics Coast and Oc",
-   "who": "Alberto Canestrelli"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "EEE 4375",
-   "title": "Introduction to RF Circuits",
-   "who": "Hanna Jang"
-  },
-  {
-   "start": "2026-11-02T17:00:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"

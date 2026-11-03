@@ -1,50 +1,43 @@
 {
  "room": "PSY 0130",
  "subtitle": "Psychology Building · First floor · Classroom · 84 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "PSY 3213L",
-   "title": "Lab Methods in Psychology",
-   "who": "Ryan Earl Higginbotham"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "DEP 3053",
+   "title": "Development Psychol",
+   "who": "Ariana Burga"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "PSB 4504",
-   "title": "Dev Neuroscience",
-   "who": "Darragh P Devine"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "EXP 3604",
+   "title": "Cognitive Psychology",
+   "who": "Trevor John Caruso"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "PSY 2012",
-   "title": "General Psychology",
-   "who": "Shani S Kerr"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "EAB 3764",
+   "title": "Appl Behav Analysis",
+   "who": "Faris R Kronfli"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "EAB 4714C",
-   "title": "Lab Applied Beh Analy",
-   "who": "Timothy Raymond Vollmer"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "PSB 4434",
+   "title": "Neurochem/Pharmacol",
+   "who": "Marek Schwendt"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "PSY 2012",
-   "title": "General Psychology",
-   "who": "Amy Faith Pezoldt"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "PSY 2012",
-   "title": "General Psychology",
-   "who": "Yongyong Xu"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "PSY 6930",
+   "title": "Topics in Psychology",
+   "who": "Marek Schwendt"
   }
  ]
 }

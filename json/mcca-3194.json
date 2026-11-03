@@ -1,64 +1,50 @@
 {
  "room": "MCCA 3194",
  "subtitle": "McCarty Hall A · Third floor · Classroom · 38 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "FYC 3401",
-   "title": "Intro Soc/Eco Perspec",
-   "who": "Dale Pracht"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "WIS 6934",
+   "title": "Top Wildl Ecol/Conser",
+   "who": "Ethan P White"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "SPN 2200",
-   "title": "Intermed Spanish 1",
-   "who": "Su Ar Lee Ko"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "AEB 3144",
+   "title": "Intr to Agric Finance",
+   "who": "Derek Farnsworth"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "FYC 3115",
-   "title": "Human Services",
-   "who": "Martie Gillen"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "CAP 6617",
+   "title": "Adv Machine Learning",
+   "who": "Arunava Banerjee"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "FOS 3060",
-   "title": "Life After Graduation",
-   "who": "Keith R Schneider"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "FNR 3133C",
+   "title": "Tree Biology",
+   "who": "Timothy A Martin"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "HUN 6548",
-   "title": "Global Nutrition",
-   "who": "Juan Emilio Andrade"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "AEB 6106",
-   "title": "Microecon Prin/Anlys",
-   "who": "Gulcan Onel"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "FYC 3112",
-   "title": "Contemp Family Probs",
-   "who": "Jenee Duncan"
-  },
-  {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
    "code": "",
-   "title": "KPL Chapter Meeting",
-   "who": "Kappa Phi Lambda"
+   "title": "aKDPhi Office Hours",
+   "who": "Alpha Kappa Delta Phi"
+  },
+  {
+   "start": "2026-11-03T20:00:00-05:00",
+   "end": "2026-11-03T21:00:00-05:00",
+   "code": "",
+   "title": "Animal Assisted Welfare Club",
+   "who": "Animal Assisted Welfare Club"
   }
  ]
 }

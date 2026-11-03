@@ -1,50 +1,57 @@
 {
  "room": "AND 0019",
  "subtitle": "Anderson Hall · G - Ground floor · Classroom · 37 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "IDS 1480",
-   "title": "Mathematics and the Humanities",
-   "who": "Konstantina Christodoulopoulou"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "POS 4931",
+   "title": "Special Topics in Poli Sci",
+   "who": "Daniel A Smith"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "LAT 1104",
-   "title": "Beginning Latin 3",
-   "who": "Dinis Andre Trindade"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "POS 4931",
+   "title": "Special Topics in Poli Sci",
+   "who": "Alexander Panayotov"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "JST 3930",
-   "title": "Special Topics Jewish Studies",
-   "who": "Raanan Rein"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "HUM 2592",
+   "title": "Intro Arts Medicine",
+   "who": "Erika Moore"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "SPN 3948",
-   "title": "Span in Community",
-   "who": "Antonio S Lopez Mendez"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "LAS 4935",
+   "title": "Latin American Area Seminar",
+   "who": "Rafael Solorzano"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
    "code": "MAS 4105",
    "title": "Linear Algebra 1",
    "who": "Jesse Kim"
   },
   {
-   "start": "2026-11-02T19:15:00-05:00",
-   "end": "2026-11-02T21:15:00-05:00",
+   "start": "2026-11-03T17:30:00-05:00",
+   "end": "2026-11-03T18:30:00-05:00",
    "code": "",
-   "title": "Theta Nu Xi - Chapter Meeting",
-   "who": "Theta Nu Xi Multicultural Sorority Inc"
+   "title": "Game Developers' Association",
+   "who": ""
+  },
+  {
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "AIChE ChemE Sports Training",
+   "who": ""
   }
  ]
 }

@@ -1,50 +1,57 @@
 {
  "room": "MAT 0117",
  "subtitle": "Matherly Hall · First floor · Classroom · 35 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "AML 3285",
-   "title": "Variable Surveys",
-   "who": "Thomas Conners"
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "ECO 4934",
+   "title": "Special Topics",
+   "who": "TBD"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "TSL 3378",
-   "title": "Pronunciation Tesl",
-   "who": "Paula R Golombek"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "MAC 1147",
+   "title": "Algebra and Trigonometry",
+   "who": "Vincent Daniel Holmlund"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SPT 2520",
-   "title": "Fiction vs. Reality",
-   "who": "Antonio S Lopez Mendez"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "LIT 3400",
+   "title": "Interdiscip Topics",
+   "who": "Victor Del Hierro"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "CJL 2000",
-   "title": "Law and Legal Process",
-   "who": "Laisa Ouriques"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "SYG 2000",
+   "title": "Intro to Sociology",
+   "who": "Ryan Jackson Howard"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "ENG 4134",
-   "title": "Women and Film",
-   "who": "Sylvie E Blum"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "SYG 2000",
+   "title": "Intro to Sociology",
+   "who": "Huimin Zhang"
   },
   {
-   "start": "2026-11-02T17:30:00-05:00",
-   "end": "2026-11-02T21:45:00-05:00",
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "LIT 3400",
+   "title": "Interdiscip Topics",
+   "who": "Leah Reade Rosenberg"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
    "code": "",
-   "title": "SISTUHS, Inc. ROP Interviews",
-   "who": "SISTUHS"
+   "title": "First Responder Gator",
+   "who": "First Responder Gator"
   }
  ]
 }

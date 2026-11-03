@@ -1,15 +1,29 @@
 {
  "room": "FLG 0275",
  "subtitle": "Florida Gymnasium · Second floor · Classroom · 20 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "WST 6935",
-   "title": "Spec Interdis Topics",
-   "who": "Jillian Hernandez"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "TTE 5837",
+   "title": "Pavement Manage Systm",
+   "who": "Mang Tia"
+  },
+  {
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "JOU 4011C",
+   "title": "Audience Engagement",
+   "who": "Mia Elizabeth Carbone"
+  },
+  {
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "INS 4930",
+   "title": "Sr Research Seminar",
+   "who": "Alexander Panayotov"
   }
  ]
 }

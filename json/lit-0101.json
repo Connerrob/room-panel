@@ -1,70 +1,49 @@
 {
  "room": "LIT 0101",
  "subtitle": "Little Hall · G - Ground floor · Classroom · 165 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "MAC 2311",
-   "title": "Analyt Geom and Calc 1",
-   "who": "Willard S Keeran"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "PCB 3063",
+   "title": "Genetics",
+   "who": "Han Yu"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
    "code": "PHI 3681",
    "title": "Ethics, Data & Tech",
-   "who": "Panagiotis Saranteas"
+   "who": "Ashley K Gasdow"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "AST 2005",
-   "title": "Searching for ET Life",
-   "who": "Bernard Isaiah Dela Cruz Lo"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "AEB 3103",
+   "title": "Principles of Fre",
+   "who": "Ting Cao"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "PHI 2010",
-   "title": "Intro to Philosophy",
-   "who": "Amber M Ross"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "DEP 3053",
+   "title": "Development Psychol",
+   "who": "Darlene Kertes"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SYG 2000",
-   "title": "Intro to Sociology",
-   "who": "Evan Wilson Lauteria"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "CLT 2374",
-   "title": "Classical Mythology",
-   "who": "Esteban Arango Casas"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "CHM 3120",
-   "title": "Intro Analytic Chem",
-   "who": "Boone Monroe Prentice"
-  },
-  {
-   "start": "2026-11-02T18:15:00-05:00",
-   "end": "2026-11-02T20:10:00-05:00",
-   "code": "ARC 1301",
-   "title": "Architect Design 1",
-   "who": "Breanna E McGrath"
-  },
-  {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
    "code": "",
-   "title": "PHY2054 Exams -- DTE ASSEMBLY EXAMS",
+   "title": "UF Neuro Club",
+   "who": ""
+  },
+  {
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
+   "code": "",
+   "title": "DTE BLOCKOUT",
    "who": ""
   }
  ]

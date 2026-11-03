@@ -1,61 +1,54 @@
 {
  "room": "TUR 2354",
  "subtitle": "Turlington Hall · Second floor · Classroom · 43 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T07:25:00-05:00",
-   "end": "2026-11-02T09:15:00-05:00",
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T07:50:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "ENC 2256",
-   "title": "Writing in the Disciplines",
-   "who": "Daniel Abitz"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "",
+   "title": "Teaching Center",
+   "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SPN 1131",
-   "title": "Beginning Spanish 2",
-   "who": "Ricardo Jose Sanchez Cano"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "ENC 1101",
+   "title": "Expos and Argu Writing",
+   "who": "Scott Thompson"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ITA 1130",
-   "title": "Beginning Italian 1",
-   "who": "Sherrie Ann Nunn"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "POS 2041",
+   "title": "American Federal Govt",
+   "who": "Beth Ann Rosenson"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "ARA 3410",
-   "title": "Advanced Arabic 1",
-   "who": "SORAYA BOUGUETTAYA"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "ENC 1102",
+   "title": "Argument and Persuasion",
+   "who": "Scott Thompson"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "ENG 1001",
-   "title": "Modes of Inquiry",
-   "who": "Jennifer Lee Coenen"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "PHI 3681",
+   "title": "Ethics, Data & Tech",
+   "who": "James C Simpson"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "PSY 4930",
-   "title": "Special Topics in Psych",
-   "who": "Ron L Chandler"
-  },
-  {
-   "start": "2026-11-02T18:15:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T17:30:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"

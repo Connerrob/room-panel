@@ -1,54 +1,40 @@
 {
  "room": "RNK 0110",
  "subtitle": "Rinker Hall · First floor · Classroom · 110 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "GEB 4930",
-   "title": "Special Topics",
-   "who": "Deanna McKenzie-Brown"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "HUN 4445",
+   "title": "Nutrition and Disease 1",
+   "who": "Stacey Lloyd Mobley"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "BCN 4510C",
-   "title": "Mechanical Systems",
-   "who": "FNU Aruon Avinash"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "BCN 1582",
+   "title": "Internat Sustain Dev",
+   "who": "Jason Kyle Von Meding"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "LIN 2011",
-   "title": "Intro to Linguistics",
-   "who": "Jamie R Garner"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "BCN 2598",
+   "title": "Sustainable Development Prncpl",
+   "who": "Maria Katherine Watson"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "BCN 4423C",
-   "title": "Temporary Structures",
-   "who": "Muhammad Hasnain"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "PHI 3130",
+   "title": "Symbolic Logic",
+   "who": "Gregory Brian Ray"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "BCN 1210",
-   "title": "Constrn Materials",
-   "who": "Larry C Muszynski"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "RTV 3511",
-   "title": "Funda of Production",
-   "who": "Timothy Sorel"
-  },
-  {
-   "start": "2026-11-02T17:00:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
    "title": "DCR- Overflow Testing",
    "who": "EM-OFFICE OF REGISTRAR"

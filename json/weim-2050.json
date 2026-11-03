@@ -1,28 +1,35 @@
 {
  "room": "WEIM 2050",
  "subtitle": "Weimer Hall · Computer Lab · 20 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "ENV 6932",
-   "title": "Spec Prob in Env Engr",
-   "who": "Andreia Fonseca de Faria"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "POS 6737",
+   "title": "Polit Data Analysis",
+   "who": "Andrew Samuel Rosenberg"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "PUR 4932",
-   "title": "Special Study",
-   "who": "Robert P Judin"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "HUN 4936",
+   "title": "Top Human Nutrition",
+   "who": "Jeanette Mary Andrade"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "MMC 3030",
+   "title": "Personal Branding",
+   "who": "Alexandra J Avelino"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
    "code": "",
-   "title": "Teaching Center - Monday",
+   "title": "Professional Development Workshop",
    "who": ""
   }
  ]

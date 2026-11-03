@@ -1,61 +1,61 @@
 {
  "room": "LIT 0113",
  "subtitle": "Little Hall · G - Ground floor · Classroom · 81 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "MAP 4305",
-   "title": "Dif Equa Eg & Phy Sci",
-   "who": "Eros Mangattu Sunny"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Steven Harris"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "ANT 3514C",
-   "title": "Intro Biolog Anthro",
-   "who": "John Krigbaum"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "ANT 2410",
+   "title": "Cultural Anthropology",
+   "who": "Ana Maria Garrido Corredor"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "STA 4183",
-   "title": "Theory of Interest",
-   "who": "David S Lindberg III"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Stacey-Ann Y Benjamin-Messam"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "CCJ 4934",
-   "title": "Contemp Iss Crim Jus",
-   "who": "Mario Cano"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "GEO 2230",
+   "title": "Living with Rising Seas",
+   "who": "Airin Akter"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "EEE 5320",
-   "title": "Analog Ic Design I",
-   "who": "Nima Maghari"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "AEB 2294",
+   "title": "Valuing Circular Food Economie",
+   "who": "Jennifer L Clark"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "MAP 4305",
-   "title": "Dif Equa Eg & Phy Sci",
-   "who": "Paul L Robinson"
-  },
-  {
-   "start": "2026-11-02T17:00:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
    "code": "",
-   "title": "SHPE FYLP Fall Workshops",
-   "who": "Society of Hispanic Professional Engrs - SHPE"
+   "title": "Alpha Zeta Initiation practice run",
+   "who": ""
   },
   {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T18:30:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "Medical Anesthesia Association",
+   "who": "Medical Anesthesia Association"
+  },
+  {
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
    "title": "DTE BLOCKOUT",
    "who": ""

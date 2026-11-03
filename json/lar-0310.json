@@ -1,47 +1,54 @@
 {
  "room": "LAR 0310",
  "subtitle": "Larsen Hall · Third floor · Classroom · 78 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "BME 4409",
-   "title": "Quant Physiology",
-   "who": "Meghan C Ferrall-Fairbanks"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "EEL 4837",
+   "title": "Programming for EE 2",
+   "who": "Ivan Ruchkin"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "BME 4311",
-   "title": "Molecular Biomed Eng",
-   "who": "Michael John Strinden"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "WIS 2323",
+   "title": "The Future of Rain Forests",
+   "who": "Emilio M Bruna III"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "BME 3053C",
-   "title": "Comp App Bme",
-   "who": "Jessica Sena De Souza"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ECH 4644",
+   "title": "Process Design",
+   "who": "Vincent J Tocco"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "BME 4621",
-   "title": "Bio Thermo and Kinetics",
-   "who": "Gregory Hudalla"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "CIS 6930",
+   "title": "Special Topics",
+   "who": "Alexandre Gomes de Siqueira"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "AEB 2452",
-   "title": "Agritourism and Food Systems",
-   "who": "Misti Sharp"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "AEB 2935",
+   "title": "Food and Res Econ Sem",
+   "who": "Michelle A Baldwin"
   },
   {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "ECH 4323L",
+   "title": "Proc Control Lab",
+   "who": "Dmitry I Kopelevich"
+  },
+  {
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
    "title": "DTE BLOCKOUT",
    "who": ""

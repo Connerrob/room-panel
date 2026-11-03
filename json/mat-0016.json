@@ -1,50 +1,50 @@
 {
  "room": "MAT 0016",
  "subtitle": "Matherly Hall · G - Ground floor · Classroom · 48 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "COT 3100",
-   "title": "Appli Discrete Struc",
-   "who": "Alireza Entezari"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "EUS 4930",
+   "title": "European Studies",
+   "who": "Bryon J Moraski"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "GER 2200",
-   "title": "Intermediate German 1",
-   "who": "Guelden Olgun"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "LIN 3201",
+   "title": "Sounds of Human Lang",
+   "who": "Ratree Wayland"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "CCJ 3024",
-   "title": "Adv Prin Crim Justice",
-   "who": "Bailey Lynn Maxey"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "POS 2112",
+   "title": "Am State and Local Govt",
+   "who": "Roger Q Austin III"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "ECO 4213",
-   "title": "Monetary Economics",
-   "who": "Qiushi Hua"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "SYD 4620",
+   "title": "People, Places, and Belonging",
+   "who": "William Marsiglio"
   },
   {
-   "start": "2026-11-02T16:00:00-05:00",
-   "end": "2026-11-02T17:00:00-05:00",
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T18:30:00-05:00",
    "code": "",
-   "title": "GDG Projects Meeting",
+   "title": "University Economic Society - GBM",
    "who": ""
   },
   {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
-   "title": "Florida Undergraduate Moot Court GBM",
-   "who": ""
+   "title": "Dance Marathon - Miracle Bowl Backups",
+   "who": "Dance Marathon"
   }
  ]
 }

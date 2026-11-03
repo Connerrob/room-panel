@@ -1,36 +1,36 @@
 {
  "room": "ROL 0205",
  "subtitle": "Rolfs Hall · Second floor · Classroom · 50 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "",
-   "title": "Teaching Center - Monday",
-   "who": ""
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "APK 3220C",
+   "title": "Biomechan Bas Movemnt",
+   "who": "Matthew J Terza"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "JPN 3410",
-   "title": "Advanced Japanese 1",
-   "who": "Haruna Kyomoto"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "WST 3325",
+   "title": "Violence Against Women",
+   "who": "Madeleine Jane Coy"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "COT 3100",
-   "title": "Appli Discrete Struc",
-   "who": "Alireza Entezari"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "WST 3603",
+   "title": "Sexualities Studies",
+   "who": "Dustin S Hall"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "WST 3015",
-   "title": "Interdis Persp Women",
-   "who": "Ocqua Gerlyn Murrell"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "SYA 7933",
+   "title": "Special Study",
+   "who": "Megan Dance Cogburn"
   }
  ]
 }

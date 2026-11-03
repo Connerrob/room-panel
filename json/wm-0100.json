@@ -1,49 +1,42 @@
 {
  "room": "WM 0100",
  "subtitle": "Williamson Hall · First floor · Classroom · 120 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "COP 5536",
-   "title": "Adv Data Structures",
-   "who": "Sartaj Kumar Sahni"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "CIS 4360",
+   "title": "Comp and Info Sec",
+   "who": "Cheryl Lynn Resch"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "ESC 1000",
-   "title": "Introduction to Earth Sciences",
-   "who": "James J Vogl"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "SYA 4110",
+   "title": "Devel Sociol Thought",
+   "who": "Charles F Gattone"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "OCE 1001",
-   "title": "Intro Oceanography",
-   "who": "Thilini Nishika Samarakoo Samarakoon Mudiyanselage"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "GLY 6931",
+   "title": "Seminar",
+   "who": "Stephen M Elardo"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "CAP 3220",
-   "title": "Intro Compu-Aid Model",
-   "who": "Rachel Louise West"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "GLY 2890",
-   "title": "Hazards and Humans",
-   "who": "Anita Marie Marshall"
-  },
-  {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T17:30:00-05:00",
+   "end": "2026-11-03T19:30:00-05:00",
    "code": "",
-   "title": "ESI 4317 DTE Exams",
+   "title": "Alpha Kappa Psi - Leadership Development Event",
+   "who": "Alpha Kappa Psi"
+  },
+  {
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
+   "code": "",
+   "title": "DTE BLOCKOUT",
    "who": ""
   }
  ]

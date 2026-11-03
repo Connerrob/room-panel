@@ -1,22 +1,36 @@
 {
  "room": "UST 0105",
  "subtitle": "Ustler Hall · First floor · Classroom · 12 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "TUR 1130",
-   "title": "Beginning Turkish 1",
-   "who": "Emrah Sahin"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "SWA 1130",
+   "title": "Beginning Swahili 1",
+   "who": "John Munyui Muchira"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "TUR 2220",
-   "title": "Intermed Turkish 1",
-   "who": "Emrah Sahin"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "DCP 4244",
+   "title": "Community Resilience",
+   "who": "Harold S Knowles III"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
+   "code": "",
+   "title": "SASE Projects Meetings",
+   "who": "Society of Asian Scientists & Engineers"
+  },
+  {
+   "start": "2026-11-03T20:00:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
+   "code": "",
+   "title": "Kappa Alpha Pi Pre-Law and Government Fraternity ",
+   "who": ""
   }
  ]
 }

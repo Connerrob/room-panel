@@ -1,50 +1,50 @@
 {
  "room": "MAT 0051",
  "subtitle": "Matherly Hall · G - Ground floor · Classroom · 20 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "CHI 2230",
-   "title": "Intermed Chinese 1",
-   "who": "Eva Leslie Lam Casanas"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "HNG 1130",
+   "title": "Beginning Hungarian 1",
+   "who": "Edit Nagy"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "IDS 2935",
-   "title": "Special Topics",
-   "who": "Jorge Rodrigo Valdes Kroff"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "ANT 2301",
+   "title": "Human Sexuality and Cul",
+   "who": "Abigail Ryan"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ENC 2305",
-   "title": "Analytical Writing",
-   "who": "TBD"
-  },
-  {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "ENC 3453",
-   "title": "Writing in Health",
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ENC 3246",
+   "title": "Prof Comm Engineers",
    "who": "Andrea G Caloiaro"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "SYG 2000",
-   "title": "Intro to Sociology",
-   "who": "Anastasia Schatz"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "ENC 2256",
+   "title": "Writing in the Disciplines",
+   "who": "Kristin Miller"
   },
   {
-   "start": "2026-11-02T17:30:00-05:00",
-   "end": "2026-11-02T18:30:00-05:00",
-   "code": "",
-   "title": "GRiP - Assistive Devices Design Team Meeting",
-   "who": ""
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "ENC 2256",
+   "title": "Writing in the Disciplines",
+   "who": "William R Schmacker"
+  },
+  {
+   "start": "2026-11-03T18:15:00-05:00",
+   "end": "2026-11-03T21:10:00-05:00",
+   "code": "INR 6337",
+   "title": "Survey Intl Security",
+   "who": "David S Siroky"
   }
  ]
 }

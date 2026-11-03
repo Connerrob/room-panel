@@ -1,70 +1,63 @@
 {
  "room": "LIT 0109",
  "subtitle": "Little Hall · G - Ground floor · Classroom · 164 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "MAP 2302",
-   "title": "Elem Diff Equations",
-   "who": "Carol E Demas"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "STA 4321",
+   "title": "Intro to Probability",
+   "who": "James P Hobert"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "MAP 2302",
-   "title": "Elem Diff Equations",
-   "who": "Carol E Demas"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "EML 3100",
+   "title": "Thermodynamics 1",
+   "who": "Sherif Ahmed Sherif"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "MAP 2302",
-   "title": "Elem Diff Equations",
-   "who": "Alexander T York"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "POS 4413",
+   "title": "The Presidency",
+   "who": "Hunter Lee Tierman"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ENU 2002",
-   "title": "Fund of Nuclear Engineering",
-   "who": "Allen Ira Harkness III"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "RTV 2100",
+   "title": "Media Writing",
+   "who": "Kayla M Knight"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "MAP 2302",
-   "title": "Elem Diff Equations",
-   "who": "Carol E Demas"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "AFA 4224",
+   "title": "The Civil Rights Movement",
+   "who": "David Canton"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "MAP 2302",
-   "title": "Elem Diff Equations",
-   "who": "Carol E Demas"
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "ARC 1701",
+   "title": "Surv Architectural History 1",
+   "who": "Vandana Baweja"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:00:00-05:00",
+   "start": "2026-11-03T18:30:00-05:00",
+   "end": "2026-11-03T19:30:00-05:00",
    "code": "",
-   "title": "Mathematics Colloquium ",
+   "title": "Software Engineering Club Weekly Meanings",
    "who": ""
   },
   {
-   "start": "2026-11-02T17:10:00-05:00",
-   "end": "2026-11-02T20:10:00-05:00",
-   "code": "CAP 4641",
-   "title": "Natural Language Processing",
-   "who": "Yuanyuan Lei"
-  },
-  {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
-   "title": "PHY2054 Exams -- DTE ASSEMBLY EXAMS",
+   "title": "DTE BLOCKOUT",
    "who": ""
   }
  ]

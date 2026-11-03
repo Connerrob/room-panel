@@ -1,70 +1,49 @@
 {
  "room": "FLG 0270",
  "subtitle": "Florida Gymnasium · Second floor · Classroom · 112 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "ANS 2002",
-   "title": "The Meat We Eat",
-   "who": "Kyle M Mendes"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "ECH 3203",
+   "title": "Fluid/Solid Operation",
+   "who": "Peng Jiang"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "EGN 3353C",
-   "title": "Fluid Mechanics",
-   "who": "Cristian E Cardenas-Lailhacar"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ESI 4523",
+   "title": "Industrial Sys Simula",
+   "who": "Tobias Lodemann"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "EGM 2511",
-   "title": "Engr Mech-Statics",
-   "who": "Amie N Baisley"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "EMA 4314",
+   "title": "Thermodynamics of Materials",
+   "who": "Megan Marie Butala"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "CHM 4413L",
-   "title": "Biophysical Chem Lab",
-   "who": "Heendeniyage Namodhi Chilanka Wijerathne"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "ANT 3520",
+   "title": "Skeleton Key Forensic",
+   "who": "Sheridan Lea"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "CEG 4011",
-   "title": "Soil Mechanics",
-   "who": "Ana Paula Mohseni V"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "ECH 4604",
-   "title": "Procss Eco and Optimiza",
-   "who": "Juan Manuel Restrepo Florez"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "ESI 3312",
-   "title": "Operations Research 1",
-   "who": "Fatemeh Nosrat"
-  },
-  {
-   "start": "2026-11-02T19:20:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T19:20:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
    "code": "",
    "title": "DTE Hold",
    "who": ""
   },
   {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
-   "title": "DTE BLOCKOUT",
+   "title": "EGM 3520 DTE Exams",
    "who": ""
   }
  ]

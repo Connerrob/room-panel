@@ -1,68 +1,61 @@
 {
  "room": "TUR 2328",
  "subtitle": "Turlington Hall · Second floor · Classroom · 48 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T07:25:00-05:00",
-   "end": "2026-11-02T09:15:00-05:00",
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T08:15:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "THE 4110",
-   "title": "Hist Theatre Stage 1",
-   "who": "Jashodhara Sen"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "HSC 4232C",
+   "title": "Ex Ther Phys Act Hlth",
+   "who": "Suzanne M Murphy"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SYA 4110",
-   "title": "Devel Sociol Thought",
-   "who": "Charles F Gattone"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "FYC 4408",
+   "title": "Org Ldrship Nonprofs",
+   "who": "Kimberly Kay Wiley"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "CGN 4905",
-   "title": "Spec Prob Civil Engr",
-   "who": "Ana Paula Mohseni V"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "STA 7334",
+   "title": "Limit Theory",
+   "who": "Kshitij Khare"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
    "code": "",
-   "title": "Teaching Center",
+   "title": "Teaching Center- Fall 26",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
    "code": "ENC 2256",
    "title": "Writing in the Disciplines",
-   "who": "Ashley Marie Rutkoski"
+   "who": "Matthew Charles Jones"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "",
-   "title": "Teaching Center- Fall 26",
-   "who": "EM-OFFICE OF REGISTRAR"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "ENU 3132",
+   "title": "Reactor Thermal Engineering 1",
+   "who": "Duwayne Schubring"
   },
   {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "",
-   "title": "Teaching Center- Fall 26",
-   "who": "EM-OFFICE OF REGISTRAR"
-  },
-  {
-   "start": "2026-11-02T17:15:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"

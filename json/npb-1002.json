@@ -1,77 +1,49 @@
 {
  "room": "NPB 1002",
  "subtitle": "New Physics Building · First floor · Classroom · 102 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "PHY 3101",
-   "title": "Intro Modern Physics",
-   "who": "Mark W Meisel"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "PHY 2060",
+   "title": "Enriched Phy W/ Cal 1",
+   "who": "Philip Chang"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "PHY 4604",
-   "title": "Intro Quant Mech 1",
-   "who": "Rachel Houtz"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "PHY 2061",
+   "title": "Enriched Phy W/ Cal 2",
+   "who": "Yoonseok Lee"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "PHY 3101",
-   "title": "Intro Modern Physics",
-   "who": "Mayra Betsabe Schrock"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "PHY 2032",
+   "title": "Energy and Society",
+   "who": "Gregory R Stewart"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "PHY 4324",
-   "title": "Electromagnetism 2",
-   "who": "Chunjing Jia"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "PCO 4930",
+   "title": "Sem Counsel Psychol",
+   "who": "Taewon Kim"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "PHY 3221",
-   "title": "Mechanics 1",
-   "who": "Yasumasa Takano"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "PHY 3513",
-   "title": "Thermal Physics",
-   "who": "Neil S Sullivan"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "PHY 3323",
-   "title": "Electromagnetism 1",
-   "who": "Siyao Xu"
-  },
-  {
-   "start": "2026-11-02T17:10:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "EML 2023",
-   "title": "Compu Aided Graph/Des",
-   "who": "Lawrence L Howard"
-  },
-  {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
    "code": "",
-   "title": "ECE Ambassadors GBM3",
-   "who": ""
+   "title": "Homelessness Forum - Theta Nu Xi",
+   "who": "Theta Nu Xi Multicultural Sorority Inc"
   },
   {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
-   "title": "PHY2054 Exams -- DTE ASSEMBLY EXAMS",
+   "title": "PHY2053 Exams -- DTE ASSEMBLY EXAMS",
    "who": ""
   }
  ]

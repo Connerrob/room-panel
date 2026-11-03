@@ -1,57 +1,43 @@
 {
  "room": "MCCA 2196",
  "subtitle": "McCarty Hall A · Second floor · Classroom · 47 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "FNR 3410C",
-   "title": "Natural Res Sampling",
-   "who": "Daniel Jacob Johnson"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "AEB 4325",
+   "title": "Contemp Issue Manage",
+   "who": "Olesya M Savchenko"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "TPP 3650",
-   "title": "Script Analysis",
-   "who": "Erin Lekovic"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ENC 1102",
+   "title": "Argument and Persuasion",
+   "who": "Scott Thompson"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "FYC 4503",
-   "title": "Meth Family Life Educ",
-   "who": "Victor Harris"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "FYC 4622",
+   "title": "Prog Planning & Eval",
+   "who": "David Christopher Diehl"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "APK 2322",
-   "title": "Exercise as Medicine",
-   "who": "Anna Katlyn Gardner"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "ENC 2256",
+   "title": "Writing in the Disciplines",
+   "who": "Matthew Charles Jones"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "FYC 4660",
-   "title": "Family Policy",
-   "who": "Jenee Duncan"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "FYC 4801",
-   "title": "App Soc Research Meth",
-   "who": "Tracy Lynn Johns"
-  },
-  {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T21:00:00-05:00",
    "code": "",
-   "title": "aKDPhi Chapter Meeting",
-   "who": "Alpha Kappa Delta Phi"
+   "title": "CASA ChiLLI Meetings",
+   "who": "Chinese American Student Association (CASA)"
   }
  ]
 }

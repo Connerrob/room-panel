@@ -1,36 +1,36 @@
 {
  "room": "MAT 0107",
  "subtitle": "Matherly Hall · First floor · Classroom · 46 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "ENC 1101",
-   "title": "Expos and Argu Writing",
-   "who": "Scott Thompson"
-  },
-  {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "ECO 4934",
-   "title": "Special Topics",
-   "who": "TBD"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
    "code": "ECO 3203",
    "title": "Intermed Macroecon",
    "who": "Kristian Estevez"
   },
   {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "ECO 7938",
+   "title": "Adv Economic Seminar",
+   "who": "Gunnar Heins"
+  },
+  {
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "ECO 3101",
+   "title": "Intermed Microecon",
+   "who": "Carlos Takeshi Estrada Arzamendi"
+  },
+  {
+   "start": "2026-11-03T18:30:00-05:00",
+   "end": "2026-11-03T20:30:00-05:00",
    "code": "",
-   "title": "SASE Gator Rover Team Meeting",
-   "who": "Society of Asian Scientists & Engineers"
+   "title": "Hospitaliteam GBM 3",
+   "who": ""
   }
  ]
 }

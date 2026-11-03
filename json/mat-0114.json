@@ -1,36 +1,57 @@
 {
  "room": "MAT 0114",
  "subtitle": "Matherly Hall · First floor · Classroom · 35 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "LIT 2000",
-   "title": "Intro to Literature",
-   "who": "Sophia Rose Espaillat"
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "ECO 3101",
+   "title": "Intermed Microecon",
+   "who": "David Sappington"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "ECO 7206",
-   "title": "Macroeconomic Theory",
-   "who": "Arthur Wickard"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "ECO 3101",
+   "title": "Intermed Microecon",
+   "who": "David Sappington"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "ECP 3703",
-   "title": "Managerial Economics",
-   "who": "Qilin Zhang"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ECO 7115",
+   "title": "Microeconomic Theory 1",
+   "who": "Fatma Busra Gunay"
   },
   {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "ECO 3203",
-   "title": "Intermed Macroecon",
-   "who": "Attila Gyetvai"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "PHI 3500",
+   "title": "Metaphysics",
+   "who": "Gene Witmer"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Collin G Stebbins"
+  },
+  {
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "ECO 4422",
+   "title": "Econometrics 2",
+   "who": "Nan Zhi"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
+   "code": "",
+   "title": "SHPE Capital Algorithm Team Meeting",
+   "who": "Society of Hispanic Professional Engrs - SHPE"
   }
  ]
 }

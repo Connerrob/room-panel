@@ -1,49 +1,49 @@
 {
  "room": "CSE E221",
  "subtitle": "Computer Sciences Engineering Building · Second floor · Classroom · 50 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "CES 4605",
-   "title": "Analysis/Design Steel",
-   "who": "Brian M Phillips"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "EAB 4930",
+   "title": "Adv Sem Beh Analysis",
+   "who": "Iser G De Leon"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "COT 3100",
-   "title": "Appli Discrete Struc",
-   "who": "Alireza Entezari"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "AEB 4673",
+   "title": "Intl Agricult Trade",
+   "who": "Jaclyn Donna Kropp"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "AEB 3550",
-   "title": "Agric Data Analysis",
-   "who": "Misti Sharp"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "CPO 4731",
+   "title": "Democrat Global Persp",
+   "who": "Hongil Eom"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "CAP 3032",
-   "title": "Interact Mod/Animat 1",
-   "who": "Rong Zhang"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:00:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
    "code": "",
-   "title": "GRiP - Assistive Devices Design Team Meeting",
-   "who": ""
+   "title": "Teaching Center- Fall 26",
+   "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
    "code": "",
-   "title": "Gator Theme Park Engineering & Design: Interactives Design Team",
+   "title": "Teaching Center",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
+   "code": "",
+   "title": "Gator Theme Park Engineering & Design: Ride Development Design Team",
    "who": "Gator Theme Park Engineering and Design Club"
   }
  ]

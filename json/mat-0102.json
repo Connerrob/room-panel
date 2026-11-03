@@ -1,57 +1,50 @@
 {
  "room": "MAT 0102",
  "subtitle": "Matherly Hall · First floor · Classroom · 30 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
    "code": "ARA 1130",
    "title": "Beginning Arabic 1",
    "who": "SORAYA BOUGUETTAYA"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SPN 2201",
-   "title": "Intermed Spanish 2",
-   "who": "Georgina Wilson"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "GEO 2336",
+   "title": "People, Place and Climate",
+   "who": "Esther D Mullens"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ENC 3459",
-   "title": "Writing in Medicine",
-   "who": "Jessica Jean Stonecipher"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "LIN 6932",
+   "title": "Rotating Topics",
+   "who": "Ying Liu"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SPN 3451",
-   "title": "SPN translation",
-   "who": "David A Pharies"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "LIN 4930",
+   "title": "Special Topics",
+   "who": "Irina Burukina"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "PHI 2100",
-   "title": "Logic",
-   "who": "Rodrigo Borges"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "ADV 3403",
+   "title": "Branding",
+   "who": "Simona M Rivero"
   },
   {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "REL 4933",
-   "title": "Comparative Study",
-   "who": "Yaniv Feller"
-  },
-  {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T19:00:00-05:00",
-   "code": "",
-   "title": "Alpha Kappa Delta at the University of Florida",
-   "who": "Alpha Kappa Delta"
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T20:10:00-05:00",
+   "code": "SPC 2608",
+   "title": "Intro Public Speaking",
+   "who": "Dennis Neal McCarty"
   }
  ]
 }

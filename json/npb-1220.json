@@ -1,64 +1,57 @@
 {
  "room": "NPB 1220",
  "subtitle": "New Physics Building · First floor · Classroom · 30 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
    "code": "PHY 2048",
    "title": "Physics With Calc 1",
-   "who": "John M Yelton"
+   "who": "TBD"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "PHY 2048",
-   "title": "Physics With Calc 1",
-   "who": "John M Yelton"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "PHY 2054",
+   "title": "Physics 2",
+   "who": "Jeremiah D Anglin"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
    "code": "PHY 2053",
    "title": "Physics 1",
    "who": "Imre Bartos"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "PHY 4523",
-   "title": "Statistical Physics",
-   "who": "Gabriel Birzu Chu"
-  },
-  {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "PHZ 6426",
-   "title": "Solid State 1",
-   "who": "Peter J Hirschfeld"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "PHZ 3113",
-   "title": "Intro Theoret Physics",
-   "who": "BingKan Xue"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
    "code": "PHY 2048",
    "title": "Physics With Calc 1",
    "who": "John M Yelton"
   },
   {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "PHY 2048",
-   "title": "Physics With Calc 1",
-   "who": "John M Yelton"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "PHY 2053",
+   "title": "Physics 1",
+   "who": "Imre Bartos"
+  },
+  {
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "PHY 2053",
+   "title": "Physics 1",
+   "who": "Imre Bartos"
+  },
+  {
+   "start": "2026-11-03T18:15:00-05:00",
+   "end": "2026-11-03T20:15:00-05:00",
+   "code": "",
+   "title": "Impacto English Courses",
+   "who": "Impacto"
   }
  ]
 }

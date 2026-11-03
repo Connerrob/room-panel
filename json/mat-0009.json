@@ -1,50 +1,29 @@
 {
  "room": "MAT 0009",
  "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "",
-   "title": "ELI Room",
-   "who": "EM-OFFICE OF REGISTRAR"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "RUS 1130",
+   "title": "Intro Rus Lang&Cul 1",
+   "who": "Dina Sandoval"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "KOR 1131",
-   "title": "Beginning Korean 2",
-   "who": "Semin Seo"
-  },
-  {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SPN 2200",
-   "title": "Intermed Spanish 1",
-   "who": "Joshua Liam Higdon"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
    "code": "VTN 1130",
    "title": "Beg Vietnamese 1",
    "who": "Andrea Hoa Pham"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "POS 6933",
-   "title": "Special Topics",
-   "who": "Conor O'Dwyer"
-  },
-  {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T19:00:00-05:00",
-   "code": "",
-   "title": "Business Research Group GBM",
-   "who": ""
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "CRW 3110",
+   "title": "Adv Sem Fiction Writ",
+   "who": "Uwem Celestine Akpan"
   }
  ]
 }

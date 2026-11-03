@@ -1,61 +1,54 @@
 {
  "room": "FAB 0103",
  "subtitle": "Fine Arts B · G - Ground floor · Classroom · 97 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "MUT 1111",
-   "title": "Music Theory 1",
-   "who": "Justin Weiss"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "CES 3102",
+   "title": "Mech of Eng Struct",
+   "who": "Karoline de Sousa Felix"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "AEC 3414",
-   "title": "Leadership Developmnt",
-   "who": "Matthew J Sowcik"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "POS 4931",
+   "title": "Special Topics in Poli Sci",
+   "who": "Carlos Alberto Suarez Carrasquillo"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SPN 3700",
-   "title": "Intro Hisp Linguistic",
-   "who": "Imanol Suarez-Palma"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ARH 2051",
+   "title": "Intro Hist of Art 2",
+   "who": "Maria Kamil Kuran"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ECH 3023",
-   "title": "Material/Energy Balan",
-   "who": "Vincent J Tocco"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "PHZ 3152",
+   "title": "Comp. Tech in Physics",
+   "who": "Jaehan Bae"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "EML 4321",
-   "title": "Manufactur Engineer",
-   "who": "Jack E Famiglietti"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "",
+   "title": "Combinatorics seminar- Mathematics",
+   "who": ""
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "EGM 3344",
-   "title": "Numerical Methods Engineering",
-   "who": "Jonathan T Brooks"
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "ART 1803C",
+   "title": "W.A.R.P.",
+   "who": "Peter Philip Gouge"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "BSC 3096",
-   "title": "Human Physiology",
-   "who": "Zepeng Yao"
-  },
-  {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
    "title": "DTE BLOCKOUT",
    "who": ""

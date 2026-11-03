@@ -1,64 +1,43 @@
 {
  "room": "WEIL 0279",
  "subtitle": "Weil Hall · Second floor · Classroom · 30 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "SPM 3703",
-   "title": "Sport Performance Analytics",
-   "who": "Aoyang Shi"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "ESI 6314",
+   "title": "Determin Meth Op Res",
+   "who": "Yongpei Guan"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "EIN 5249",
-   "title": "Human Factors",
-   "who": "Jad Atweh"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "SYA 4930",
+   "title": "Special Study",
+   "who": "Megan Dance Cogburn"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "ENC 3252",
-   "title": "Writing Strat Comm",
-   "who": "Nicholas John Orlando"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "",
+   "title": "Teaching Center",
+   "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "EIN 6216",
-   "title": "Occupational Safety",
-   "who": "Boyi Hu"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "",
+   "title": "Teaching Center",
+   "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "AFA 4135",
-   "title": "Black Am Theories",
-   "who": "Julia Margaret Mollenthiel"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "ENC 2305",
-   "title": "Analytical Writing",
-   "who": "TBD"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "ECH 6845",
-   "title": "Chemical Process Data Science",
-   "who": "Sumant Shreedhar Patankar"
-  },
-  {
-   "start": "2026-11-02T17:10:00-05:00",
-   "end": "2026-11-02T19:05:00-05:00",
-   "code": "CGN 4503",
-   "title": "Pavement Design",
-   "who": "Mohab El Hakim"
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "RTV 3305",
+   "title": "In-Depth Brdcst Rprtg",
+   "who": "Harrison Chandler Hove"
   }
  ]
 }

@@ -1,70 +1,56 @@
 {
  "room": "TUR L007",
  "subtitle": "Turlington Hall · G - Ground floor · Classroom · 310 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "INR 2001",
-   "title": "International Relatns",
-   "who": "Zachary Alan Selden"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "ESI 4356",
+   "title": "Decision Support Syst",
+   "who": "Katie LeAnne Basinger-Ellis"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "POS 2041",
-   "title": "American Federal Govt",
-   "who": "Suzanne M Mcdonald"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "GEB 3218",
+   "title": "Professional Speaking",
+   "who": "Matthew S Limon"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "AMH 2020",
-   "title": "US Since 1877",
-   "who": "Steven G Noll"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "PUR 3000",
+   "title": "Princ of Public Rela",
+   "who": "Christine Bucan"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "MAC 1147",
-   "title": "Algebra and Trigonometry",
-   "who": "Maguette Beye"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "EIN 4335",
+   "title": "Senior Design Project",
+   "who": "Mengyu Li"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "JOU 2100",
-   "title": "Broadcast Wrtng Btcmp",
-   "who": "Mark O Leeps"
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "HUM 2930",
+   "title": "Spec Topics Fine Arts",
+   "who": "Kasey Power"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "THE 2000",
-   "title": "Theatre Apprec 1",
-   "who": "Ricardo Guevara"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "CIS 4301",
-   "title": "Info and Database Sys 1",
-   "who": "Mohammad Al-Saad"
-  },
-  {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
    "code": "",
-   "title": "Society of Software Developers General Body Meetings",
+   "title": "CALOR GBM",
    "who": ""
   },
   {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
-   "title": "ECO2013 Exams -- DTE ASSEMBLY EXAMS",
+   "title": "MAP2302 Exams -- DTE Assembly Exams",
    "who": ""
   }
  ]

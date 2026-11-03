@@ -1,61 +1,47 @@
 {
  "room": "TUR 2333",
  "subtitle": "Turlington Hall · Second floor · Classroom · 42 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T07:25:00-05:00",
-   "end": "2026-11-02T08:15:00-05:00",
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T08:15:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "ENC 3465",
-   "title": "Writing in the Law",
-   "who": "Nathan David Wood"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "ENC 3246",
+   "title": "Prof Comm Engineers",
+   "who": "Nicole Evohn Musselman"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "",
-   "title": "Building Closed",
-   "who": "EM-OFFICE OF REGISTRAR"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "AFA 2000",
+   "title": "Intr African Amer Stu",
+   "who": "David Canton"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "CLA 3500",
-   "title": "Ancient Sport",
-   "who": "Victoria Emma Pagan-Wolpert"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "CJE 3114",
+   "title": "Intro to Law Enforce",
+   "who": "Nan Li"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "AMH 2010",
-   "title": "United States to 1877",
-   "who": "Tyler Carawan Cline"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "ANT 4930",
+   "title": "Special Topics",
+   "who": "Marit Tolo Ostebo"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "LIT 6358",
-   "title": "Theo Ap Black Cultur",
-   "who": "Mark Allen Reid"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "AML 4311",
-   "title": "Maj Figures Lit/Cul",
-   "who": "Mark Allen Reid"
-  },
-  {
-   "start": "2026-11-02T17:05:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T18:15:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"

@@ -1,57 +1,43 @@
 {
  "room": "MAEB 0229",
  "subtitle": "Mechanical & Aerospace Eng B · Third floor · Classroom · 36 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "EEL 5225",
-   "title": "Prin Microelec Mechan",
-   "who": "Tai-An Chen"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "CES 5116",
+   "title": "Finite Elements",
+   "who": "Gary R Consolazio"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "SYG 2000",
-   "title": "Intro to Sociology",
-   "who": "Luciana Miguel Cavalcante Lima"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "EVS 3000",
+   "title": "Environmental Science 1",
+   "who": "Danny Coenen"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "CCJ 3024",
-   "title": "Adv Prin Crim Justice",
-   "who": "Sooyun Lee"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "ENU 4630",
+   "title": "Fund Asp Radia Shield",
+   "who": "Jeremy Daniel Smith"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "SYA 4930",
-   "title": "Special Study",
-   "who": "Louise Antonette San Gabriel Villanueva"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "MMC 2450",
+   "title": "Data Literacy for Com",
+   "who": "Thomas F Waddell"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SPT 1320",
-   "title": "Comida y Conflicto",
-   "who": "Ariadna Nohemi Tenorio Lopez"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "AEB 4342",
-   "title": "Agribus/Food Market",
-   "who": "Lijun Chen"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "JOU 3202",
-   "title": "Editing & Coaching",
-   "who": "Ethan F Magoc"
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "EML 4930",
+   "title": "Special Topics",
+   "who": "Bruce F Carroll"
   }
  ]
 }

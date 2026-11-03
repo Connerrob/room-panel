@@ -1,54 +1,61 @@
 {
  "room": "TUR 1101",
  "subtitle": "Turlington Hall · First floor · Classroom · 32 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T07:25:00-05:00",
-   "end": "2026-11-02T08:15:00-05:00",
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T08:55:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "SPN 1130",
-   "title": "Beginning Spanish 1",
-   "who": "Maria Laura Mecias"
-  },
-  {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "SPN 1130",
-   "title": "Beginning Spanish 1",
-   "who": "Georgina Wilson"
-  },
-  {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
    "code": "",
-   "title": "CHM2211 SI Diya B and Harini RV (Chemistry)",
-   "who": ""
+   "title": "Teaching Center- Fall 26",
+   "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "SPN 1130",
-   "title": "Beginning Spanish 1",
-   "who": "Andrew Jay Carfagna"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "SSA 3730",
+   "title": "Lang African Society",
+   "who": "Fiona McLaughlin"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "ENC 2256",
-   "title": "Writing in the Disciplines",
-   "who": "Angela Jean Brown"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "AFA 3350",
+   "title": "Black Masculinity",
+   "who": "Andrew D Brown"
   },
   {
-   "start": "2026-11-02T16:20:00-05:00",
-   "end": "2026-11-02T22:25:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "SPW 4930",
+   "title": "Topics Lit and Culture",
+   "who": "Martin E Sorbille"
+  },
+  {
+   "start": "2026-11-03T14:50:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "",
+   "title": "Building Closed",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "SPW 6934",
+   "title": "Sem Sp-Am Lit/Culture",
+   "who": "Martin E Sorbille"
+  },
+  {
+   "start": "2026-11-03T19:25:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"

@@ -1,64 +1,57 @@
 {
  "room": "MCCA 1142",
  "subtitle": "McCarty Hall A · First floor · Classroom · 49 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "AEB 3133",
-   "title": "Prin Agribus Manage",
-   "who": "Ting Cao"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "EGN 6216",
+   "title": "AI Systems",
+   "who": "Andrea Ramirez Salgado"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "AEB 3281",
-   "title": "Ag Macroeconomics",
-   "who": "Caleb A Stair"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "CIS 4930",
+   "title": "Special Topics",
+   "who": "Cheryl Lynn Resch"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "REL 2502",
-   "title": "Intro to Christianity",
-   "who": "Jeyoul Choi"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ENC 2305",
+   "title": "Analytical Writing",
+   "who": "TBD"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "EIN 4242C",
-   "title": "Workplace Ergo & Biomechanics",
-   "who": "Suman Kanti Chowdhury"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "PSY 2012",
+   "title": "General Psychology",
+   "who": "Katherine Edana Driver"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "EEL 4495",
-   "title": "Lightning",
-   "who": "Ziqin Ding"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "ORI 2000",
-   "title": "Oral Perform Lit 1",
-   "who": "Caylyn Florine Kelly"
-  },
-  {
-   "start": "2026-11-02T16:00:00-05:00",
-   "end": "2026-11-02T19:00:00-05:00",
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T17:30:00-05:00",
    "code": "",
-   "title": "LDI GBM",
-   "who": "Black Student Union (BSU)"
-  },
-  {
-   "start": "2026-11-02T19:30:00-05:00",
-   "end": "2026-11-02T20:30:00-05:00",
-   "code": "",
-   "title": "Society for Viral Studies GBM",
+   "title": "ASME Gator Robotic Arm Student Project",
    "who": ""
+  },
+  {
+   "start": "2026-11-03T17:45:00-05:00",
+   "end": "2026-11-03T18:45:00-05:00",
+   "code": "",
+   "title": "JTech GBM",
+   "who": ""
+  },
+  {
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "Animal Assisted Welfare Club GBM",
+   "who": "Animal Assisted Welfare Club"
   }
  ]
 }

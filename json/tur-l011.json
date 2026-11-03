@@ -1,61 +1,61 @@
 {
  "room": "TUR L011",
  "subtitle": "Turlington Hall · G - Ground floor · Classroom · 136 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "IDS 2935",
-   "title": "Special Topics",
-   "who": "Jennifer Patricia Heilmann"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "STA 4211",
+   "title": "Design of Experiments",
+   "who": "Elizabeth D Johnson"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "EML 4507",
-   "title": "Finite Elem Anlys/Des",
-   "who": "Youping Chen"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "DCP 1003",
+   "title": "Creat Our Built Env",
+   "who": "Genesis M Okken"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "CDA 4324C",
-   "title": "Cyber-physical System Security",
-   "who": "Sara Rampazzi"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "EGM 2511",
+   "title": "Engr Mech-Statics",
+   "who": "Kerry E Costello"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "EAS 4510",
-   "title": "Astrodynamics",
-   "who": "Anil Rao"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "PHI 1680",
+   "title": "AI, Philosophy & Society",
+   "who": "Izabella Marina Koontz"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "APK 4125C",
-   "title": "Phys Fit Assessment",
-   "who": "Benjamin T Gordon"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "BME 4882",
+   "title": "Sen Des Prof Ethics 1",
+   "who": "Robert Chris Geiger"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "EAB 4714C",
-   "title": "Lab Applied Beh Analy",
-   "who": "Ryan Earl Higginbotham"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "TTE 4004C",
+   "title": "Transporta Engineer",
+   "who": "Raul Andres Pineda Mendez"
   },
   {
-   "start": "2026-11-02T17:10:00-05:00",
-   "end": "2026-11-02T19:05:00-05:00",
-   "code": "ARC 2490C",
-   "title": "Integrated Bldg Tech 1",
-   "who": "Yexuan Gu"
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
+   "code": "",
+   "title": "Open Source Club Casual Coding",
+   "who": "Open Source Club"
   },
   {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
    "title": "DTE BLOCKOUT",
    "who": ""

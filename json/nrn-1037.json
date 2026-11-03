@@ -1,36 +1,36 @@
 {
  "room": "NRN 1037",
  "subtitle": "Norman Hall · Classroom",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "FYC 2331",
-   "title": "An Ounce of Prevention",
-   "who": "Tennisha N Riley"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "LAA 2710",
+   "title": "His of Landscape Arch",
+   "who": "Belinda Nettles"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "HSC 3032",
+   "title": "Foundations Health Ed",
+   "who": "Kristina Marie Garcia-Guettler"
+  },
+  {
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
    "code": "ARA 2220",
    "title": "Intermediate Arabic 1",
    "who": "SORAYA BOUGUETTAYA"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "COT 3100",
-   "title": "Appli Discrete Struc",
-   "who": "Alireza Entezari"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "COT 3100",
-   "title": "Appli Discrete Struc",
-   "who": "Alireza Entezari"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "URP 4000",
+   "title": "Preview Urban and Reg",
+   "who": "Michael Kevin O'Malley"
   }
  ]
 }

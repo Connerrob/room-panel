@@ -1,36 +1,29 @@
 {
  "room": "MAEA 0327",
  "subtitle": "Mechanical & Aerospace Eng A · Third floor · Classroom · 32 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "ECH 4905",
-   "title": "Spec Prob in Chem Eng",
-   "who": "Travis J Anderson"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "EEE 4260",
+   "title": "Bioelectrical Systems",
+   "who": "Karim Oweiss"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "YOR 1131",
-   "title": "Beginning Yoruba 2",
-   "who": "Kole Ade Odutola"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "EEL 4930",
+   "title": "Spec Top Elect Eng",
+   "who": "Yingying Wu"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "CEG 4104",
-   "title": "Retain Wall Embank",
-   "who": "Candas Oner"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "ECH 4604",
-   "title": "Procss Eco and Optimiza",
-   "who": "Dylan G Turpeinen"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "EVS 3500",
+   "title": "Environmental Science 2",
+   "who": "Danny Coenen"
   }
  ]
 }

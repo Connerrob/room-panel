@@ -1,47 +1,54 @@
 {
  "room": "TUR 2350",
  "subtitle": "Turlington Hall · Second floor · Classroom · 43 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T07:25:00-05:00",
-   "end": "2026-11-02T09:15:00-05:00",
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T09:15:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "ENC 2305",
-   "title": "Analytical Writing",
-   "who": "Darby Walters"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "APK 5102",
+   "title": "Kinetic Anatomy",
+   "who": "Joslyn Korrin Ahlgren"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
    "code": "KOR 1130",
    "title": "Beginning Korean 1",
    "who": "Semin Seo"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "FRE 1130",
-   "title": "Beginning French 1",
-   "who": "Alexander James Wilson"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "SLS 1102",
+   "title": "Enhanc Freshman Exper",
+   "who": "Gregory Anthony David"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "ANG 6191",
-   "title": "Archaeology of Death",
-   "who": "James M Davidson"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "LAE 6947",
+   "title": "Writ Theor and Practice",
+   "who": "Victor Del Hierro"
   },
   {
-   "start": "2026-11-02T16:10:00-05:00",
-   "end": "2026-11-02T22:00:00-05:00",
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "SLS 1102",
+   "title": "Enhanc Freshman Exper",
+   "who": "Hayley Peper"
+  },
+  {
+   "start": "2026-11-03T17:05:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
    "title": "Building Closed",
    "who": "EM-OFFICE OF REGISTRAR"

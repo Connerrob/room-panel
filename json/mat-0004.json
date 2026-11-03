@@ -1,57 +1,57 @@
 {
  "room": "MAT 0004",
  "subtitle": "Matherly Hall · G - Ground floor · Classroom · 39 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
    "code": "JPN 2230",
    "title": "Intermed Japanese 1",
    "who": "Kensaku Ogata"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SYG 2000",
-   "title": "Intro to Sociology",
-   "who": "Tayana Malewschik"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Sakshi Kandpal"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ENC 1145",
-   "title": "Topcs for Composition",
-   "who": "Shuya Su"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "KOR 1131",
+   "title": "Beginning Korean 2",
+   "who": "Semin Seo"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
    "code": "JPN 1130",
    "title": "Beginning Japanese 1",
    "who": "Keiji Iwamoto"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "SPN 1131",
-   "title": "Beginning Spanish 2",
-   "who": "Fernan Gomez-Monedero"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "REL 2334",
+   "title": "Religions of India",
+   "who": "Vasudha R Narayanan"
   },
   {
-   "start": "2026-11-02T16:00:00-05:00",
-   "end": "2026-11-02T17:00:00-05:00",
-   "code": "",
-   "title": "GRiP",
-   "who": ""
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "CPO 6096",
+   "title": "Comp Qual and Mix Meth",
+   "who": "Sebastian Elischer"
   },
   {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T19:00:00-05:00",
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T22:00:00-05:00",
    "code": "",
-   "title": "Business Research Group GBM",
-   "who": ""
+   "title": "Dance Marathon - Miracle Bowl Backups",
+   "who": "Dance Marathon"
   }
  ]
 }

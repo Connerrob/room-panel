@@ -1,49 +1,49 @@
 {
  "room": "MCCA 2186",
  "subtitle": "McCarty Hall A · Second floor · Classroom · 28 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "TPP 3650",
-   "title": "Script Analysis",
-   "who": "Erin Lekovic"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "JOU 4201",
+   "title": "News Center Practicum",
+   "who": "Kevin Patrick Winter"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "LNW 3930",
-   "title": "Studies Latin Lit",
-   "who": "Victoria Emma Pagan-Wolpert"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "ZOO 4926",
+   "title": "Special Topics",
+   "who": "Jonathan Allen Nations"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "FYC 3201",
-   "title": "Founda Youth Develop",
-   "who": "Ketia Blanc"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "ITA 1130",
+   "title": "Beginning Italian 1",
+   "who": "Sherrie Ann Nunn"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SPN 4314",
-   "title": "Adv comp/struc hrtg",
-   "who": "Victor M Jordan"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "SLS 1102",
+   "title": "Enhanc Freshman Exper",
+   "who": "Adrian Mota Gutierrez"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "FRE 3410",
-   "title": "French Conv and Interac",
-   "who": "Helene Blondeau"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "WIS 5496",
+   "title": "Res Design Wildl Ecol",
+   "who": "Kathryn E Sieving"
   },
   {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T19:00:00-05:00",
+   "start": "2026-11-03T18:30:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
    "code": "",
-   "title": "Society for Conservation Biology Officer Meeting",
+   "title": "Florida Freediving Club",
    "who": ""
   }
  ]

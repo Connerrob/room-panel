@@ -1,50 +1,71 @@
 {
  "room": "LIT 0221",
  "subtitle": "Little Hall · Second floor · Classroom · 34 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "MAP 4413",
-   "title": "Fourier Ser and Trans 1",
-   "who": "Lei Zhang"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Avi Nava Mukhopadhyay"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "MAS 4301",
-   "title": "Abstract Algebra 1",
-   "who": "Francis G Garvan"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "MAC 2312",
+   "title": "Analyt Geom and Calc 2",
+   "who": "Stephen M Adams"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "MHF 3202",
-   "title": "Reasoning and Proof in Math",
-   "who": "Krishnaswami Alladi"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "MAC 2313",
+   "title": "Analyt Geom and Calc 3",
+   "who": "Jiun Shing Cho"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "MAD 4401",
-   "title": "Intr Numerical Analys",
-   "who": "Jason C Harrington"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "MAC 2312",
+   "title": "Analyt Geom and Calc 2",
+   "who": "Stephen M Adams"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "MAP 2302",
-   "title": "Elem Diff Equations",
-   "who": "David Joel Groisser"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "MAC 2312",
+   "title": "Analyt Geom and Calc 2",
+   "who": "Thai Hung Nguyen"
   },
   {
-   "start": "2026-11-02T17:00:00-05:00",
-   "end": "2026-11-02T21:00:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "MAC 2312",
+   "title": "Analyt Geom and Calc 2",
+   "who": "Stephen M Adams"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "MAC 2312",
+   "title": "Analyt Geom and Calc 2",
+   "who": "Stephen M Adams"
+  },
+  {
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Ashley Nicole Myrick"
+  },
+  {
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T21:00:00-05:00",
    "code": "",
-   "title": "Model United Nations Trainings",
-   "who": "Model UN"
+   "title": "PLHS In-House Mock Trial Scrimmages",
+   "who": "Pre-Legal Honor Society"
   }
  ]
 }

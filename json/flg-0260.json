@@ -1,77 +1,56 @@
 {
  "room": "FLG 0260",
  "subtitle": "Florida Gymnasium · Second floor · Classroom · 105 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "EML 4312",
-   "title": "Control of Dynamic Systems",
-   "who": "Emily Megan Palmer"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "HFT 3512",
+   "title": "Event Promotion",
+   "who": "Hwirim Jo"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "EML 4312",
-   "title": "Control of Dynamic Systems",
-   "who": "Jonathan T Brooks"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "EEL 4403",
+   "title": "Computat Photography",
+   "who": "Sanjeev Jagannatha Koppal"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SPM 4515",
-   "title": "Sport Business/Finan",
-   "who": "Tae Woong Yoo"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "PCB 3713C",
+   "title": "Cell and Syst Physiol",
+   "who": "David Julian"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "EML 4220",
-   "title": "Vibrations",
-   "who": "Richard C Lind Jr."
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "EMA 3010",
+   "title": "Materials",
+   "who": "Gayani Chathurika Pathiraja"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "LEI 3301",
-   "title": "Princ Travel/Tourism",
-   "who": "Yao-Chin Wang"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "SPM 4940",
+   "title": "Advanced Career Preparation",
+   "who": "Jessica Anne Francis"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "ADV 3403",
-   "title": "Branding",
-   "who": "Daniel M Windels"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "CCJ 3701",
-   "title": "Res Meth Criminology",
-   "who": "Mario Cano"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "HFT 4442",
-   "title": "AI Revolutions & Applications",
-   "who": "Hengxuan Chi"
-  },
-  {
-   "start": "2026-11-02T19:20:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T19:20:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
    "code": "",
    "title": "DTE Hold",
    "who": ""
   },
   {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
-   "title": "DTE BLOCKOUT",
+   "title": "COP5536 DTE Exams",
    "who": ""
   }
  ]

@@ -1,36 +1,29 @@
 {
  "room": "RNK 0210",
  "subtitle": "Rinker Hall · Second floor · Classroom · 42 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "BCN 3223C",
-   "title": "Soils and Concrete",
-   "who": "Larry C Muszynski"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "",
+   "title": "Teaching Center",
+   "who": "EM-OFFICE OF REGISTRAR"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "BCN 3223C",
-   "title": "Soils and Concrete",
-   "who": "Larry C Muszynski"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "INR 6607",
+   "title": "Internatnl Rela Theo",
+   "who": "Badredine Arfi"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "URP 6042",
-   "title": "Urban Economy",
-   "who": "Abhinav Alakshendra"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "IND 3483",
-   "title": "Int Des Const Documnt",
-   "who": "Genesis M Okken"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "BCN 4723",
+   "title": "Design-Bld Del Meth",
+   "who": "Russell C Walters"
   }
  ]
 }

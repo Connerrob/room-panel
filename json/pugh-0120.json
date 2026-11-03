@@ -1,50 +1,50 @@
 {
  "room": "PUGH 0120",
  "subtitle": "Pugh Hall · First floor · Classroom · 48 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "ENU 4605",
-   "title": "Radia Interac Sourc 1",
-   "who": "Allen Ira Harkness III"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "IDS 2935",
+   "title": "Special Topics",
+   "who": "Kepra Anoa Young"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "CJL 3038",
-   "title": "Law and Society",
-   "who": "Jihyeong Lee"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ADV 4331",
+   "title": "AI-Driven Social Media Insight",
+   "who": "TBD"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "POR 3242",
-   "title": "Oral/Written Practice",
-   "who": "Mariana Oliveira"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "SYD 4650",
+   "title": "Sociology of South Asia",
+   "who": "Ravi Ramrao Ghadge"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:05:00-05:00",
    "code": "",
-   "title": "Teaching Center - Monday",
+   "title": "Teaching Center",
+   "who": "EM-OFFICE OF REGISTRAR"
+  },
+  {
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "AST 2032",
+   "title": "Nature of Time",
+   "who": "Zachary Scott Slepian"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T19:30:00-05:00",
+   "code": "",
+   "title": "GatorTech General Body Meetings (GBMs)",
    "who": ""
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "CEN 5728",
-   "title": "Ux Design",
-   "who": "Christina Gardner-McCune"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "SYA 4930",
-   "title": "Special Study",
-   "who": "Evan Wilson Lauteria"
   }
  ]
 }

@@ -1,57 +1,57 @@
 {
  "room": "CSE E119",
  "subtitle": "Computer Sciences Engineering Building · First floor · Classroom · 96 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "EEL 3111C",
-   "title": "Circuits 1",
-   "who": "Raul Dario Chipana Quispe"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "EMA 3050",
+   "title": "Inorganic Materials",
+   "who": "Flavia Da Cruz Gallo"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "EEL 3111C",
-   "title": "Circuits 1",
-   "who": "Erin E Patrick"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "GER 1130",
+   "title": "Beginning German 1",
+   "who": "Barbara Caroline Mennel"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "CIS 6307",
-   "title": "Internet Data Streaming",
-   "who": "Shigang Chen"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ANT 2464",
+   "title": "Intro Medical Anthropology",
+   "who": "Adrienne E Strong"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ANT 3555",
-   "title": "Monkeys, Apes, and Lemurs",
-   "who": "Kim L Valenta"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "ANT 2000",
+   "title": "General Anthropology",
+   "who": "Katherine M Grillo"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "AST 3043",
-   "title": "History of Astronomy",
-   "who": "Naibi Marinas"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "LEI 4880",
+   "title": "Research Methods in THEM",
+   "who": "Andrey Petrovich Kirilenko"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "EIN 3241",
-   "title": "Hum. Fac. & Ergo",
-   "who": "Jad Atweh"
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "CGN 4910",
+   "title": "Struc-Geotech Constru",
+   "who": "Monrad R Thue"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "EGM 3344",
-   "title": "Numerical Methods Engineering",
-   "who": "James Paul Fairbanks"
+   "start": "2026-11-03T19:05:00-05:00",
+   "end": "2026-11-03T21:30:00-05:00",
+   "code": "",
+   "title": "New Age Radio Club GBM",
+   "who": "New Age Radio Club"
   }
  ]
 }

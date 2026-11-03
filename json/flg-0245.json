@@ -1,64 +1,64 @@
 {
  "room": "FLG 0245",
  "subtitle": "Florida Gymnasium · Second floor · Classroom · 60 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Martina Sumner"
+  },
+  {
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "SPM 3306",
+   "title": "Sport Marketing",
+   "who": "Yonghwan Chang"
+  },
+  {
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "WST 3610",
+   "title": "Gender Race Science",
+   "who": "Hina Shaikh"
+  },
+  {
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ATR 2010C",
+   "title": "Prevent/Care Injuries",
+   "who": "Christopher D Brown"
+  },
+  {
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "SLS 1102",
+   "title": "Enhanc Freshman Exper",
+   "who": "Kiara Monet Shaw"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
    "code": "SPM 3109",
    "title": "Sport Event Management",
-   "who": "Elif Vozar"
+   "who": "Cynthia L Willming"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "SPM 3204",
-   "title": "Ethcl Issues in Sport",
-   "who": "Emily Lauren Plunkett"
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Martina Sumner"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SPM 4154",
-   "title": "Managing Sport Organizations",
-   "who": "Jasamine Hill"
-  },
-  {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "APK 4115",
-   "title": "Neuromuscular Aspects",
-   "who": "Evangelos A Christou"
-  },
-  {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SPM 2000",
-   "title": "Intro Sport Mgmt",
-   "who": "David Lucier"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "APK 4115",
-   "title": "Neuromuscular Aspects",
-   "who": "Diego Luis Guarin Lopez"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "HFT 3253",
-   "title": "Lodging Oper and Mgmt",
-   "who": "Ahmad Mujafar Syah"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "ESI 4313",
-   "title": "Operations Research 2",
-   "who": "Murwan Siddig"
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Martina Sumner"
   }
  ]
 }

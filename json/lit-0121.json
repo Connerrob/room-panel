@@ -1,47 +1,61 @@
 {
  "room": "LIT 0121",
  "subtitle": "Little Hall · G - Ground floor · Classroom · 81 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "EML 5526",
-   "title": "Finite Elem Analysis",
-   "who": "Ashok V Kumar"
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T08:15:00-05:00",
+   "code": "INR 4244",
+   "title": "Internatl Pol Lat Am",
+   "who": "Andrew James Janusz"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "EEE 3396",
-   "title": "Solid State Electron",
-   "who": "Laura Kim"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "STA 4322",
+   "title": "Intro Statistics Thry",
+   "who": "Kshitij Khare"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "HUN 4446",
-   "title": "Nutrition and Disease 2",
-   "who": "Stacey Lloyd Mobley"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "AFS 2301",
+   "title": "Wealth and Poverty in World",
+   "who": "Renata Serra"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "AST 2031",
-   "title": "Knowledge and the Universe",
-   "who": "Michael Rutkowski"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "EAB 4184",
+   "title": "Behav Contemp Society",
+   "who": "Jesse Dallery"
   },
   {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "ENC 1101",
+   "title": "Expos and Argu Writing",
+   "who": "Scott Thompson"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "BME 3101",
+   "title": "Biomedical Materials",
+   "who": "Lesleyann Wah Chow"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
    "code": "",
-   "title": "WiCSE  - First Byte",
-   "who": ""
+   "title": "Gator User Design Events",
+   "who": "Gator User Design"
   },
   {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
    "title": "DTE BLOCKOUT",
    "who": ""

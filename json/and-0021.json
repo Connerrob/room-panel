@@ -1,43 +1,50 @@
 {
  "room": "AND 0021",
  "subtitle": "Anderson Hall · G - Ground floor · Classroom · 38 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "ADV 3001",
-   "title": "Advertising Strategy",
-   "who": "Bobi Ivanov"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "ANT 3153",
+   "title": "No American Archaeol",
+   "who": "Neill Jansen Wallis"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "LAH 3931",
-   "title": "Special Topics",
-   "who": "Thais Rezende DA Silva DE Sant'Ana"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "IND 1010",
+   "title": "Humanity Design: Int, Cns, Chg",
+   "who": "Jason Meneely"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "PHM 3202",
-   "title": "Political Philosophy",
-   "who": "Jonathan D Rick"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Yazan Mohammed Alamoudi"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "POS 4931",
-   "title": "Special Topics in Poli Sci",
-   "who": "TBD"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "HSC 2103",
+   "title": "Personal Family Hlth",
+   "who": "Kristina Marie Garcia-Guettler"
   },
   {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "POS 4258",
+   "title": "Politics Ficton Film",
+   "who": "Stacey Michelle Liou"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T19:30:00-05:00",
    "code": "",
-   "title": "Phi Sigma Rho Stem Event",
-   "who": "Phi Sigma Rho"
+   "title": "European Union Club",
+   "who": "European Union Club"
   }
  ]
 }

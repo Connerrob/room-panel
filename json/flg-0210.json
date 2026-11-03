@@ -1,75 +1,68 @@
 {
  "room": "FLG 0210",
  "subtitle": "Florida Gymnasium · Second floor · Classroom · 105 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "ATR 2010C",
-   "title": "Prevent/Care Injuries",
-   "who": "Paul A Borsa"
+   "start": "2026-11-03T07:25:00-05:00",
+   "end": "2026-11-03T08:15:00-05:00",
+   "code": "APK 4050",
+   "title": "Research Methods",
+   "who": "Ashley Joslin Smuder"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "SPM 4510",
-   "title": "Revenue Generation in Sport",
-   "who": "Kelsey Morgan Garrison"
-  },
-  {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "HFT 2750",
-   "title": "Event Management",
-   "who": "Tobi Anne Marie King"
-  },
-  {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "SPM 4104",
-   "title": "Sprt Ops & Faclt Mgt",
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "SPM 4723",
+   "title": "Legl Iss in Sprt",
    "who": "David Lucier"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "SPM 4724",
-   "title": "Risk Mgt-Live Ent Spt",
-   "who": "Brian D Avery"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "APK 3220C",
+   "title": "Biomechan Bas Movemnt",
+   "who": "Julia Choi"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "HSC 4713",
-   "title": "Plan & Eval Hlth Edu",
-   "who": "Erik Wade Black"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "LEI 2090",
+   "title": "Career Preparation in THEM",
+   "who": "Jin Won Kim"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "LEI 4540",
-   "title": "Mgmt & Supv of THEM Facilities",
-   "who": "Won Ji Chung"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "EMA 3080C",
+   "title": "Materials Lab 1",
+   "who": "Nancy Jean Ruzycki"
   },
   {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "APK 4050",
-   "title": "Research Methods",
-   "who": "James H Cauraugh"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "HFT 4468",
+   "title": "Hospitality Rev Mgmt",
+   "who": "Jin Won Kim"
   },
   {
-   "start": "2026-11-02T19:20:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "SPM 3204",
+   "title": "Ethcl Issues in Sport",
+   "who": "Edmund J Mccloskey"
+  },
+  {
+   "start": "2026-11-03T19:20:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
    "code": "",
    "title": "DTE Hold",
    "who": ""
   },
   {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
    "title": "DTE BLOCKOUT",
    "who": ""

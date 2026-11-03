@@ -1,35 +1,42 @@
 {
  "room": "MAT 0105",
  "subtitle": "Matherly Hall · First floor · Classroom · 42 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "JPN 1130",
-   "title": "Beginning Japanese 1",
-   "who": "Risa Wada"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "GEO 3502",
+   "title": "Economic Geography",
+   "who": "Olivier Jean Walther"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "REL 2240",
+   "title": "New Testament",
+   "who": "Jeyoul Choi"
+  },
+  {
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "SYA 4930",
+   "title": "Special Study",
+   "who": "Edo Navot"
+  },
+  {
+   "start": "2026-11-03T16:00:00-05:00",
+   "end": "2026-11-03T17:45:00-05:00",
    "code": "",
-   "title": "CHM2211 SI Diya B and Harini RV (Chemistry)",
-   "who": ""
+   "title": "FLEG EVP Event",
+   "who": "Freshman Leadership Engineering Group"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "ENC 2305",
-   "title": "Analytical Writing",
-   "who": "Felipe Gonzalez Silva"
-  },
-  {
-   "start": "2026-11-02T18:00:00-05:00",
-   "end": "2026-11-02T19:00:00-05:00",
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
    "code": "",
-   "title": "American Marketing Association",
+   "title": "First Responder Gator",
    "who": ""
   }
  ]

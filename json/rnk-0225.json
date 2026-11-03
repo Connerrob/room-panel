@@ -1,36 +1,22 @@
 {
  "room": "RNK 0225",
  "subtitle": "Rinker Hall · Second floor · Classroom",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "URP 6100",
-   "title": "Plan Theory and History",
-   "who": "Kristin Esther Larsen"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "IND 1020",
+   "title": "Design Innovation",
+   "who": "Genesis M Okken"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "BCN 5905",
-   "title": "Specl Studies Constrn",
-   "who": "Chaofeng Wang"
-  },
-  {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "DCP 1241",
-   "title": "Spatial and Systems Thinkin",
-   "who": "Harold S Knowles III"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "BCN 5905",
-   "title": "Specl Studies Constrn",
-   "who": "Ian Flood"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "BCN 5789C",
+   "title": "Construction Project Develop",
+   "who": "Gabriel Ernesto Castelblanco Bolivar"
   }
  ]
 }

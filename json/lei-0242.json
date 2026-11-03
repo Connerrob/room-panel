@@ -1,43 +1,43 @@
 {
  "room": "LEI 0242",
  "subtitle": "Leigh Hall · Second floor · Classroom · 40 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "CHM 6580",
-   "title": "Spec Top Phys Chem",
-   "who": "Clifford Russell Bowers"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "CHM 4412",
+   "title": "Phys Chem Bond Spec",
+   "who": "Ramon Alain Miranda Quintana"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SPN 1130",
-   "title": "Beginning Spanish 1",
-   "who": "Maria Fernanda Londono Ramos"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "CHM 6227",
+   "title": "Top Synthet Organic",
+   "who": "Daniel Seidel"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "CHM 4411L",
-   "title": "Phys Chemistry Lab",
-   "who": "Philip J Brucat"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "CLT 3291",
+   "title": "Greek Drama",
+   "who": "Dinis Andre Trindade"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "RUT 4440",
-   "title": "Pushkin and Gogol",
-   "who": "Galina S Rylkova"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T19:00:00-05:00",
    "code": "",
-   "title": "CHM2211 SI Maggie H and Katherine L (Chemistry)",
+   "title": "Generational Relief in Prosthetics Research Team Meeting",
    "who": ""
+  },
+  {
+   "start": "2026-11-03T19:15:00-05:00",
+   "end": "2026-11-03T20:45:00-05:00",
+   "code": "",
+   "title": "AI in Healthcare club workshop ",
+   "who": "AI in Healthcare club"
   }
  ]
 }

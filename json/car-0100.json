@@ -1,77 +1,56 @@
 {
  "room": "CAR 0100",
  "subtitle": "Carleton Auditorium · G - Ground floor · Classroom · 679 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "COP 3503C",
-   "title": "Prog Fundamentals 2",
-   "who": "Fatemeh Tavassoli"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "COT 3100",
+   "title": "Appli Discrete Struc",
+   "who": "Alireza Entezari"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "MAS 3114",
-   "title": "Computatnl Linear Alg",
-   "who": "Amit Mahesh Bhat"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "COP 3502C",
+   "title": "Prog Fundamentals 1",
+   "who": "Ashish Aggarwal"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "MAC 2311",
-   "title": "Analyt Geom and Calc 1",
-   "who": "Nour Al Deen Maher El Hatto"
-  },
-  {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "MAC 2312",
-   "title": "Analyt Geom and Calc 2",
-   "who": "Stephen M Adams"
-  },
-  {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "MAC 2313",
-   "title": "Analyt Geom and Calc 3",
-   "who": "Jiun Shing Cho"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "GEB 2216",
-   "title": "Prof Business Writing",
-   "who": "Sean Trainor"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "MAC 2233",
-   "title": "Survey of Calculus 1",
-   "who": "Larissa Grigorievna Williamson"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "BSC 2011",
-   "title": "Integra Princ Biol 2",
-   "who": "Samantha Lauren Young Pryer"
-  },
-  {
-   "start": "2026-11-02T17:10:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "COP 4020",
-   "title": "Program Lang Concepts",
-   "who": "William B Anderson"
-  },
-  {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T12:00:00-05:00",
+   "end": "2026-11-03T13:30:00-05:00",
    "code": "",
-   "title": "ECO2013 Exams -- DTE ASSEMBLY EXAMS",
+   "title": "Empowering UF Manager Info Session - UFIT & HR",
+   "who": ""
+  },
+  {
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "COP 3530",
+   "title": "Data Struc/Algorithms",
+   "who": "Amanpreet Kapoor"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "COP 4600",
+   "title": "Operating Systems",
+   "who": "Alexandre Gomes de Siqueira"
+  },
+  {
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "CDA 3101",
+   "title": "Intro to Compu Orgnzn",
+   "who": "Marvin J Andujar"
+  },
+  {
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
+   "code": "",
+   "title": "MAP2302 Exams -- DTE Assembly Exams",
    "who": ""
   }
  ]

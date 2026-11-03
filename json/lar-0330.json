@@ -1,68 +1,47 @@
 {
  "room": "LAR 0330",
  "subtitle": "Larsen Hall · Third floor · Classroom · 65 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "EEL 4514C",
-   "title": "Comm Sys and Comp",
-   "who": "Mingyue Ji"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "EEL 4657C",
+   "title": "Linear Control System",
+   "who": "Wenqian Xue"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "WST 2322",
-   "title": "Intr Hlth Disparities",
-   "who": "Olivia Rose Adams"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "EEE 4331",
+   "title": "Microelec Fabrication",
+   "who": "Ant Ural"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "EML 6934",
-   "title": "Topics Mech Engr",
-   "who": "John Kenneth Schueller"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "EML 4501",
+   "title": "ME Design 2",
+   "who": "Umesh Dharamdeo Persad"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "EEE 4306",
-   "title": "Electronic Circuits 2",
-   "who": "Adam Khalifa"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "INS 2004",
+   "title": "I.S. Perspectives",
+   "who": "Onursal Erol"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "EEL 4473",
-   "title": "Electromag Flds Apps",
-   "who": "Robert C Moore"
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Steven Harris"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "ENV 3040C",
-   "title": "Computa Meth Env Eng",
-   "who": "James Cahill"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "EEL 4924C",
-   "title": "Elec Engr Design 2",
-   "who": "Eric A Liebner"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "EEL 4745C",
-   "title": "Microprocessor Apps 2",
-   "who": "Md Jahidul Islam"
-  },
-  {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
    "title": "DTE BLOCKOUT",
    "who": ""

@@ -1,43 +1,57 @@
 {
  "room": "WEIL 0234",
  "subtitle": "Weil Hall · Second floor · Classroom · 40 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "ENU 5005",
-   "title": "Introduction to Nuclear Eng",
-   "who": "Andreas Per Jon Enqvist"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "EGM 4592",
+   "title": "Bio-Solid Mechanics",
+   "who": "Xin Tang"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ENC 3601",
-   "title": "Professional Writing in AI",
-   "who": "Zea Edward Miller"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "CGN 4404",
+   "title": "Applied Data Sci in CE & EES",
+   "who": "Xiang Yan"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "EML 5104",
-   "title": "Classical/Stat Thermo",
-   "who": "Jing Pan"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "CGN 4304",
+   "title": "Machine Learning Apps in CE",
+   "who": "Xilei Zhao"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "AFA 3930",
-   "title": "Special Topics",
-   "who": "Julia Margaret Mollenthiel"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "ESI 6420",
+   "title": "Fund Math Programming",
+   "who": "Yongpei Guan"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "LEI 6895",
-   "title": "Tourism Theory and Con",
-   "who": "Heather Julie Gibson"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "ENU 6051",
+   "title": "Radi Interac Bas Ap 1",
+   "who": "Nathalie A Wall"
+  },
+  {
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "",
+   "title": "Professional Development Event",
+   "who": ""
+  },
+  {
+   "start": "2026-11-03T18:30:00-05:00",
+   "end": "2026-11-03T20:30:00-05:00",
+   "code": "",
+   "title": "Gator Star Wars 1st GBM",
+   "who": ""
   }
  ]
 }

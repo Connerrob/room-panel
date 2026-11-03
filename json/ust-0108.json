@@ -1,22 +1,43 @@
 {
  "room": "UST 0108",
  "subtitle": "Ustler Hall · First floor · Classroom · 24 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "CES 5010",
-   "title": "Prob Stochastic Meth",
-   "who": "Kurtis R Gurley"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "ADV 4300",
+   "title": "Media Planning",
+   "who": "Won Ki Moon"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "WST 6935",
-   "title": "Spec Interdis Topics",
-   "who": "Alyssa N Zucker"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "OCP 6167",
+   "title": "Ocean Waves 2 Nonlin",
+   "who": "Alexandru Aurica Sheremet"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "IDS 2935",
+   "title": "Special Topics",
+   "who": "Riley Theodore Barker"
+  },
+  {
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "WST 4935",
+   "title": "Capstone Seminar",
+   "who": "Hina Shaikh"
+  },
+  {
+   "start": "2026-11-03T19:30:00-05:00",
+   "end": "2026-11-03T21:30:00-05:00",
+   "code": "",
+   "title": "Florida Cicerones Executive Board Meetings",
+   "who": ""
   }
  ]
 }

@@ -1,57 +1,43 @@
 {
  "room": "LIT 0127",
  "subtitle": "Little Hall · G - Ground floor · Classroom · 35 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "AFA 3110",
-   "title": "Afr Am/Blk Atln Thght",
-   "who": "Robert Louis Stevenson Jr."
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Sakshi Kandpal"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "MAT 3503",
-   "title": "Functions and Modeling",
-   "who": "Konstantina Christodoulopoulou"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "PHI 4930",
+   "title": "Special Topics",
+   "who": "Gregory Brian Ray"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "AMH 4319",
-   "title": "Crime/Punish Am Hist",
-   "who": "Chris Lause"
-  },
-  {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "ENC 3246",
-   "title": "Prof Comm Engineers",
-   "who": "Zea Edward Miller"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "SYG 2000",
-   "title": "Intro to Sociology",
-   "who": "Kashmaya Andreas Rincon"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T19:05:00-05:00",
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
    "code": "JPN 4930",
    "title": "Special Topics",
    "who": "Caitlin O'Donnell Casiello"
   },
   {
-   "start": "2026-11-02T19:30:00-05:00",
-   "end": "2026-11-02T21:00:00-05:00",
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "EUH 3671",
+   "title": "Jewish Hy 1492-1750",
+   "who": "Yehoshua Ecker"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
    "code": "",
-   "title": "Camp Kesem at The University of Florida Exec Meeting ",
-   "who": "Camp Kesem"
+   "title": "NSBWM EBM5",
+   "who": ""
   }
  ]
 }

@@ -1,36 +1,43 @@
 {
  "room": "MCCB 2102",
  "subtitle": "McCarty Hall B · Second floor · Classroom · 40 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "AEB 7504",
-   "title": "Math Stats for Applied Econ",
-   "who": "Charles Britt Moss"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "AEB 4085",
+   "title": "Ag Risk Manage and Law",
+   "who": "Michael T Olexa"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "AEB 6933",
-   "title": "Special Topics",
-   "who": "Lisa Ann House"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "AEB 4085",
+   "title": "Ag Risk Manage and Law",
+   "who": "Michael T Olexa"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "ENC 3254",
-   "title": "Professional & Public Writing",
-   "who": "Christie Brooke Debelius"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "CAP 5705",
+   "title": "Computer Graphics",
+   "who": "Jorg Peters"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "HUN 6235",
-   "title": "Macronutrients in Human Nutr",
-   "who": "Zhiyong Cheng"
+   "start": "2026-11-03T17:15:00-05:00",
+   "end": "2026-11-03T18:45:00-05:00",
+   "code": "",
+   "title": "Human Performance Research Society GBM",
+   "who": "Human Performance Research Society "
+  },
+  {
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "The Neuroscience Club",
+   "who": ""
   }
  ]
 }

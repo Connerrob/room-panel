@@ -1,43 +1,50 @@
 {
  "room": "DAU 0342",
  "subtitle": "Dauer Hall · Third floor · Classroom · 20 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
    "code": "RUS 2220",
    "title": "Intermediate Russian",
    "who": "Michael S Gorham"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
    "code": "JPN 2230",
    "title": "Intermed Japanese 1",
    "who": "Kensaku Ogata"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "LAT 1104",
-   "title": "Beginning Latin 3",
-   "who": "Esteban Arango Casas"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ANT 4392",
+   "title": "Peoples of the Arctic",
+   "who": "Peter F Collings"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "JPN 2230",
-   "title": "Intermed Japanese 1",
-   "who": "Kensaku Ogata"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "JPW 4130",
+   "title": "Reading Japanese Lit",
+   "who": "Caitlin O'Donnell Casiello"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "CLA 4931",
-   "title": "Classics Capstone",
-   "who": "Andrew Oxman Wolpert"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "JPT 3150",
+   "title": "Classicl Japan Poetry",
+   "who": "Eric Jose Esteban"
+  },
+  {
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "",
+   "title": "Linguistics Workshop",
+   "who": ""
   }
  ]
 }

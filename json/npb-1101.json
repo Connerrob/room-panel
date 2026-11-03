@@ -1,71 +1,71 @@
 {
  "room": "NPB 1101",
  "subtitle": "New Physics Building · First floor · Classroom · 46 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "PHY 2053",
-   "title": "Physics 1",
-   "who": "Imre Bartos"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "PHY 2054",
+   "title": "Physics 2",
+   "who": "Jeremiah D Anglin"
   },
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "PHY 6246",
-   "title": "Classical Mechanics",
-   "who": "Jeffrey J Andrews"
-  },
-  {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "PHY 6645",
-   "title": "Quantum Mechanics 1",
-   "who": "Christopher Jay Stanton"
-  },
-  {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "PHY 2053",
-   "title": "Physics 1",
-   "who": "Imre Bartos"
-  },
-  {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
    "code": "PHY 2048",
    "title": "Physics With Calc 1",
    "who": "John M Yelton"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "PHY 4222",
-   "title": "Mechanics 2",
-   "who": "Dominique Laroche"
-  },
-  {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "PHY 6346",
-   "title": "Electromag Theory 1",
-   "who": "Wei Xue"
-  },
-  {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T16:55:00-05:00",
-   "code": "PHY 2053",
-   "title": "Physics 1",
-   "who": "Imre Bartos"
-  },
-  {
-   "start": "2026-11-02T17:10:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
    "code": "PHY 2048",
    "title": "Physics With Calc 1",
-   "who": "Ethan Tobias Angerhofer"
+   "who": "John M Yelton"
+  },
+  {
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "PHY 2054",
+   "title": "Physics 2",
+   "who": "Jeremiah D Anglin"
+  },
+  {
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "PHY 5905",
+   "title": "Individual Work",
+   "who": "TBD"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "PHY 2054",
+   "title": "Physics 2",
+   "who": "Yuan Gao"
+  },
+  {
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "PHY 2054",
+   "title": "Physics 2",
+   "who": "Sujata Krishna"
+  },
+  {
+   "start": "2026-11-03T17:10:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "PHY 2054",
+   "title": "Physics 2",
+   "who": "Sujata Krishna"
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "Kappa Alpha Pi Pre-Law and Government Fraternity Mock Trial Meeting",
+   "who": ""
   }
  ]
 }

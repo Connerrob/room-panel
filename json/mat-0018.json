@@ -1,47 +1,68 @@
 {
  "room": "MAT 0018",
  "subtitle": "Matherly Hall · G - Ground floor · Classroom · 83 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "ECP 4423",
-   "title": "Govt Regula of Bus",
-   "who": "Roger D Blair"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Martina Sumner"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "ECO 4400",
-   "title": "Game Theory and Applica",
-   "who": "Fatma Busra Gunay"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "CHM 4300L",
+   "title": "Lab Biochem Molec Bio",
+   "who": "Alix Marie Rexford"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "PHI 2010",
-   "title": "Intro to Philosophy",
-   "who": "James C Simpson"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "ECO 4421",
+   "title": "Econometrics",
+   "who": "Yuchen Zhu"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "EAS 4300",
-   "title": "Aero Propulsion",
-   "who": "Anup C Mannem"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "POS 4931",
+   "title": "Special Topics in Poli Sci",
+   "who": "Sharon Denise Austin"
   },
   {
-   "start": "2026-11-02T19:00:00-05:00",
-   "end": "2026-11-02T20:00:00-05:00",
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Steven Harris"
+  },
+  {
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "CHM 2045",
+   "title": "General Chemistry",
+   "who": "Martina Sumner"
+  },
+  {
+   "start": "2026-11-03T17:00:00-05:00",
+   "end": "2026-11-03T18:30:00-05:00",
    "code": "",
-   "title": "Camp Kesem at The University of Florida Meeting ",
-   "who": "Camp Kesem"
+   "title": "Disparity in Dentistry - DND1001 Lecture",
+   "who": "Disparity in Dentistry"
   },
   {
-   "start": "2026-11-02T20:20:00-05:00",
-   "end": "2026-11-02T22:10:00-05:00",
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "First Generation Lawyers",
+   "who": "First Generation Lawyers"
+  },
+  {
+   "start": "2026-11-03T20:20:00-05:00",
+   "end": "2026-11-03T22:10:00-05:00",
    "code": "",
    "title": "DTE BLOCKOUT",
    "who": ""

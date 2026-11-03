@@ -1,57 +1,57 @@
 {
  "room": "FLG 0285",
  "subtitle": "Florida Gymnasium · Second floor · Classroom · 50 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T07:25:00-05:00",
-   "end": "2026-11-02T08:15:00-05:00",
-   "code": "APK 4120",
-   "title": "Clinical Exer Physiol",
-   "who": "Anna Katlyn Gardner"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T09:20:00-05:00",
+   "code": "HSC 3185",
+   "title": "Intro Hlth & Wellness Coaching",
+   "who": "Ashlee Rene Hoffman-Ossiboff"
   },
   {
-   "start": "2026-11-02T08:30:00-05:00",
-   "end": "2026-11-02T09:20:00-05:00",
-   "code": "APK 4120",
-   "title": "Clinical Exer Physiol",
-   "who": "Anna Katlyn Gardner"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "HSC 3537",
+   "title": "Hlth and Med Terminolgy",
+   "who": "Ashlee Rene Hoffman-Ossiboff"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "HSC 2103",
-   "title": "Personal Family Hlth",
-   "who": "Erik Wade Black"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "PET 4262",
+   "title": "Sport Career Trans.",
+   "who": "Molly Page Harry"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "APK 3113C",
-   "title": "Prin Stren Train Cond",
-   "who": "Benjamin T Gordon"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "APK 4144",
+   "title": "Mov Neuroscience",
+   "who": "Bradley J Wilkes"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "ESI 6325",
-   "title": "Appl Probability Meth",
-   "who": "Tobias Lodemann"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "APK 4144",
+   "title": "Mov Neuroscience",
+   "who": "Zheng Wang"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "SPM 3306",
-   "title": "Sport Marketing",
-   "who": "Shu-Hao Chang"
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T18:00:00-05:00",
+   "code": "HSC 6318",
+   "title": "Plan Hlth Ed Program",
+   "who": "Amy Lynn Rossi"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "SPM 4725",
-   "title": "Advanced Legl Aspects",
-   "who": "Brian D Avery"
+   "start": "2026-11-03T18:30:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "Sports Analytics Club (Sports Management)",
+   "who": ""
   }
  ]
 }

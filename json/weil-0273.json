@@ -1,36 +1,43 @@
 {
  "room": "WEIL 0273",
  "subtitle": "Weil Hall · Second floor · Classroom · 33 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "JOU 4201",
-   "title": "News Center Practicum",
-   "who": "Shemar Russell Woods"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "MMC 2604",
+   "title": "Media, Cultures, and Identity",
+   "who": "Maria Fernanda Camacho Prieto"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "ENC 2305",
-   "title": "Analytical Writing",
-   "who": "Melissa Lyn Mellon"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "ENC 1102",
+   "title": "Argument and Persuasion",
+   "who": "Scott Thompson"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "THE 3231",
-   "title": "Afric/Amer Hist/Prac",
-   "who": "Ryan H Travis"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "EOC 6939",
+   "title": "Grad Coastal Eng Sem",
+   "who": "Alberto Canestrelli"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "CES 6706",
-   "title": "Adv Reinf Concrete",
-   "who": "Theodor Krauthammer"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "EOC 6934",
+   "title": "Adv Topics Coast and Oc",
+   "who": "Xiao Yu"
+  },
+  {
+   "start": "2026-11-03T17:30:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "TB Meeting",
+   "who": ""
   }
  ]
 }

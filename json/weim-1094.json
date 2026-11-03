@@ -1,43 +1,43 @@
 {
  "room": "WEIM 1094",
  "subtitle": "Weimer Hall · First floor · Classroom · 49 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "EGM 3400",
-   "title": "Elements of Dynamics",
-   "who": "Philip B Jackson"
+   "start": "2026-11-03T08:30:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "PSY 2012",
+   "title": "General Psychology",
+   "who": "Kyleigh Lorraine Montague"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "APK 3113C",
-   "title": "Prin Stren Train Cond",
-   "who": "Benjamin T Gordon"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "APK 3110C",
+   "title": "Physio Exercise/Train",
+   "who": "Demetra Demetriou Christou"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "DIE 4245",
-   "title": "Medical Nutrition 1",
-   "who": "Laura Jane Acosta"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "APK 4144",
+   "title": "Mov Neuroscience",
+   "who": "Bradley J Wilkes"
   },
   {
-   "start": "2026-11-02T15:00:00-05:00",
-   "end": "2026-11-02T15:50:00-05:00",
-   "code": "ENU 4134",
-   "title": "Reactor Thermal Engineering 3",
-   "who": "Duwayne Schubring"
+   "start": "2026-11-03T16:05:00-05:00",
+   "end": "2026-11-03T19:05:00-05:00",
+   "code": "PUR 5507",
+   "title": "Prsuasn Thry and Rsrch",
+   "who": "Spiro K Kiousis"
   },
   {
-   "start": "2026-11-02T16:05:00-05:00",
-   "end": "2026-11-02T18:00:00-05:00",
-   "code": "ENU 4191",
-   "title": "Elements Nuc Engr Des",
-   "who": "Duwayne Schubring"
+   "start": "2026-11-03T19:15:00-05:00",
+   "end": "2026-11-03T20:05:00-05:00",
+   "code": "",
+   "title": "Lucero Films GBM",
+   "who": "Lucero films"
   }
  ]
 }

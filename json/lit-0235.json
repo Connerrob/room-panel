@@ -1,42 +1,63 @@
 {
  "room": "LIT 0235",
  "subtitle": "Little Hall · Second floor · Classroom · 34 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
-   "code": "MAA 4211",
-   "title": "Real Analysis and Adv Calc 1",
-   "who": "Cheng Yu"
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Ashley Nicole Myrick"
   },
   {
-   "start": "2026-11-02T11:45:00-05:00",
-   "end": "2026-11-02T12:35:00-05:00",
-   "code": "ENC 2256",
-   "title": "Writing in the Disciplines",
-   "who": "Jennifer Lee Coenen"
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Thomas Garrison"
   },
   {
-   "start": "2026-11-02T12:50:00-05:00",
-   "end": "2026-11-02T13:40:00-05:00",
-   "code": "MAS 4301",
-   "title": "Abstract Algebra 1",
-   "who": "Alexander Berkovich"
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T12:35:00-05:00",
+   "code": "MAC 2312",
+   "title": "Analyt Geom and Calc 2",
+   "who": "Thai Hung Nguyen"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "MHF 3202",
-   "title": "Reasoning and Proof in Math",
-   "who": "Alexander Berkovich"
+   "start": "2026-11-03T12:50:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "MAC 1147",
+   "title": "Algebra and Trigonometry",
+   "who": "Patrick T Carmichael"
   },
   {
-   "start": "2026-11-02T17:45:00-05:00",
-   "end": "2026-11-02T20:15:00-05:00",
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T14:45:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Sakshi Kandpal"
+  },
+  {
+   "start": "2026-11-03T15:00:00-05:00",
+   "end": "2026-11-03T15:50:00-05:00",
+   "code": "MAC 2311",
+   "title": "Analyt Geom and Calc 1",
+   "who": "Alex Mustard"
+  },
+  {
+   "start": "2026-11-03T16:30:00-05:00",
+   "end": "2026-11-03T17:30:00-05:00",
    "code": "",
-   "title": "Sigma Gamma Rho Crocs and Convos",
+   "title": "Embodied Intelligence Group",
+   "who": ""
+  },
+  {
+   "start": "2026-11-03T18:00:00-05:00",
+   "end": "2026-11-03T20:00:00-05:00",
+   "code": "",
+   "title": "GRiP Research Meeting",
    "who": ""
   }
  ]

@@ -1,29 +1,36 @@
 {
  "room": "UST 0104",
  "subtitle": "Ustler Hall · First floor · Classroom · 10 seats",
- "date": "2026-11-02",
- "generated": "2026-11-02T07:12:07-05:00",
+ "date": "2026-11-03",
+ "generated": "2026-11-03T07:05:40-05:00",
  "bookings": [
   {
-   "start": "2026-11-02T09:35:00-05:00",
-   "end": "2026-11-02T10:25:00-05:00",
+   "start": "2026-11-03T09:35:00-05:00",
+   "end": "2026-11-03T10:25:00-05:00",
    "code": "POL 1130",
    "title": "Pol Lang and Culture 1",
    "who": "Agata Olga Kowalewska"
   },
   {
-   "start": "2026-11-02T10:40:00-05:00",
-   "end": "2026-11-02T11:30:00-05:00",
-   "code": "SWA 1130",
-   "title": "Beginning Swahili 1",
+   "start": "2026-11-03T10:40:00-05:00",
+   "end": "2026-11-03T11:30:00-05:00",
+   "code": "LIN 4930",
+   "title": "Special Topics",
+   "who": "Fiona McLaughlin"
+  },
+  {
+   "start": "2026-11-03T11:45:00-05:00",
+   "end": "2026-11-03T13:40:00-05:00",
+   "code": "AFS 6905",
+   "title": "Individual Work",
    "who": "John Munyui Muchira"
   },
   {
-   "start": "2026-11-02T13:55:00-05:00",
-   "end": "2026-11-02T14:45:00-05:00",
-   "code": "CZE 2200",
-   "title": "Intermediate Czech 1",
-   "who": "Holly Kay Raynard"
+   "start": "2026-11-03T13:55:00-05:00",
+   "end": "2026-11-03T16:55:00-05:00",
+   "code": "SYA 6018",
+   "title": "Classic Sociol Theory",
+   "who": "Rebecca Annice Hanson"
   }
  ]
 }
